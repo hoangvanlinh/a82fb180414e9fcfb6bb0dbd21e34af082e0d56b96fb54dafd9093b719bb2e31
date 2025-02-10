@@ -40,6 +40,6 @@
         {"code": "bn-BD", "name": "Bengali (Bangladesh)", "flag": "🇧🇩"},
         {"code": "ta-IN", "name": "Tamil (India)", "flag": "🇮🇳"},
         {"code": "ur-PK", "name": "Urdu (Pakistan)", "flag": "🇵🇰"},
-        {"code": "fa-IR", "name": "Persian (Iran)", "flag": "🇮🇷"},
+        {"code": "fa-IR", "name": "Persian (Iran)", "flag": "🇮🇷"}
     ]
 }
