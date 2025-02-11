@@ -1,0 +1,228 @@
+{
+  "letters": {
+    "ipa": "/ɪ/",
+    "type": "short vowels"
+  },
+  "comparison": {
+    "similar_to": "/iː/",
+    "difference": "/ɪ/ is shorter and more relaxed, while /iː/ is longer and more tense."
+  },
+  "decription": {
+    "audio": {
+      "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_sheep_2023feb.mp3",
+      "us": "https://dictionary.cambridge.org/vi/media/english/us_phonetic/us_phonetics_sound_sheep_2023feb.mp3"
+    },
+    "video": "https://www.youtube.com/watch?v=TNFKG0yvDx4&ab_channel=BBCLearningEnglish",
+    "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2864.png",
+    "describe": "<p><strong>The /ɪ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, slightly raised but not as high as /iː/.</li> <li><strong>Jaw opening:</strong> Slightly open, not too wide.</li> <li><strong>Lip shape:</strong> Relaxed, slightly open, not rounded.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your mouth slightly open, without tensing your lips.</li> <li>Position your tongue towards the front and slightly raised.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it like /iː/.</li> <li>Compare it with the /iː/ sound by practicing word pairs like <em>bit</em> - <em>beat</em>.</li> </ol>"
+  },
+  "examples": {
+    "sentences": [
+      {
+        "text": "Sit in this big ship.",
+        "ipa": "/sɪt ɪn ðɪs bɪɡ ʃɪp/"
+      },
+      {
+        "text": "Tim will fix the big bridge.",
+        "ipa": "/tɪm wɪl fɪks ðə bɪɡ brɪdʒ/"
+      },
+      {
+        "text": "Did Bill drink the milk?",
+        "ipa": "/dɪd bɪl drɪŋk ðə mɪlk/"
+      }
+    ],
+    "single_words": [
+      {
+        "e": "Bit",
+        "hl": "B<span style='color:red'>i</span>t",
+        "ipa": "/bɪt/"
+      },
+      {
+        "e": "Sit",
+        "hl": "S<span style='color:red'>i</span>t",
+        "ipa": "/sɪt/"
+      },
+      {
+        "e": "Milk",
+        "hl": "M<span style='color:red'>i</span>lk",
+        "ipa": "/mɪlk/"
+      },
+      {
+        "e": "Win",
+        "hl": "W<span style='color:red'>i</span>n",
+        "ipa": "/wɪn/"
+      },
+      {
+        "e": "Lid",
+        "hl": "L<span style='color:red'>i</span>d",
+        "ipa": "/lɪd/"
+      },
+      {
+        "e": "Kiss",
+        "hl": "K<span style='color:red'>i</span>ss",
+        "ipa": "/kɪs/"
+      },
+      {
+        "e": "Fish",
+        "hl": "F<span style='color:red'>i</span>sh",
+        "ipa": "/fɪʃ/"
+      },
+      {
+        "e": "Bitten",
+        "hl": "B<span style='color:red'>i</span>tten",
+        "ipa": "/ˈbɪtən/"
+      },
+      {
+        "e": "Hill",
+        "hl": "H<span style='color:red'>i</span>ll",
+        "ipa": "/hɪl/"
+      },
+      {
+        "e": "Fit",
+        "hl": "F<span style='color:red'>i</span>t",
+        "ipa": "/fɪt/"
+      }
+    ]
+  },
+  "graphemes": [
+    {
+      "k": "i",
+      "examples": [
+        { "e": "It", "ipa": "/ɪt/", "hl": "<span style='color:red'>I</span>t" },
+        { "e": "Sit", "ipa": "/sɪt/", "hl": "S<span style='color:red'>i</span>t" },
+        { "e": "Bit", "ipa": "/bɪt/", "hl": "B<span style='color:red'>i</span>t" },
+        { "e": "Hit", "ipa": "/hɪt/", "hl": "H<span style='color:red'>i</span>t" },
+        { "e": "Lid", "ipa": "/lɪd/", "hl": "L<span style='color:red'>i</span>d" },
+        { "e": "Milk", "ipa": "/mɪlk/", "hl": "M<span style='color:red'>i</span>lk" }
+      ]
+    },
+    {
+      "k": "e",
+      "examples": [
+        { "e": "England", "ipa": "/ˈɪŋɡlənd/", "hl": "<span style='color:red'>E</span>ngland" },
+        { "e": "Pretty", "ipa": "/ˈprɪti/", "hl": "Pr<span style='color:red'>e</span>tty" },
+        { "e": "Begin", "ipa": "/bɪˈɡɪn/", "hl": "B<span style='color:red'>e</span>gin" },
+        { "e": "Yellow", "ipa": "/ˈjɛlɪoʊ/", "hl": "Y<span style='color:red'>e</span>llow" }
+      ]
+    },
+    {
+      "k": "o",
+      "examples": [
+        { "e": "Women", "ipa": "/ˈwɪmɪn/", "hl": "W<span style='color:red'>o</span>men" }
+      ]
+    },
+    {
+      "k": "u",
+      "examples": [
+        { "e": "Busy", "ipa": "/ˈbɪzi/", "hl": "B<span style='color:red'>u</span>sy" },
+        { "e": "Business", "ipa": "/ˈbɪznɪs/", "hl": "B<span style='color:red'>u</span>siness" }
+      ]
+    },
+    {
+      "k": "ui",
+      "examples": [
+        { "e": "Guild", "ipa": "/ɡɪld/", "hl": "G<span style='color:red'>ui</span>ld" },
+        { "e": "Build", "ipa": "/bɪld/", "hl": "B<span style='color:red'>ui</span>ld" },
+        { "e": "Guilt", "ipa": "/ɡɪlt/", "hl": "G<span style='color:red'>ui</span>lt" }
+      ]
+    },
+    {
+      "k": "y",
+      "examples": [
+        { "e": "Gym", "ipa": "/dʒɪm/", "hl": "G<span style='color:red'>y</span>m" },
+        { "e": "Symbol", "ipa": "/ˈsɪmbəl/", "hl": "S<span style='color:red'>y</span>mbol" },
+        { "e": "System", "ipa": "/ˈsɪstəm/", "hl": "S<span style='color:red'>y</span>stem" }
+      ]
+    },
+    {
+      "k": "ie",
+      "examples": [
+        { "e": "Sieve", "ipa": "/sɪv/", "hl": "S<span style='color:red'>ie</span>ve" },
+        { "e": "Friend", "ipa": "/frɪnd/", "hl": "Fr<span style='color:red'>ie</span>nd" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "level": "easy",
+      "sentences": [
+        {
+          "text": "Sit in this big ship.",
+          "ipa": "sɪt ɪn ðɪs bɪɡ ʃɪp",
+          "hl": "S<span style='color:red'>i</span>t <span style='color:red'>i</span>n th<span style='color:red'>i</span>s b<span style='color:red'>i</span>g sh<span style='color:red'>i</span>p."
+        },
+        {
+          "text": "Tim will fix the big bridge.",
+          "ipa": "tɪm wɪl fɪks ðə bɪɡ brɪdʒ",
+          "hl": "T<span style='color:red'>i</span>m w<span style='color:red'>i</span>ll f<span style='color:red'>i</span>x the b<span style='color:red'>i</span>g br<span style='color:red'>i</span>d<span style='color:red'>g</span>e."
+        },
+        {
+          "text": "Did Bill drink the milk?",
+          "ipa": "dɪd bɪl drɪŋk ðə mɪlk",
+          "hl": "D<span style='color:red'>i</span>d B<span style='color:red'>i</span>ll dr<span style='color:red'>i</span>nk the m<span style='color:red'>i</span>lk."
+        },
+        {
+          "text": "I live in a little city.",
+          "ipa": "aɪ lɪv ɪn ə ˈlɪtəl ˈsɪti",
+          "hl": "<span style='color:red'>I</span> l<span style='color:red'>i</span>ve <span style='color:red'>i</span>n a l<span style='color:red'>i</span>ttle c<span style='color:red'>i</span>ty."
+        },
+        {
+          "text": "This is a big hill.",
+          "ipa": "ðɪs ɪz ə bɪɡ hɪl",
+          "hl": "Th<span style='color:red'>i</span>s <span style='color:red'>i</span>s a b<span style='color:red'>i</span>g h<span style='color:red'>i</span>ll."
+        }
+      ]
+    },
+    {
+      "level": "medium",
+      "sentences": [
+        {
+          "text": "The kitten is sitting in the kitchen.",
+          "ipa": "ðə ˈkɪtn̩ ɪz ˈsɪtɪŋ ɪn ðə ˈkɪtʃən",
+          "hl": "The k<span style='color:red'>i</span>tten <span style='color:red'>i</span>s s<span style='color:red'>i</span>tt<span style='color:red'>i</span>ng <span style='color:red'>i</span>n the k<span style='color:red'>i</span>tchen."
+        },
+        {
+          "text": "Fifty little fish swim in the river.",
+          "ipa": "ˈfɪfti ˈlɪtəl fɪʃ swɪm ɪn ðə ˈrɪvər",
+          "hl": "F<span style='color:red'>i</span>fty l<span style='color:red'>i</span>ttle f<span style='color:red'>i</span>sh sw<span style='color:red'>i</span>m <span style='color:red'>i</span>n the r<span style='color:red'>i</span>ver."
+        },
+        {
+          "text": "Listen carefully to the instructions.",
+          "ipa": "ˈlɪsən ˈkɛrfəli tu ðə ɪnˈstrʌkʃənz",
+          "hl": "L<span style='color:red'>i</span>sten carefully to the <span style='color:red'>i</span>nstruct<span style='color:red'>i</span>ons."
+        },
+        {
+          "text": "Jim visits his little sister every week.",
+          "ipa": "dʒɪm ˈvɪzɪts hɪz ˈlɪtəl ˈsɪstər ˈɛvri wiːk",
+          "hl": "J<span style='color:red'>i</span>m v<span style='color:red'>i</span>s<span style='color:red'>i</span>ts h<span style='color:red'>i</span>s l<span style='color:red'>i</span>ttle s<span style='color:red'>i</span>ster every week."
+        },
+        {
+          "text": "A picnic in the winter is thrilling.",
+          "ipa": "ə ˈpɪknɪk ɪn ðə ˈwɪntər ɪz ˈθrɪlɪŋ",
+          "hl": "A p<span style='color:red'>i</span>cn<span style='color:red'>i</span>c <span style='color:red'>i</span>n the w<span style='color:red'>i</span>nter <span style='color:red'>i</span>s thr<span style='color:red'>i</span>ll<span style='color:red'>i</span>ng."
+        }
+      ]
+    },
+    {
+      "level": "hard",
+      "sentences": [
+        {
+          "text": "The intricate system of bridges is difficult to fix.",
+          "ipa": "ði ˈɪntrɪkət ˈsɪstəm ʌv ˈbrɪdʒɪz ɪz ˈdɪfɪkəlt tuː fɪks",
+          "hl": "The <span style='color:red'>i</span>ntr<span style='color:red'>i</span>cate system of br<span style='color:red'>i</span>dges <span style='color:red'>i</span>s d<span style='color:red'>i</span>ff<span style='color:red'>i</span>cult to f<span style='color:red'>i</span>x."
+        },
+        {
+          "text": "His vivid description of the incident was intriguing.",
+          "ipa": "hɪz ˈvɪvɪd dɪˈskrɪpʃən ʌv ði ˈɪnsɪdənt wəz ɪnˈtriːɡɪŋ",
+          "hl": "H<span style='color:red'>i</span>s v<span style='color:red'>i</span>v<span style='color:red'>i</span>d descr<span style='color:red'>i</span>pt<span style='color:red'>i</span>on of the <span style='color:red'>i</span>nc<span style='color:red'>i</span>dent was <span style='color:red'>i</span>ntr<span style='color:red'>i</span>guing."
+        },
+        {
+          "text": "She exhibited incredible skill in intricate situations.",
+          "ipa": "ʃiː ɪɡˈzɪbɪtɪd ɪnˈkrɛdəbəl skɪl ɪn ˈɪntrɪkət ˌsɪtʃuˈeɪʃənz",
+          "hl": "She exh<span style='color:red'>i</span>b<span style='color:red'>i</span>ted <span style='color:red'>i</span>ncred<span style='color:red'>i</span>ble sk<span style='color:red'>i</span>ll <span style='color:red'>i</span>n <span style='color:red'>i</span>ntr<span style='color:red'>i</span>cate s<span style='color:red'>i</span>tuations."
+        }
+      ]
+    }
+  ]
+
+}

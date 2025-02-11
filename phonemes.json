@@ -1,0 +1,66 @@
+{
+    "vowels": {
+      "short": [
+        {"id": 1, "symbol": "ɪ"},
+        {"id": 2, "symbol": "ʊ"},
+        {"id": 3, "symbol": "ɛ"},
+        {"id": 4, "symbol": "æ"},
+        {"id": 5, "symbol": "ʌ"},
+        {"id": 6, "symbol": "ɒ"},
+        {"id": 7, "symbol": "ə"}
+      ],
+      "long": [
+        {"id": 8, "symbol": "iː"},
+        {"id": 9, "symbol": "uː"},
+        {"id": 10, "symbol": "ɜː"},
+        {"id": 11, "symbol": "ɔː"},
+        {"id": 12, "symbol": "ɑː"}
+      ],
+      "diphthongs": [
+        {"id": 13, "symbol": "eɪ"},
+        {"id": 14, "symbol": "aɪ"},
+        {"id": 15, "symbol": "ɔɪ"},
+        {"id": 16, "symbol": "aʊ"},
+        {"id": 17, "symbol": "əʊ"},
+        {"id": 18, "symbol": "ɪə"},
+        {"id": 19, "symbol": "eə"},
+        {"id": 20, "symbol": "ʊə"}
+      ]
+    },
+    "consonants": {
+      "fricatives": [
+        {"id": 21, "symbol": "f"},
+        {"id": 22, "symbol": "v"},
+        {"id": 23, "symbol": "θ"},
+        {"id": 24, "symbol": "ð"},
+        {"id": 25, "symbol": "s"},
+        {"id": 26, "symbol": "z"},
+        {"id": 27, "symbol": "ʃ"},
+        {"id": 28, "symbol": "ʒ"},
+        {"id": 29, "symbol": "h"}
+      ],
+      "plosives": [
+        {"id": 30, "symbol": "p"},
+        {"id": 31, "symbol": "b"},
+        {"id": 32, "symbol": "t"},
+        {"id": 33, "symbol": "d"},
+        {"id": 34, "symbol": "k"},
+        {"id": 35, "symbol": "ɡ"}
+      ],
+      "nasals": [
+        {"id": 36, "symbol": "m"},
+        {"id": 37, "symbol": "n"},
+        {"id": 38, "symbol": "ŋ"}
+      ],
+      "approximants": [
+        {"id": 39, "symbol": "w"},
+        {"id": 40, "symbol": "j"},
+        {"id": 41, "symbol": "r"},
+        {"id": 42, "symbol": "l"}
+      ],
+      "affricates": [
+        {"id": 43, "symbol": "tʃ"},
+        {"id": 44, "symbol": "dʒ"}
+      ]
+    }
+}
