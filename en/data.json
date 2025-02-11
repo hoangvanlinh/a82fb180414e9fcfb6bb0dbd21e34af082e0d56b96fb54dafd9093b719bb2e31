@@ -1,355 +1,1043 @@
 {
-    "1": {
+  "1": {
       "letters": {
-        "ipa": "/ɪ/",
-        "type": "short vowels"
+          "ipa": "/ɪ/",
+          "type": "short vowels"
       },
       "comparison": {
-        "similar_to": "/iː/",
-        "difference": "/ɪ/ is shorter and more relaxed, while /iː/ is longer and more tense."
+          "similar_to": "/iː/",
+          "difference": "/ɪ/ is shorter and more relaxed, while /iː/ is longer and more tense."
       },
       "description": {
-        "audio": {
-          "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_sheep_2023feb.mp3",
-          "us": "https://dictionary.cambridge.org/vi/media/english/us_phonetic/us_phonetics_sound_sheep_2023feb.mp3"
-        },
-        "video": "https://www.youtube.com/watch?v=TNFKG0yvDx4&ab_channel=BBCLearningEnglish",
-        "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2864.png",
-        "describe": "<p><strong>The /ɪ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, slightly raised but not as high as /iː/.</li> <li><strong>Jaw opening:</strong> Slightly open, not too wide.</li> <li><strong>Lip shape:</strong> Relaxed, slightly open, not rounded.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your mouth slightly open, without tensing your lips.</li> <li>Position your tongue towards the front and slightly raised.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it like /iː/.</li> <li>Compare it with the /iː/ sound by practicing word pairs like <em>bit</em> - <em>beat</em>.</li> </ol>"
+          "audio": {
+              "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_ship_2023feb.mp3",
+              "us": "https://dictionary.cambridge.org/vi/media/english/us_phonetic/us_phonetics_sound_ship_2023feb.mp3"
+          },
+          "video": "https://www.youtube.com/watch?v=TNFKG0yvDx4&ab_channel=BBCLearningEnglish",
+          "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2864.png",
+          "describe": "<p><strong>The /ɪ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, slightly raised but not as high as /iː/.</li> <li><strong>Jaw opening:</strong> Slightly open, not too wide.</li> <li><strong>Lip shape:</strong> Relaxed, slightly open, not rounded.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your mouth slightly open, without tensing your lips.</li> <li>Position your tongue towards the front and slightly raised.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it like /iː/.</li> <li>Compare it with the /iː/ sound by practicing word pairs like <em>bit</em> - <em>beat</em>.</li> </ol>"
       },
       "examples": {
-        "sentences": [
-          {
-            "text": "Sit in this big ship.",
-            "ipa": "/sɪt ɪn ðɪs bɪɡ ʃɪp/"
-          },
-          {
-            "text": "Tim will fix the big bridge.",
-            "ipa": "/tɪm wɪl fɪks ðə bɪɡ brɪdʒ/"
-          },
-          {
-            "text": "Did Bill drink the milk?",
-            "ipa": "/dɪd bɪl drɪŋk ðə mɪlk/"
-          }
-        ],
-        "single_words": [
-          {
-            "e": "Bit",
-            "hl": "B<span style='color:red'>i</span>t",
-            "ipa": "/bɪt/"
-          },
-          {
-            "e": "Sit",
-            "hl": "S<span style='color:red'>i</span>t",
-            "ipa": "/sɪt/"
-          },
-          {
-            "e": "Milk",
-            "hl": "M<span style='color:red'>i</span>lk",
-            "ipa": "/mɪlk/"
-          },
-          {
-            "e": "Win",
-            "hl": "W<span style='color:red'>i</span>n",
-            "ipa": "/wɪn/"
-          },
-          {
-            "e": "Lid",
-            "hl": "L<span style='color:red'>i</span>d",
-            "ipa": "/lɪd/"
-          },
-          {
-            "e": "Kiss",
-            "hl": "K<span style='color:red'>i</span>ss",
-            "ipa": "/kɪs/"
-          },
-          {
-            "e": "Fish",
-            "hl": "F<span style='color:red'>i</span>sh",
-            "ipa": "/fɪʃ/"
-          },
-          {
-            "e": "Bitten",
-            "hl": "B<span style='color:red'>i</span>tten",
-            "ipa": "/ˈbɪtən/"
-          },
-          {
-            "e": "Hill",
-            "hl": "H<span style='color:red'>i</span>ll",
-            "ipa": "/hɪl/"
-          },
-          {
-            "e": "Fit",
-            "hl": "F<span style='color:red'>i</span>t",
-            "ipa": "/fɪt/"
-          }
-        ]
+          "sentences": [
+              {
+                  "text": "Sit in this big ship.",
+                  "ipa": "/sɪt ɪn ðɪs bɪɡ ʃɪp/"
+              },
+              {
+                  "text": "Tim will fix the big bridge.",
+                  "ipa": "/tɪm wɪl fɪks ðə bɪɡ brɪdʒ/"
+              },
+              {
+                  "text": "Did Bill drink the milk?",
+                  "ipa": "/dɪd bɪl drɪŋk ðə mɪlk/"
+              }
+          ],
+          "single_words": [
+              {
+                  "e": "Bit",
+                  "hl": "B<span style='color:red'>i</span>t",
+                  "ipa": "/bɪt/"
+              },
+              {
+                  "e": "Sit",
+                  "hl": "S<span style='color:red'>i</span>t",
+                  "ipa": "/sɪt/"
+              },
+              {
+                  "e": "Milk",
+                  "hl": "M<span style='color:red'>i</span>lk",
+                  "ipa": "/mɪlk/"
+              },
+              {
+                  "e": "Win",
+                  "hl": "W<span style='color:red'>i</span>n",
+                  "ipa": "/wɪn/"
+              },
+              {
+                  "e": "Lid",
+                  "hl": "L<span style='color:red'>i</span>d",
+                  "ipa": "/lɪd/"
+              },
+              {
+                  "e": "Kiss",
+                  "hl": "K<span style='color:red'>i</span>ss",
+                  "ipa": "/kɪs/"
+              },
+              {
+                  "e": "Fish",
+                  "hl": "F<span style='color:red'>i</span>sh",
+                  "ipa": "/fɪʃ/"
+              },
+              {
+                  "e": "Bitten",
+                  "hl": "B<span style='color:red'>i</span>tten",
+                  "ipa": "/ˈbɪtən/"
+              },
+              {
+                  "e": "Hill",
+                  "hl": "H<span style='color:red'>i</span>ll",
+                  "ipa": "/hɪl/"
+              },
+              {
+                  "e": "Fit",
+                  "hl": "F<span style='color:red'>i</span>t",
+                  "ipa": "/fɪt/"
+              }
+          ]
       },
       "graphemes": [
-        {
-          "k": "i",
-          "examples": [
-            { "e": "It", "ipa": "/ɪt/", "hl": "<span style='color:red'>I</span>t" },
-            { "e": "Sit", "ipa": "/sɪt/", "hl": "S<span style='color:red'>i</span>t" },
-            { "e": "Bit", "ipa": "/bɪt/", "hl": "B<span style='color:red'>i</span>t" },
-            { "e": "Hit", "ipa": "/hɪt/", "hl": "H<span style='color:red'>i</span>t" },
-            { "e": "Lid", "ipa": "/lɪd/", "hl": "L<span style='color:red'>i</span>d" },
-            { "e": "Milk", "ipa": "/mɪlk/", "hl": "M<span style='color:red'>i</span>lk" }
-          ]
-        },
-        {
-          "k": "e",
-          "examples": [
-            { "e": "England", "ipa": "/ˈɪŋɡlənd/", "hl": "<span style='color:red'>E</span>ngland" },
-            { "e": "Pretty", "ipa": "/ˈprɪti/", "hl": "Pr<span style='color:red'>e</span>tty" },
-            { "e": "Begin", "ipa": "/bɪˈɡɪn/", "hl": "B<span style='color:red'>e</span>gin" },
-            { "e": "Yellow", "ipa": "/ˈjɛlɪoʊ/", "hl": "Y<span style='color:red'>e</span>llow" }
-          ]
-        },
-        {
-          "k": "o",
-          "examples": [
-            { "e": "Women", "ipa": "/ˈwɪmɪn/", "hl": "W<span style='color:red'>o</span>men" }
-          ]
-        },
-        {
-          "k": "u",
-          "examples": [
-            { "e": "Busy", "ipa": "/ˈbɪzi/", "hl": "B<span style='color:red'>u</span>sy" },
-            { "e": "Business", "ipa": "/ˈbɪznɪs/", "hl": "B<span style='color:red'>u</span>siness" }
-          ]
-        },
-        {
-          "k": "ui",
-          "examples": [
-            { "e": "Guild", "ipa": "/ɡɪld/", "hl": "G<span style='color:red'>ui</span>ld" },
-            { "e": "Build", "ipa": "/bɪld/", "hl": "B<span style='color:red'>ui</span>ld" },
-            { "e": "Guilt", "ipa": "/ɡɪlt/", "hl": "G<span style='color:red'>ui</span>lt" }
-          ]
-        },
-        {
-          "k": "y",
-          "examples": [
-            { "e": "Gym", "ipa": "/dʒɪm/", "hl": "G<span style='color:red'>y</span>m" },
-            { "e": "Symbol", "ipa": "/ˈsɪmbəl/", "hl": "S<span style='color:red'>y</span>mbol" },
-            { "e": "System", "ipa": "/ˈsɪstəm/", "hl": "S<span style='color:red'>y</span>stem" }
-          ]
-        },
-        {
-          "k": "ie",
-          "examples": [
-            { "e": "Sieve", "ipa": "/sɪv/", "hl": "S<span style='color:red'>ie</span>ve" },
-            { "e": "Friend", "ipa": "/frɪnd/", "hl": "Fr<span style='color:red'>ie</span>nd" }
-          ]
-        }
+          {
+              "k": "i",
+              "examples": [
+                  {
+                      "e": "It",
+                      "ipa": "/ɪt/",
+                      "hl": "<span style='color:red'>I</span>t"
+                  },
+                  {
+                      "e": "Sit",
+                      "ipa": "/sɪt/",
+                      "hl": "S<span style='color:red'>i</span>t"
+                  },
+                  {
+                      "e": "Bit",
+                      "ipa": "/bɪt/",
+                      "hl": "B<span style='color:red'>i</span>t"
+                  },
+                  {
+                      "e": "Hit",
+                      "ipa": "/hɪt/",
+                      "hl": "H<span style='color:red'>i</span>t"
+                  },
+                  {
+                      "e": "Lid",
+                      "ipa": "/lɪd/",
+                      "hl": "L<span style='color:red'>i</span>d"
+                  },
+                  {
+                      "e": "Milk",
+                      "ipa": "/mɪlk/",
+                      "hl": "M<span style='color:red'>i</span>lk"
+                  }
+              ]
+          },
+          {
+              "k": "e",
+              "examples": [
+                  {
+                      "e": "England",
+                      "ipa": "/ˈɪŋɡlənd/",
+                      "hl": "<span style='color:red'>E</span>ngland"
+                  },
+                  {
+                      "e": "Pretty",
+                      "ipa": "/ˈprɪti/",
+                      "hl": "Pr<span style='color:red'>e</span>tty"
+                  },
+                  {
+                      "e": "Begin",
+                      "ipa": "/bɪˈɡɪn/",
+                      "hl": "B<span style='color:red'>e</span>gin"
+                  },
+                  {
+                      "e": "Yellow",
+                      "ipa": "/ˈjɛlɪoʊ/",
+                      "hl": "Y<span style='color:red'>e</span>llow"
+                  }
+              ]
+          },
+          {
+              "k": "o",
+              "examples": [
+                  {
+                      "e": "Women",
+                      "ipa": "/ˈwɪmɪn/",
+                      "hl": "W<span style='color:red'>o</span>men"
+                  }
+              ]
+          },
+          {
+              "k": "u",
+              "examples": [
+                  {
+                      "e": "Busy",
+                      "ipa": "/ˈbɪzi/",
+                      "hl": "B<span style='color:red'>u</span>sy"
+                  },
+                  {
+                      "e": "Business",
+                      "ipa": "/ˈbɪznɪs/",
+                      "hl": "B<span style='color:red'>u</span>siness"
+                  }
+              ]
+          },
+          {
+              "k": "ui",
+              "examples": [
+                  {
+                      "e": "Guild",
+                      "ipa": "/ɡɪld/",
+                      "hl": "G<span style='color:red'>ui</span>ld"
+                  },
+                  {
+                      "e": "Build",
+                      "ipa": "/bɪld/",
+                      "hl": "B<span style='color:red'>ui</span>ld"
+                  },
+                  {
+                      "e": "Guilt",
+                      "ipa": "/ɡɪlt/",
+                      "hl": "G<span style='color:red'>ui</span>lt"
+                  }
+              ]
+          },
+          {
+              "k": "y",
+              "examples": [
+                  {
+                      "e": "Gym",
+                      "ipa": "/dʒɪm/",
+                      "hl": "G<span style='color:red'>y</span>m"
+                  },
+                  {
+                      "e": "Symbol",
+                      "ipa": "/ˈsɪmbəl/",
+                      "hl": "S<span style='color:red'>y</span>mbol"
+                  },
+                  {
+                      "e": "System",
+                      "ipa": "/ˈsɪstəm/",
+                      "hl": "S<span style='color:red'>y</span>stem"
+                  }
+              ]
+          },
+          {
+              "k": "ie",
+              "examples": [
+                  {
+                      "e": "Sieve",
+                      "ipa": "/sɪv/",
+                      "hl": "S<span style='color:red'>ie</span>ve"
+                  },
+                  {
+                      "e": "Friend",
+                      "ipa": "/frɪnd/",
+                      "hl": "Fr<span style='color:red'>ie</span>nd"
+                  }
+              ]
+          }
       ],
       "exercises": [
-        {
-          "level": "easy",
-          "sentences": [
-            {
-              "text": "Sit in this big ship.",
-              "ipa": "sɪt ɪn ðɪs bɪɡ ʃɪp",
-              "hl": "S<span style='color:red'>i</span>t <span style='color:red'>i</span>n th<span style='color:red'>i</span>s b<span style='color:red'>i</span>g sh<span style='color:red'>i</span>p."
-            },
-            {
-              "text": "Tim will fix the big bridge.",
-              "ipa": "tɪm wɪl fɪks ðə bɪɡ brɪdʒ",
-              "hl": "T<span style='color:red'>i</span>m w<span style='color:red'>i</span>ll f<span style='color:red'>i</span>x the b<span style='color:red'>i</span>g br<span style='color:red'>i</span>d<span style='color:red'>g</span>e."
-            },
-            {
-              "text": "Did Bill drink the milk?",
-              "ipa": "dɪd bɪl drɪŋk ðə mɪlk",
-              "hl": "D<span style='color:red'>i</span>d B<span style='color:red'>i</span>ll dr<span style='color:red'>i</span>nk the m<span style='color:red'>i</span>lk."
-            },
-            {
-              "text": "I live in a little city.",
-              "ipa": "aɪ lɪv ɪn ə ˈlɪtəl ˈsɪti",
-              "hl": "<span style='color:red'>I</span> l<span style='color:red'>i</span>ve <span style='color:red'>i</span>n a l<span style='color:red'>i</span>ttle c<span style='color:red'>i</span>ty."
-            },
-            {
-              "text": "This is a big hill.",
-              "ipa": "ðɪs ɪz ə bɪɡ hɪl",
-              "hl": "Th<span style='color:red'>i</span>s <span style='color:red'>i</span>s a b<span style='color:red'>i</span>g h<span style='color:red'>i</span>ll."
-            }
-          ]
-        },
-        {
-          "level": "medium",
-          "sentences": [
-            {
-              "text": "The kitten is sitting in the kitchen.",
-              "ipa": "ðə ˈkɪtn̩ ɪz ˈsɪtɪŋ ɪn ðə ˈkɪtʃən",
-              "hl": "The k<span style='color:red'>i</span>tten <span style='color:red'>i</span>s s<span style='color:red'>i</span>tt<span style='color:red'>i</span>ng <span style='color:red'>i</span>n the k<span style='color:red'>i</span>tchen."
-            },
-            {
-              "text": "Fifty little fish swim in the river.",
-              "ipa": "ˈfɪfti ˈlɪtəl fɪʃ swɪm ɪn ðə ˈrɪvər",
-              "hl": "F<span style='color:red'>i</span>fty l<span style='color:red'>i</span>ttle f<span style='color:red'>i</span>sh sw<span style='color:red'>i</span>m <span style='color:red'>i</span>n the r<span style='color:red'>i</span>ver."
-            },
-            {
-              "text": "Listen carefully to the instructions.",
-              "ipa": "ˈlɪsən ˈkɛrfəli tu ðə ɪnˈstrʌkʃənz",
-              "hl": "L<span style='color:red'>i</span>sten carefully to the <span style='color:red'>i</span>nstruct<span style='color:red'>i</span>ons."
-            },
-            {
-              "text": "Jim visits his little sister every week.",
-              "ipa": "dʒɪm ˈvɪzɪts hɪz ˈlɪtəl ˈsɪstər ˈɛvri wiːk",
-              "hl": "J<span style='color:red'>i</span>m v<span style='color:red'>i</span>s<span style='color:red'>i</span>ts h<span style='color:red'>i</span>s l<span style='color:red'>i</span>ttle s<span style='color:red'>i</span>ster every week."
-            },
-            {
-              "text": "A picnic in the winter is thrilling.",
-              "ipa": "ə ˈpɪknɪk ɪn ðə ˈwɪntər ɪz ˈθrɪlɪŋ",
-              "hl": "A p<span style='color:red'>i</span>cn<span style='color:red'>i</span>c <span style='color:red'>i</span>n the w<span style='color:red'>i</span>nter <span style='color:red'>i</span>s thr<span style='color:red'>i</span>ll<span style='color:red'>i</span>ng."
-            }
-          ]
-        },
-        {
-          "level": "hard",
-          "sentences": [
-            {
-              "text": "The intricate system of bridges is difficult to fix.",
-              "ipa": "ði ˈɪntrɪkət ˈsɪstəm ʌv ˈbrɪdʒɪz ɪz ˈdɪfɪkəlt tuː fɪks",
-              "hl": "The <span style='color:red'>i</span>ntr<span style='color:red'>i</span>cate system of br<span style='color:red'>i</span>dges <span style='color:red'>i</span>s d<span style='color:red'>i</span>ff<span style='color:red'>i</span>cult to f<span style='color:red'>i</span>x."
-            },
-            {
-              "text": "His vivid description of the incident was intriguing.",
-              "ipa": "hɪz ˈvɪvɪd dɪˈskrɪpʃən ʌv ði ˈɪnsɪdənt wəz ɪnˈtriːɡɪŋ",
-              "hl": "H<span style='color:red'>i</span>s v<span style='color:red'>i</span>v<span style='color:red'>i</span>d descr<span style='color:red'>i</span>pt<span style='color:red'>i</span>on of the <span style='color:red'>i</span>nc<span style='color:red'>i</span>dent was <span style='color:red'>i</span>ntr<span style='color:red'>i</span>guing."
-            },
-            {
-              "text": "She exhibited incredible skill in intricate situations.",
-              "ipa": "ʃiː ɪɡˈzɪbɪtɪd ɪnˈkrɛdəbəl skɪl ɪn ˈɪntrɪkət ˌsɪtʃuˈeɪʃənz",
-              "hl": "She exh<span style='color:red'>i</span>b<span style='color:red'>i</span>ted <span style='color:red'>i</span>ncred<span style='color:red'>i</span>ble sk<span style='color:red'>i</span>ll <span style='color:red'>i</span>n <span style='color:red'>i</span>ntr<span style='color:red'>i</span>cate s<span style='color:red'>i</span>tuations."
-            }
-          ]
-        }
+          {
+              "level": "easy",
+              "sentences": [
+                  {
+                      "text": "Sit in this big ship.",
+                      "ipa": "sɪt ɪn ðɪs bɪɡ ʃɪp",
+                      "hl": "S<span style='color:red'>i</span>t <span style='color:red'>i</span>n th<span style='color:red'>i</span>s b<span style='color:red'>i</span>g sh<span style='color:red'>i</span>p."
+                  },
+                  {
+                      "text": "Tim will fix the big bridge.",
+                      "ipa": "tɪm wɪl fɪks ðə bɪɡ brɪdʒ",
+                      "hl": "T<span style='color:red'>i</span>m w<span style='color:red'>i</span>ll f<span style='color:red'>i</span>x the b<span style='color:red'>i</span>g br<span style='color:red'>i</span>d<span style='color:red'></span>ge."
+                  },
+                  {
+                      "text": "Did Bill drink the milk?",
+                      "ipa": "dɪd bɪl drɪŋk ðə mɪlk",
+                      "hl": "D<span style='color:red'>i</span>d B<span style='color:red'>i</span>ll dr<span style='color:red'>i</span>nk the m<span style='color:red'>i</span>lk."
+                  },
+                  {
+                      "text": "I live in a little city.",
+                      "ipa": "aɪ lɪv ɪn ə ˈlɪtəl ˈsɪti",
+                      "hl": "<span style='color:red'>I</span> l<span style='color:red'>i</span>ve <span style='color:red'>i</span>n a l<span style='color:red'>i</span>ttle c<span style='color:red'>i</span>ty."
+                  },
+                  {
+                      "text": "This is a big hill.",
+                      "ipa": "ðɪs ɪz ə bɪɡ hɪl",
+                      "hl": "Th<span style='color:red'>i</span>s <span style='color:red'>i</span>s a b<span style='color:red'>i</span>g h<span style='color:red'>i</span>ll."
+                  }
+              ]
+          },
+          {
+              "level": "medium",
+              "sentences": [
+                  {
+                      "text": "The kitten is sitting in the kitchen.",
+                      "ipa": "ðə ˈkɪtn̩ ɪz ˈsɪtɪŋ ɪn ðə ˈkɪtʃən",
+                      "hl": "The k<span style='color:red'>i</span>tten <span style='color:red'>i</span>s s<span style='color:red'>i</span>tt<span style='color:red'>i</span>ng <span style='color:red'>i</span>n the k<span style='color:red'>i</span>tchen."
+                  },
+                  {
+                      "text": "Fifty little fish swim in the river.",
+                      "ipa": "ˈfɪfti ˈlɪtəl fɪʃ swɪm ɪn ðə ˈrɪvər",
+                      "hl": "F<span style='color:red'>i</span>fty l<span style='color:red'>i</span>ttle f<span style='color:red'>i</span>sh sw<span style='color:red'>i</span>m <span style='color:red'>i</span>n the r<span style='color:red'>i</span>ver."
+                  },
+                  {
+                      "text": "Listen carefully to the instructions.",
+                      "ipa": "ˈlɪsən ˈkɛrfəli tu ðə ɪnˈstrʌkʃənz",
+                      "hl": "L<span style='color:red'>i</span>sten carefully to the <span style='color:red'>i</span>nstruct<span style='color:red'>i</span>ons."
+                  },
+                  {
+                      "text": "Jim visits his little sister every week.",
+                      "ipa": "dʒɪm ˈvɪzɪts hɪz ˈlɪtəl ˈsɪstər ˈɛvri wiːk",
+                      "hl": "J<span style='color:red'>i</span>m v<span style='color:red'>i</span>s<span style='color:red'>i</span>ts h<span style='color:red'>i</span>s l<span style='color:red'>i</span>ttle s<span style='color:red'>i</span>ster every week."
+                  },
+                  {
+                      "text": "A picnic in the winter is thrilling.",
+                      "ipa": "ə ˈpɪknɪk ɪn ðə ˈwɪntər ɪz ˈθrɪlɪŋ",
+                      "hl": "A p<span style='color:red'>i</span>cn<span style='color:red'>i</span>c <span style='color:red'>i</span>n the w<span style='color:red'>i</span>nter <span style='color:red'>i</span>s thr<span style='color:red'>i</span>ll<span style='color:red'>i</span>ng."
+                  }
+              ]
+          },
+          {
+              "level": "hard",
+              "sentences": [
+                  {
+                      "text": "The intricate system of bridges is difficult to fix.",
+                      "ipa": "ði ˈɪntrɪkət ˈsɪstəm ʌv ˈbrɪdʒɪz ɪz ˈdɪfɪkəlt tuː fɪks",
+                      "hl": "The <span style='color:red'>i</span>ntr<span style='color:red'>i</span>cate system of br<span style='color:red'>i</span>dges <span style='color:red'>i</span>s d<span style='color:red'>i</span>ff<span style='color:red'>i</span>cult to f<span style='color:red'>i</span>x."
+                  },
+                  {
+                      "text": "His vivid description of the incident was intriguing.",
+                      "ipa": "hɪz ˈvɪvɪd dɪˈskrɪpʃən ʌv ði ˈɪnsɪdənt wəz ɪnˈtriːɡɪŋ",
+                      "hl": "H<span style='color:red'>i</span>s v<span style='color:red'>i</span>v<span style='color:red'>i</span>d descr<span style='color:red'>i</span>pt<span style='color:red'>i</span>on of the <span style='color:red'>i</span>nc<span style='color:red'>i</span>dent was <span style='color:red'>i</span>ntr<span style='color:red'>i</span>guing."
+                  },
+                  {
+                      "text": "She exhibited incredible skill in intricate situations.",
+                      "ipa": "ʃiː ɪɡˈzɪbɪtɪd ɪnˈkrɛdəbəl skɪl ɪn ˈɪntrɪkət ˌsɪtʃuˈeɪʃənz",
+                      "hl": "She exh<span style='color:red'>i</span>b<span style='color:red'>i</span>ted <span style='color:red'>i</span>ncred<span style='color:red'>i</span>ble sk<span style='color:red'>i</span>ll <span style='color:red'>i</span>n <span style='color:red'>i</span>ntr<span style='color:red'>i</span>cate s<span style='color:red'>i</span>tuations."
+                  }
+              ]
+          }
       ]
-
-    },
-    "2":{
+  },
+  "2": {
       "letters": {
-        "ipa": "/ʊ/",
-        "type": "short vowels"
+          "ipa": "/ʊ/",
+          "type": "short vowels"
       },
       "comparison": {
-        "similar_to": "/uː/",
-        "difference": "/ʊ/ is shorter and more relaxed, while /uː/ is longer and more tense."
+          "similar_to": "/uː/",
+          "difference": "/ʊ/ is shorter and more relaxed, while /uː/ is longer and more tense."
       },
       "description": {
-        "audio": {
-          "uk": "https://dictionary.cambridge.org/example_audio_uk_ʊ.mp3",
-          "us": "https://dictionary.cambridge.org/example_audio_us_ʊ.mp3"
-        },
-        "video": "https://www.youtube.com/watch?v=example_video_ʊ",
-        "image": "https://example.com/ipa_chart_ʊ.png",
-        "describe": "<p><strong>The /ʊ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> High but slightly lower than /uː/.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Rounded but less than in /uː/.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your lips slightly rounded.</li> <li>Position your tongue high, but not as high as for /uː/.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it like /uː/.</li> <li>Compare it with the /uː/ sound by practicing word pairs like <em>pull</em> - <em>pool</em>.</li> </ol>"
+          "audio": {
+              "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_foot_2023feb.mp3",
+              "us": "https://dictionary.cambridge.org/vi/media/english/us_phonetic/us_phonetics_sound_foot_2023feb.mp3"
+          },
+          "video": "https://www.youtube.com/watch?v=eJ7dM_LU9t4&ab_channel=BBCLearningEnglish",
+          "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2941.png",
+          "describe": "<p><strong>The /ʊ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> High but slightly lower than /uː/.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Rounded but less than in /uː/.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your lips slightly rounded.</li> <li>Position your tongue high, but not as high as for /uː/.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it like /uː/.</li> <li>Compare it with the /uː/ sound by practicing word pairs like <em>pull</em> - <em>pool</em>.</li> </ol>"
       },
       "examples": {
-        "sentences": [
-          {
-            "text": "The cook took a book from the wood.",
-            "ipa": "/ðə kʊk tʊk ə bʊk frɒm ðə wʊd/"
-          },
-          {
-            "text": "She put her foot on the hook.",
-            "ipa": "/ʃi pʊt hɜː fʊt ɒn ðə hʊk/"
-          },
-          {
-            "text": "You should look at this good food.",
-            "ipa": "/juː ʃʊd lʊk æt ðɪs ɡʊd fuːd/"
-          }
-        ],
-        "single_words": [
-          {
-            "e": "Book",
-            "hl": "B<span style='color:red'>oo</span>k",
-            "ipa": "/bʊk/"
-          },
-          {
-            "e": "Look",
-            "hl": "L<span style='color:red'>oo</span>k",
-            "ipa": "/lʊk/"
-          },
-          {
-            "e": "Foot",
-            "hl": "F<span style='color:red'>oo</span>t",
-            "ipa": "/fʊt/"
-          },
-          {
-            "e": "Wood",
-            "hl": "W<span style='color:red'>oo</span>d",
-            "ipa": "/wʊd/"
-          },
-          {
-            "e": "Good",
-            "hl": "G<span style='color:red'>oo</span>d",
-            "ipa": "/ɡʊd/"
-          }
-        ]
+          "sentences": [
+              {
+                  "text": "The cook took a book from the wood.",
+                  "ipa": "/ðə kʊk tʊk ə bʊk frɒm ðə wʊd/"
+              },
+              {
+                  "text": "She put her foot on the hook.",
+                  "ipa": "/ʃi pʊt hɜː fʊt ɒn ðə hʊk/"
+              },
+              {
+                  "text": "You should look at this good food.",
+                  "ipa": "/juː ʃʊd lʊk æt ðɪs ɡʊd fuːd/"
+              }
+          ],
+          "single_words": [
+              {
+                  "e": "Book",
+                  "hl": "B<span style='color:red'>oo</span>k",
+                  "ipa": "/bʊk/"
+              },
+              {
+                  "e": "Look",
+                  "hl": "L<span style='color:red'>oo</span>k",
+                  "ipa": "/lʊk/"
+              },
+              {
+                  "e": "Foot",
+                  "hl": "F<span style='color:red'>oo</span>t",
+                  "ipa": "/fʊt/"
+              },
+              {
+                  "e": "Wood",
+                  "hl": "W<span style='color:red'>oo</span>d",
+                  "ipa": "/wʊd/"
+              },
+              {
+                  "e": "Good",
+                  "hl": "G<span style='color:red'>oo</span>d",
+                  "ipa": "/ɡʊd/"
+              }
+          ]
       },
       "graphemes": [
-        {
-          "k": "u",
-          "examples": [
-            { "e": "Put", "ipa": "/pʊt/", "hl": "P<span style='color:red'>u</span>t" },
-            { "e": "Pull", "ipa": "/pʊl/", "hl": "P<span style='color:red'>u</span>ll" },
-            { "e": "Bush", "ipa": "/bʊʃ/", "hl": "B<span style='color:red'>u</span>sh" }
-          ]
-        },
-        {
-          "k": "oo",
-          "examples": [
-            { "e": "Good", "ipa": "/ɡʊd/", "hl": "G<span style='color:red'>oo</span>d" },
-            { "e": "Foot", "ipa": "/fʊt/", "hl": "F<span style='color:red'>oo</span>t" },
-            { "e": "Wood", "ipa": "/wʊd/", "hl": "W<span style='color:red'>oo</span>d" }
-          ]
-        },
-        {
-          "k": "ou",
-          "examples": [
-            { "e": "Could", "ipa": "/kʊd/", "hl": "C<span style='color:red'>ou</span>ld" },
-            { "e": "Should", "ipa": "/ʃʊd/", "hl": "Sh<span style='color:red'>ou</span>ld" },
-            { "e": "Would", "ipa": "/wʊd/", "hl": "W<span style='color:red'>ou</span>ld" }
-          ]
-        }
+          {
+              "k": "u",
+              "examples": [
+                  {
+                      "e": "Put",
+                      "ipa": "/pʊt/",
+                      "hl": "P<span style='color:red'>u</span>t"
+                  },
+                  {
+                      "e": "Pull",
+                      "ipa": "/pʊl/",
+                      "hl": "P<span style='color:red'>u</span>ll"
+                  },
+                  {
+                      "e": "Bush",
+                      "ipa": "/bʊʃ/",
+                      "hl": "B<span style='color:red'>u</span>sh"
+                  }
+              ]
+          },
+          {
+              "k": "oo",
+              "examples": [
+                  {
+                      "e": "Good",
+                      "ipa": "/ɡʊd/",
+                      "hl": "G<span style='color:red'>oo</span>d"
+                  },
+                  {
+                      "e": "Foot",
+                      "ipa": "/fʊt/",
+                      "hl": "F<span style='color:red'>oo</span>t"
+                  },
+                  {
+                      "e": "Wood",
+                      "ipa": "/wʊd/",
+                      "hl": "W<span style='color:red'>oo</span>d"
+                  }
+              ]
+          },
+          {
+              "k": "ou",
+              "examples": [
+                  {
+                      "e": "Could",
+                      "ipa": "/kʊd/",
+                      "hl": "C<span style='color:red'>ou</span>ld"
+                  },
+                  {
+                      "e": "Should",
+                      "ipa": "/ʃʊd/",
+                      "hl": "Sh<span style='color:red'>ou</span>ld"
+                  },
+                  {
+                      "e": "Would",
+                      "ipa": "/wʊd/",
+                      "hl": "W<span style='color:red'>ou</span>ld"
+                  }
+              ]
+          }
       ],
       "exercises": [
-        {
-          "level": "easy",
-          "sentences": [
-            {
-              "text": "The book is on the table.",
-              "ipa": "/ðə bʊk ɪz ɒn ðə ˈteɪbəl/",
-              "hl": "The b<span style='color:red'>oo</span>k is on the table."
-            },
-            {
-              "text": "I took a good look.",
-              "ipa": "/aɪ tʊk ə ɡʊd lʊk/",
-              "hl": "I t<span style='color:red'>oo</span>k a g<span style='color:red'>oo</span>d l<span style='color:red'>oo</span>k."
-            }
-          ]
-        },
-        {
-          "level": "medium",
-          "sentences": [
-            {
-              "text": "The cook put the food in the oven.",
-              "ipa": "/ðə kʊk pʊt ðə fuːd ɪn ðə ˈʌvən/",
-              "hl": "The c<span style='color:red'>oo</span>k p<span style='color:red'>u</span>t the f<span style='color:red'>oo</span>d in the oven."
-            }
-          ]
-        },
-        {
-          "level": "hard",
-          "sentences": [
-            {
-              "text": "He stood in the woods looking at the full moon.",
-              "ipa": "/hiː stʊd ɪn ðə wʊdz ˈlʊkɪŋ æt ðə fʊl muːn/",
-              "hl": "He st<span style='color:red'>oo</span>d in the w<span style='color:red'>oo</span>ds l<span style='color:red'>oo</span>king at the f<span style='color:red'>u</span>ll moon."
-            }
-          ]
-        }
+          {
+              "level": "easy",
+              "sentences": [
+                  {
+                      "text": "The book is on the table.",
+                      "ipa": "/ðə bʊk ɪz ɒn ðə ˈteɪbəl/",
+                      "hl": "The b<span style='color:red'>oo</span>k is on the table."
+                  },
+                  {
+                      "text": "I took a good look.",
+                      "ipa": "/aɪ tʊk ə ɡʊd lʊk/",
+                      "hl": "I t<span style='color:red'>oo</span>k a g<span style='color:red'>oo</span>d l<span style='color:red'>oo</span>k."
+                  }
+              ]
+          },
+          {
+              "level": "medium",
+              "sentences": [
+                  {
+                      "text": "The cook put the food in the oven.",
+                      "ipa": "/ðə kʊk pʊt ðə fuːd ɪn ðə ˈʌvən/",
+                      "hl": "The c<span style='color:red'>oo</span>k p<span style='color:red'>u</span>t the f<span style='color:red'>oo</span>d in the oven."
+                  }
+              ]
+          },
+          {
+              "level": "hard",
+              "sentences": [
+                  {
+                      "text": "He stood in the woods looking at the full moon.",
+                      "ipa": "/hiː stʊd ɪn ðə wʊdz ˈlʊkɪŋ æt ðə fʊl muːn/",
+                      "hl": "He st<span style='color:red'>oo</span>d in the w<span style='color:red'>oo</span>ds l<span style='color:red'>oo</span>king at the f<span style='color:red'>u</span>ll moon."
+                  }
+              ]
+          }
       ]
-    }
+  },
+  "3": {
+      "letters": {
+          "ipa": "/ɛ/",
+          "type": "short vowels"
+      },
+      "comparison": {
+          "similar_to": "/eɪ/",
+          "difference": "/ɛ/ is a short, relaxed vowel, while /eɪ/ is a diphthong that glides from /ɛ/ to /ɪ/."
+      },
+      "description": {
+          "audio": {
+              "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_head_2023feb.mp3",
+              "us": "https://dictionary.cambridge.org/vi/media/english/us_phonetic/us_phonetics_sound_head_2023feb.mp3"
+          },
+          "video": "https://www.youtube.com/watch?v=hLN1cdSTDo8&ab_channel=BBCLearningEnglish",
+          "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2876.png",
+          "describe": "<p><strong>The /ɛ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, mid-low.</li> <li><strong>Jaw opening:</strong> Medium open.</li> <li><strong>Lip shape:</strong> Relaxed, not rounded.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your mouth slightly open, with relaxed lips.</li> <li>Position your tongue in the middle of the mouth, slightly raised at the front.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it into /eɪ/.</li> <li>Compare it with the /eɪ/ sound by practicing word pairs like <em>bed</em> - <em>bait</em>.</li> </ol>"
+      },
+      "examples": {
+          "sentences": [
+              {
+                  "text": "The red pen is next to the bed.",
+                  "ipa": "/ðə rɛd pɛn ɪz nɛkst tuː ðə bɛd/"
+              },
+              {
+                  "text": "Ten men met at the end of the street.",
+                  "ipa": "/tɛn mɛn mɛt æt ði ɛnd ʌv ðə striːt/"
+              },
+              {
+                  "text": "She left the dress on the desk.",
+                  "ipa": "/ʃi lɛft ðə drɛs ɒn ðə dɛsk/"
+              }
+          ],
+          "single_words": [
+              {
+                  "e": "Red",
+                  "hl": "R<span style='color:red'>e</span>d",
+                  "ipa": "/rɛd/"
+              },
+              {
+                  "e": "Pen",
+                  "hl": "P<span style='color:red'>e</span>n",
+                  "ipa": "/pɛn/"
+              },
+              {
+                  "e": "Bed",
+                  "hl": "B<span style='color:red'>e</span>d",
+                  "ipa": "/bɛd/"
+              },
+              {
+                  "e": "Men",
+                  "hl": "M<span style='color:red'>e</span>n",
+                  "ipa": "/mɛn/"
+              },
+              {
+                  "e": "End",
+                  "hl": "<span style='color:red'>E</span>nd",
+                  "ipa": "/ɛnd/"
+              }
+          ]
+      },
+      "graphemes": [
+          {
+              "k": "e",
+              "examples": [
+                  {
+                      "e": "Red",
+                      "ipa": "/rɛd/",
+                      "hl": "R<span style='color:red'>e</span>d"
+                  },
+                  {
+                      "e": "Pen",
+                      "ipa": "/pɛn/",
+                      "hl": "P<span style='color:red'>e</span>n"
+                  },
+                  {
+                      "e": "Bed",
+                      "ipa": "/bɛd/",
+                      "hl": "B<span style='color:red'>e</span>d"
+                  },
+                  {
+                      "e": "Men",
+                      "ipa": "/mɛn/",
+                      "hl": "M<span style='color:red'>e</span>n"
+                  },
+                  {
+                      "e": "End",
+                      "ipa": "/ɛnd/",
+                      "hl": "<span style='color:red'>E</span>nd"
+                  }
+              ]
+          },
+          {
+              "k": "ea",
+              "examples": [
+                  {
+                      "e": "Head",
+                      "ipa": "/hɛd/",
+                      "hl": "H<span style='color:red'>ea</span>d"
+                  },
+                  {
+                      "e": "Bread",
+                      "ipa": "/brɛd/",
+                      "hl": "Br<span style='color:red'>ea</span>d"
+                  },
+                  {
+                      "e": "Dead",
+                      "ipa": "/dɛd/",
+                      "hl": "D<span style='color:red'>ea</span>d"
+                  }
+              ]
+          }
+      ],
+      "exercises": [
+          {
+              "level": "easy",
+              "sentences": [
+                  {
+                      "text": "The red pen is on the bed.",
+                      "ipa": "/ðə rɛd pɛn ɪz ɒn ðə bɛd/",
+                      "hl": "The r<span style='color:red'>e</span>d p<span style='color:red'>e</span>n is on the b<span style='color:red'>e</span>d."
+                  }
+              ]
+          },
+          {
+              "level": "medium",
+              "sentences": [
+                  {
+                      "text": "Ten men met at the end of the street.",
+                      "ipa": "/tɛn mɛn mɛt æt ði ɛnd ʌv ðə striːt/",
+                      "hl": "T<span style='color:red'>e</span>n m<span style='color:red'>e</span>n m<span style='color:red'>e</span>t at the <span style='color:red'>e</span>nd of the street."
+                  }
+              ]
+          },
+          {
+              "level": "hard",
+              "sentences": [
+                  {
+                      "text": "The editor left the message on the desk.",
+                      "ipa": "/ði ˈɛdɪtər lɛft ðə ˈmɛsɪdʒ ɒn ðə dɛsk/",
+                      "hl": "The <span style='color:red'>e</span>ditor l<span style='color:red'>e</span>ft the m<span style='color:red'>e</span>ssage on the d<span style='color:red'>e</span>sk."
+                  }
+              ]
+          }
+      ]
+  },
+  "4": {
+      "letters": {
+          "ipa": "/æ/",
+          "type": "short vowels"
+      },
+      "comparison": {
+          "similar_to": "/ɑː/",
+          "difference": "/æ/ is shorter and more fronted, while /ɑː/ is longer and more open."
+      },
+      "description": {
+          "audio": {
+              "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_hat_2023feb.mp3",
+              "us": "https://dictionary.cambridge.org/vi/media/english/us_phonetic/us_phonetics_sound_hat_2023feb.mp3"
+          },
+          "video": "https://www.youtube.com/watch?v=qVhaIHk88a8&ab_channel=BBCLearningEnglish",
+          "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2888.png",
+          "describe": "<p><strong>The /æ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, low, with the jaw open wide.</li> <li><strong>Jaw opening:</strong> Wide open.</li> <li><strong>Lip shape:</strong> Neutral, slightly spread.</li> <li><strong>Tongue tension:</strong> More tense than /ɪ/.</li> <li><strong>Duration:</strong> Short, but slightly longer than /ɪ/.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Open your mouth wide and lower your tongue.</li> <li>Position your tongue towards the front of the mouth.</li> <li>Compare it with the /ɪ/ sound by practicing word pairs like <em>bat</em> - <em>bit</em>.</li> </ol>"
+      },
+      "examples": {
+          "sentences": [
+              {
+                  "text": "The cat sat on the mat.",
+                  "ipa": "/ðə kæt sæt ɒn ðə mæt/"
+              },
+              {
+                  "text": "A man had a black hat.",
+                  "ipa": "/ə mæn hæd ə blæk hæt/"
+              },
+              {
+                  "text": "She packed her bag for the trip.",
+                  "ipa": "/ʃiː pækt hɜː bæɡ fɔː ðə trɪp/"
+              }
+          ],
+          "single_words": [
+              {
+                  "e": "Cat",
+                  "hl": "Cat",
+                  "ipa": "/kæt/"
+              },
+              {
+                  "e": "Hat",
+                  "hl": "Hat",
+                  "ipa": "/hæt/"
+              },
+              {
+                  "e": "Bag",
+                  "hl": "Bag",
+                  "ipa": "/bæg/"
+              }
+          ]
+      },
+      "graphemes": [
+          {
+              "k": "a",
+              "examples": [
+                  {
+                      "e": "Cat",
+                      "ipa": "/kæt/",
+                      "hl": "Cat"
+                  },
+                  {
+                      "e": "Hat",
+                      "ipa": "/hæt/",
+                      "hl": "Hat"
+                  },
+                  {
+                      "e": "Bag",
+                      "ipa": "/bæg/",
+                      "hl": "Bag"
+                  }
+              ]
+          }
+      ],
+      "exercises": [
+          {
+              "level": "easy",
+              "sentences": [
+                  {
+                      "text": "The cat sat on the mat.",
+                      "ipa": "/ðə kæt sæt ɒn ðə mæt/",
+                      "hl": "The cat sat on the mat."
+                  }
+              ]
+          },
+          {
+              "level": "medium",
+              "sentences": [
+                  {
+                      "text": "A man had a black hat.",
+                      "ipa": "/ə mæn hæd ə blæk hæt/",
+                      "hl": "A man had a black hat."
+                  }
+              ]
+          },
+          {
+              "level": "hard",
+              "sentences": [
+                  {
+                      "text": "She packed her bag for the trip.",
+                      "ipa": "/ʃiː pækt hɜː bæɡ fɔː ðə trɪp/",
+                      "hl": "She packed her bag for the trip."
+                  }
+              ]
+          }
+      ]
+  },
+  "5": {
+      "letters": {
+          "ipa": "/ʌ/",
+          "type": "short vowels"
+      },
+      "comparison": {
+          "similar_to": "/ɑː/",
+          "difference": "/ʌ/ is shorter and more central, while /ɑː/ is longer and more open."
+      },
+      "description": {
+          "audio": {
+              "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_cup_2023feb.mp3",
+              "us": "https://dictionary.cambridge.org/vi/media/english/us_phonetic/us_phonetics_sound_cup_2023feb.mp3"
+          },
+          "video": "https://www.youtube.com/watch?v=PZwKFFp7V50&ab_channel=BBCLearningEnglish",
+          "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2920.png",
+          "describe": "<p><strong>The /ʌ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Central, slightly raised but lower than /ɪ/.</li> <li><strong>Jaw opening:</strong> Moderately open.</li> <li><strong>Lip shape:</strong> Neutral, slightly relaxed.</li> <li><strong>Tongue tension:</strong> More relaxed than /ɪ/.</li> <li><strong>Duration:</strong> Short, but slightly longer than /ɪ/.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Open your mouth slightly and relax your tongue.</li> <li>Position your tongue in the middle of the mouth.</li> <li>Compare it with the /ɪ/ sound by practicing word pairs like <em>cup</em> - <em>kip</em>.</li> </ol>"
+      },
+      "examples": {
+          "sentences": [
+              {
+                  "text": "The sun is up above the hut.",
+                  "ipa": "/ðə sʌn ɪz ʌp əˈbʌv ðə hʌt/"
+              },
+              {
+                  "text": "She loves to run in the sun.",
+                  "ipa": "/ʃi lʌvz tu rʌn ɪn ðə sʌn/"
+              },
+              {
+                  "text": "His mother cut the butter.",
+                  "ipa": "/hɪz ˈmʌðər kʌt ðə ˈbʌtər/"
+              }
+          ],
+          "single_words": [
+              {
+                  "e": "Cup",
+                  "hl": "Cup",
+                  "ipa": "/kʌp/"
+              },
+              {
+                  "e": "Hut",
+                  "hl": "Hut",
+                  "ipa": "/hʌt/"
+              },
+              {
+                  "e": "Sun",
+                  "hl": "Sun",
+                  "ipa": "/sʌn/"
+              }
+          ]
+      },
+      "graphemes": [
+          {
+              "k": "u",
+              "examples": [
+                  {
+                      "e": "Cup",
+                      "ipa": "/kʌp/",
+                      "hl": "Cup"
+                  },
+                  {
+                      "e": "Hut",
+                      "ipa": "/hʌt/",
+                      "hl": "Hut"
+                  },
+                  {
+                      "e": "Sun",
+                      "ipa": "/sʌn/",
+                      "hl": "Sun"
+                  }
+              ]
+          }
+      ],
+      "exercises": [
+          {
+              "level": "easy",
+              "sentences": [
+                  {
+                      "text": "The sun is up above the hut.",
+                      "ipa": "/ðə sʌn ɪz ʌp əˈbʌv ðə hʌt/",
+                      "hl": "The sun is up above the hut."
+                  }
+              ]
+          },
+          {
+              "level": "medium",
+              "sentences": [
+                  {
+                      "text": "She loves to run in the sun.",
+                      "ipa": "/ʃi lʌvz tu rʌn ɪn ðə sʌn/",
+                      "hl": "She luves to run in the sun."
+                  }
+              ]
+          },
+          {
+              "level": "hard",
+              "sentences": [
+                  {
+                      "text": "His mother cut the butter.",
+                      "ipa": "/hɪz ˈmʌðər kʌt ðə ˈbʌtər/",
+                      "hl": "His muther cut the butter."
+                  }
+              ]
+          }
+      ]
+  },
+  "6": {
+      "letters": {
+          "ipa": "/ɒ/",
+          "type": "short vowels"
+      },
+      "comparison": {
+          "similar_to": "/ɔː/",
+          "difference": "/ɒ/ is shorter and more open, while /ɔː/ is longer and more rounded."
+      },
+      "description": {
+          "audio": {
+              "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_sock_2023feb.mp3"
+          },
+          "video": "https://www.youtube.com/watch?v=MAk-XtHsyzM&ab_channel=BBCLearningEnglish",
+          "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2974.png",
+          "describe": "<p><strong>The /ɒ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Back, slightly low.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Rounded.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Open your mouth slightly and round your lips.</li> <li>Position your tongue towards the back of the mouth.</li> <li>Compare it with the /ɑː/ sound by practicing word pairs like <em>cot</em> - <em>cart</em>.</li> </ol>"
+      },
+      "examples": {
+          "sentences": [
+              {
+                  "text": "The dog was on the top of the box.",
+                  "ipa": "/ðə dɒɡ wɒz ɒn ðə tɒp ʌv ðə bɒks/"
+              },
+              {
+                  "text": "Tom got a lot of hot coffee.",
+                  "ipa": "/tɒm ɡɒt ə lɒt ʌv hɒt ˈkɒfi/"
+              },
+              {
+                  "text": "She lost the clock in the shop.",
+                  "ipa": "/ʃi lɒst ðə klɒk ɪn ðə ʃɒp/"
+              }
+          ],
+          "single_words": [
+              {
+                  "e": "Dog",
+                  "hl": "Dog",
+                  "ipa": "/dɒɡ/"
+              },
+              {
+                  "e": "Top",
+                  "hl": "Top",
+                  "ipa": "/tɒp/"
+              },
+              {
+                  "e": "Box",
+                  "hl": "Box",
+                  "ipa": "/bɒks/"
+              }
+          ]
+      },
+      "graphemes": [
+          {
+              "k": "o",
+              "examples": [
+                  {
+                      "e": "Dog",
+                      "ipa": "/dɒɡ/",
+                      "hl": "Dog"
+                  },
+                  {
+                      "e": "Top",
+                      "ipa": "/tɒp/",
+                      "hl": "Top"
+                  },
+                  {
+                      "e": "Box",
+                      "ipa": "/bɒks/",
+                      "hl": "Box"
+                  }
+              ]
+          }
+      ],
+      "exercises": [
+          {
+              "level": "easy",
+              "sentences": [
+                  {
+                      "text": "The dog was on the top of the box.",
+                      "ipa": "/ðə dɒɡ wɒz ɒn ðə tɒp ʌv ðə bɒks/",
+                      "hl": "The dog was on the top of the box."
+                  }
+              ]
+          },
+          {
+              "level": "medium",
+              "sentences": [
+                  {
+                      "text": "Tom got a lot of hot coffee.",
+                      "ipa": "/tɒm ɡɒt ə lɒt ʌv hɒt ˈkɒfi/",
+                      "hl": "Tom got a lot of hot coffee."
+                  }
+              ]
+          },
+          {
+              "level": "hard",
+              "sentences": [
+                  {
+                      "text": "She lost the clock in the shop.",
+                      "ipa": "/ʃi lɒst ðə klɒk ɪn ðə ʃɒp/",
+                      "hl": "She lost the clock in the shop."
+                  }
+              ]
+          }
+      ]
+  },
+  "7": {
+      "letters": {
+          "ipa": "/ə/",
+          "type": "mid-central vowel"
+      },
+      "comparison": {
+          "similar_to": "/ʌ/",
+          "difference": "/ə/ is always unstressed, while /ʌ/ can be stressed. /ə/ is the most common vowel sound in English."
+      },
+      "description": {
+          "audio": {
+              "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_above_2023feb.mp3",
+              "us": "https://dictionary.cambridge.org/vi/media/english/us_phonetic/us_phonetics_sound_above_2023feb.mp3"
+          },
+          "video": "https://www.youtube.com/watch?v=wg0P0oYkniE&ab_channel=BBCLearningEnglish",
+          "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2905.png",
+          "describe": "<p><strong>The /ə/ sound (schwa)</strong> is the most common vowel sound in English, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Central, relaxed.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Neutral.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Very short.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Relax your mouth and tongue.</li> <li>Do not stress the syllable containing /ə/.</li> <li>Compare it with a stressed vowel by practicing word pairs like <em>sofa</em> - <em>cup</em>.</li> </ol>"
+      },
+      "examples": {
+          "sentences": [
+              {
+                  "text": "The banana is on the sofa.",
+                  "ipa": "/ðə bəˈnɑːnə ɪz ɒn ðə ˈsəʊfə/"
+              },
+              {
+                  "text": "He was about to arrive at the cinema.",
+                  "ipa": "/hi wəz əˈbaʊt tu əˈraɪv ət ðə ˈsɪnəmə/"
+              },
+              {
+                  "text": "America has a lot of beautiful places.",
+                  "ipa": "/əˈmɛrɪkə hæz ə lɒt ʌv ˈbjuːtəfəl ˈpleɪsɪz/"
+              }
+          ],
+          "single_words": [
+              {
+                  "e": "Banana",
+                  "hl": "Banana",
+                  "ipa": "/bəˈnɑːnə/"
+              },
+              {
+                  "e": "Sofa",
+                  "hl": "Sofa",
+                  "ipa": "/ˈsəʊfə/"
+              },
+              {
+                  "e": "America",
+                  "hl": "America",
+                  "ipa": "/əˈmɛrɪkə/"
+              }
+          ]
+      },
+      "graphemes": [
+          {
+              "k": "a, e, i, o, u",
+              "examples": [
+                  {
+                      "e": "Banana",
+                      "ipa": "/bəˈnɑːnə/",
+                      "hl": "Banana"
+                  },
+                  {
+                      "e": "Sofa",
+                      "ipa": "/ˈsəʊfə/",
+                      "hl": "Sofa"
+                  },
+                  {
+                      "e": "America",
+                      "ipa": "/əˈmɛrɪkə/",
+                      "hl": "America"
+                  }
+              ]
+          }
+      ],
+      "exercises": [
+          {
+              "level": "easy",
+              "sentences": [
+                  {
+                      "text": "The banana is on the sofa.",
+                      "ipa": "/ðə bəˈnɑːnə ɪz ɒn ðə ˈsəʊfə/",
+                      "hl": "The banana is on the sofa."
+                  }
+              ]
+          },
+          {
+              "level": "medium",
+              "sentences": [
+                  {
+                      "text": "He was about to arrive at the cinema.",
+                      "ipa": "/hi wəz əˈbaʊt tu əˈraɪv ət ðə ˈsɪnəmə/",
+                      "hl": "He was about to arrive at the cinema."
+                  }
+              ]
+          },
+          {
+              "level": "hard",
+              "sentences": [
+                  {
+                      "text": "America has a lot of beautiful places.",
+                      "ipa": "/əˈmɛrɪkə hæz ə lɒt ʌv ˈbjuːtəfəl ˈpleɪsɪz/",
+                      "hl": "America has a lot of beautiful places."
+                  }
+              ]
+          }
+      ]
   }
+}
