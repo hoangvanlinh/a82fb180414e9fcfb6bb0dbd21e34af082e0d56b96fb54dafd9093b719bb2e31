@@ -1,1 +1,486 @@
-{}
+{
+    "1": {
+        "letters": {
+            "type": "Nguyên âm ngắn"
+        },
+        "comparison": {
+            "difference": "/ɪ/ được phát âm ngắn và thoải mái, trong khi /iː/ được phát âm kéo dài và với cơ lưỡi căng hơn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ɪ/</strong> là một nguyên âm ngắn, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Đặt lưỡi ở phía trước, hơi nâng lên nhưng không cao như /iː/.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ, không quá rộng.</li><li><strong>Hình dạng môi:</strong> Môi thư giãn, hơi mở, không tròn.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi giữ ở trạng thái thư giãn.</li><li><strong>Thời gian phát âm:</strong> Ngắn, không kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Mở miệng vừa đủ, không cố gắng căng môi.</li><li>Đặt lưỡi về phía trước và hơi nâng lên.</li><li>Phát âm nhanh, ngắn gọn; tránh kéo dài như /iː/.</li><li>Luyện tập qua cặp từ: bit - beat.</li></ol>"
+        }
+    },
+    "2": {
+        "letters": {
+            "type": "Nguyên âm ngắn"
+        },
+        "comparison": {
+            "difference": "/ʊ/ được phát âm ngắn và nhẹ nhàng, trong khi /uː/ được phát âm kéo dài và với cơ lưỡi căng hơn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ʊ/</strong> là một nguyên âm ngắn, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Đặt lưỡi cao nhưng không cao bằng /uː/.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ.</li><li><strong>Hình dạng môi:</strong> Môi tròn nhưng không quá tròn như /uː/.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi thư giãn.</li><li><strong>Thời gian phát âm:</strong> Ngắn, không kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Giữ môi tròn nhẹ.</li><li>Đặt lưỡi cao nhưng không quá cao.</li><li>Phát âm nhanh, ngắn; tránh kéo dài như /uː/.</li><li>Luyện tập qua cặp từ: pull - pool.</li></ol>"
+        }
+    },
+    "3": {
+        "letters": {
+            "type": "Nguyên âm ngắn"
+        },
+        "comparison": {
+            "difference": "/ɛ/ là nguyên âm ngắn, thư giãn; trong khi /eɪ/ là nguyên âm đôi, chuyển động từ /ɛ/ sang /ɪ/."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ɛ/</strong> là nguyên âm ngắn, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt ở phía trước, ở mức trung bình.</li><li><strong>Mở hàm:</strong> Miệng mở vừa phải.</li><li><strong>Hình dạng môi:</strong> Môi thư giãn, không tròn.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi ở trạng thái thư giãn.</li><li><strong>Thời gian phát âm:</strong> Ngắn.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Mở miệng vừa đủ, giữ môi thư giãn.</li><li>Đặt lưỡi ở giữa miệng, hơi nâng lên phía trước.</li><li>Phát âm nhanh, ngắn; tránh kéo dài thành /eɪ/.</li><li>Luyện tập qua cặp từ: bed - bait.</li></ol>"
+        }
+    },
+    "4": {
+        "letters": {
+            "type": "Nguyên âm ngắn"
+        },
+        "comparison": {
+            "difference": "/æ/ được phát âm ngắn và ở vị trí phía trước, trong khi /ɑː/ được phát âm dài và mở rộng hơn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /æ/</strong> là nguyên âm ngắn, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt ở phía trước, hạ thấp, kèm theo việc mở hàm rộng.</li><li><strong>Mở hàm:</strong> Miệng mở rộng.</li><li><strong>Hình dạng môi:</strong> Môi ở dạng trung tính, hơi mở rộng.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi hơi căng hơn so với /ɪ/.</li><li><strong>Thời gian phát âm:</strong> Ngắn, nhưng hơi dài hơn /ɪ/.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Mở miệng rộng và hạ lưỡi xuống.</li><li>Đặt lưỡi về phía trước.</li><li>Luyện tập qua cặp từ: bat - bit.</li></ol>"
+        }
+    },
+    "5": {
+        "letters": {
+            "type": "Nguyên âm ngắn"
+        },
+        "comparison": {
+            "difference": "/ʌ/ được phát âm ngắn và ở vị trí trung tâm, trong khi /ɑː/ được phát âm dài và mở rộng hơn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ʌ/</strong> là nguyên âm ngắn, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt ở vị trí trung tâm, hơi nâng lên nhưng thấp hơn /ɪ/.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ.</li><li><strong>Hình dạng môi:</strong> Môi ở dạng trung tính, thư giãn.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi thư giãn.</li><li><strong>Thời gian phát âm:</strong> Ngắn, nhưng hơi dài hơn /ɪ/.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Mở miệng nhẹ và thư giãn lưỡi.</li><li>Đặt lưỡi ở vị trí trung tâm của miệng.</li><li>Luyện tập qua cặp từ: cup - kip.</li></ol>"
+        }
+    },
+    "6": {
+        "letters": {
+            "type": "Nguyên âm ngắn"
+        },
+        "comparison": {
+            "difference": "/ɒ/ được phát âm ngắn và mở; trong khi /ɔː/ được phát âm dài với môi tròn hơn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ɒ/</strong> là nguyên âm ngắn, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt phía sau, hơi thấp.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ.</li><li><strong>Hình dạng môi:</strong> Môi tròn.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi thư giãn.</li><li><strong>Thời gian phát âm:</strong> Ngắn.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Mở miệng vừa đủ và làm tròn môi.</li><li>Đặt lưỡi về phía sau miệng.</li><li>Luyện tập qua cặp từ: cot - cart.</li></ol>"
+        }
+    },
+    "7": {
+        "letters": {
+            "type": "Nguyên âm trung tâm"
+        },
+        "comparison": {
+            "difference": "/ə/ luôn được phát âm không nhấn, trong khi /ʌ/ có thể được nhấn. Âm /ə/ là âm phổ biến nhất trong tiếng Anh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ə/ (schwa)</strong> là âm phổ biến nhất trong tiếng Anh, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt ở vị trí trung tâm, thư giãn.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ.</li><li><strong>Hình dạng môi:</strong> Môi ở dạng trung tính.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi thư giãn.</li><li><strong>Thời gian phát âm:</strong> Rất ngắn.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Thư giãn miệng và lưỡi.</li><li>Không nhấn âm tiết chứa /ə/.</li><li>Luyện tập qua cặp từ: sofa - cup.</li></ol>"
+        }
+    },
+    "8": {
+        "letters": {
+            "type": "Nguyên âm dài"
+        },
+        "comparison": {
+            "difference": "/iː/ được phát âm dài và với cơ lưỡi căng, trong khi /ɪ/ được phát âm ngắn và thư giãn hơn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /iː/</strong> là nguyên âm dài, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt phía trước, cao và căng.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ.</li><li><strong>Hình dạng môi:</strong> Môi không tròn, hơi mở rộng.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi căng.</li><li><strong>Thời gian phát âm:</strong> Dài và kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Giữ lưỡi cao và hướng về phía trước trong miệng.</li><li>Hơi căng môi thành nụ cười nhẹ.</li><li>Giữ âm lâu hơn so với /ɪ/.</li><li>Luyện tập qua cặp từ: sheep - ship.</li></ol>"
+        }
+    },
+    "9": {
+        "letters": {
+            "type": "Nguyên âm dài"
+        },
+        "comparison": {
+            "difference": "/uː/ được phát âm dài và với cơ lưỡi căng, trong khi /ʊ/ được phát âm ngắn và thư giãn hơn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /uː/</strong> là nguyên âm dài, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt phía sau, cao và căng.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ.</li><li><strong>Hình dạng môi:</strong> Môi tròn.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi căng.</li><li><strong>Thời gian phát âm:</strong> Dài và kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Giữ lưỡi cao và đặt về phía sau trong miệng.</li><li>Làm tròn môi nhẹ.</li><li>Giữ âm lâu hơn so với /ʊ/.</li><li>Luyện tập qua cặp từ: pool - pull.</li></ol>"
+        }
+    },
+    "10": {
+        "letters": {
+            "type": "Nguyên âm dài"
+        },
+        "comparison": {
+            "difference": "/ɜː/ là nguyên âm dài có trọng âm, trong khi /ə/ (schwa) được phát âm ngắn và không nhấn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ɜː/</strong> là nguyên âm dài, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt ở trung tâm, giữ ở trạng thái căng.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ.</li><li><strong>Hình dạng môi:</strong> Môi ở dạng trung tính, không tròn.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi căng.</li><li><strong>Thời gian phát âm:</strong> Dài và kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Giữ lưỡi ở vị trí trung tâm.</li><li>Không làm tròn môi.</li><li>Giữ âm lâu hơn so với /ə/.</li><li>Luyện tập qua cặp từ: her - sofa.</li></ol>"
+        }
+    },
+    "11": {
+        "letters": {
+            "type": "Nguyên âm dài"
+        },
+        "comparison": {
+            "difference": "/ɔː/ được phát âm dài với môi tròn, trong khi /ɒ/ được phát âm ngắn và mở hơn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ɔː/</strong> là nguyên âm dài, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt phía sau, ở mức trung bình và được giữ căng.</li><li><strong>Mở hàm:</strong> Miệng mở vừa đủ.</li><li><strong>Hình dạng môi:</strong> Môi tròn.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi căng.</li><li><strong>Thời gian phát âm:</strong> Dài và kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Giữ lưỡi ở phía sau, hơi thấp.</li><li>Làm tròn môi vừa đủ.</li><li>Giữ âm lâu hơn so với /ɒ/.</li><li>Luyện tập qua cặp từ: law - lot.</li></ol>"
+        }
+    },
+    "12": {
+        "letters": {
+            "type": "Nguyên âm dài"
+        },
+        "comparison": {
+            "difference": "/ɑː/ được phát âm dài với miệng mở rộng, trong khi /æ/ được phát âm ngắn và ở vị trí phía trước."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ɑː/</strong> là nguyên âm dài, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Lưỡi đặt phía sau, thấp và được giữ căng.</li><li><strong>Mở hàm:</strong> Miệng mở rộng.</li><li><strong>Hình dạng môi:</strong> Môi ở dạng trung tính, không tròn.</li><li><strong>Độ căng của lưỡi:</strong> Lưỡi căng.</li><li><strong>Thời gian phát âm:</strong> Dài và kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Mở miệng rộng và thư giãn môi.</li><li>Đặt lưỡi thấp, hơi về phía sau.</li><li>Giữ âm lâu hơn so với /æ/.</li><li>Luyện tập qua cặp từ: car - cat.</li></ol>"
+        }
+    },
+    "13": {
+        "letters": {
+            "type": "Nguyên âm đôi"
+        },
+        "comparison": {
+            "difference": "/eɪ/ là nguyên âm đôi, chuyển động từ /e/ sang /ɪ/; còn /ɛ/ là nguyên âm đơn ngắn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /eɪ/</strong> là nguyên âm đôi, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Bắt đầu ở vị trí giữa phía trước (/e/), sau đó chuyển dần lên về phía /ɪ/.</li><li><strong>Mở hàm:</strong> Miệng mở nhẹ ban đầu rồi khép lại một chút.</li><li><strong>Hình dạng môi:</strong> Môi thư giãn, hơi mở rộng.</li><li><strong>Độ căng của lưỡi:</strong> Ban đầu thư giãn, sau đó hơi căng.</li><li><strong>Thời gian phát âm:</strong> Kéo dài do chuyển động giữa hai vị trí.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Bắt đầu với lưỡi ở vị trí giữa phía trước (/e/).</li><li>Di chuyển lưỡi lên nhẹ và về phía trước (/ɪ/).</li><li>Phát âm mượt mà, không ngắt quãng giữa hai âm.</li><li>Luyện tập qua cặp từ: late - let.</li></ol>"
+        }
+    },
+    "14": {
+        "letters": {
+            "type": "Nguyên âm đôi"
+        },
+        "comparison": {
+            "difference": "/aɪ/ là nguyên âm đôi, chuyển động từ /a/ sang /ɪ/; còn /æ/ là nguyên âm đơn ngắn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /aɪ/</strong> là nguyên âm đôi, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Bắt đầu ở vị trí thấp (/a/), sau đó chuyển dần lên vị trí cao phía trước (/ɪ/).</li><li><strong>Mở hàm:</strong> Miệng mở ban đầu rồi khép lại nhẹ.</li><li><strong>Hình dạng môi:</strong> Môi ở dạng trung tính, sau đó hơi mở rộng.</li><li><strong>Độ căng của lưỡi:</strong> Ban đầu thư giãn, sau đó hơi căng.</li><li><strong>Thời gian phát âm:</strong> Kéo dài do quá trình chuyển động.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Bắt đầu với lưỡi ở vị trí thấp.</li><li>Chuyển lưỡi lên về phía vị trí cao phía trước.</li><li>Phát âm mượt mà, không ngắt quãng giữa hai âm.</li><li>Luyện tập qua cặp từ: ride - rad.</li></ol>"
+        }
+    },
+    "15": {
+        "letters": {
+            "type": "Nguyên âm đôi"
+        },
+        "comparison": {
+            "difference": "/ɔɪ/ là nguyên âm đôi, chuyển động từ /ɔ/ sang /ɪ/; còn /ɔː/ là nguyên âm đơn dài."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ɔɪ/</strong> là nguyên âm đôi, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Bắt đầu ở vị trí giữa phía sau với môi tròn (/ɔ/), sau đó chuyển lên vị trí cao phía trước (/ɪ/).</li><li><strong>Mở hàm:</strong> Miệng mở nhẹ ban đầu rồi khép lại nhẹ.</li><li><strong>Hình dạng môi:</strong> Ban đầu môi tròn, sau đó hơi mở rộng.</li><li><strong>Độ căng của lưỡi:</strong> Ban đầu thư giãn, sau đó hơi căng.</li><li><strong>Thời gian phát âm:</strong> Kéo dài do quá trình chuyển động.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Bắt đầu với lưỡi ở vị trí giữa phía sau với môi tròn (/ɔ/).</li><li>Chuyển lưỡi lên về phía vị trí cao phía trước (/ɪ/).</li><li>Phát âm mượt mà, không ngắt quãng giữa hai âm.</li><li>Luyện tập qua cặp từ: boy - bore.</li></ol>"
+        }
+    },
+    "16": {
+        "letters": {
+            "type": "Nguyên âm đôi"
+        },
+        "comparison": {
+            "difference": "/aʊ/ là nguyên âm đôi, chuyển động từ /a/ sang /ʊ/; còn /æ/ là nguyên âm đơn ngắn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /aʊ/</strong> là nguyên âm đôi, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Bắt đầu ở vị trí thấp phía trước (/a/), sau đó chuyển dần lên vị trí cao phía sau với môi tròn (/ʊ/).</li><li><strong>Mở hàm:</strong> Miệng mở ban đầu rồi khép lại nhẹ.</li><li><strong>Hình dạng môi:</strong> Ban đầu môi ở dạng trung tính, sau đó chuyển sang tròn.</li><li><strong>Độ căng của lưỡi:</strong> Ban đầu thư giãn, sau đó hơi căng.</li><li><strong>Thời gian phát âm:</strong> Kéo dài do quá trình chuyển động.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Bắt đầu với lưỡi ở vị trí thấp phía trước.</li><li>Chuyển lưỡi lên về phía vị trí cao phía sau.</li><li>Làm tròn môi nhẹ ở cuối âm.</li><li>Luyện tập qua cặp từ: now - nap.</li></ol>"
+        }
+    },
+    "17": {
+        "letters": {
+            "type": "Nguyên âm đôi"
+        },
+        "comparison": {
+            "difference": "/əʊ/ thường được sử dụng trong tiếng Anh Anh, trong khi /oʊ/ là phiên bản dùng trong tiếng Anh Mỹ."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /əʊ/</strong> là nguyên âm đôi, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Bắt đầu ở vị trí trung tâm (/ə/), sau đó chuyển dần lên vị trí cao phía sau với môi tròn (/ʊ/).</li><li><strong>Mở hàm:</strong> Miệng mở nhẹ ban đầu rồi khép lại.</li><li><strong>Hình dạng môi:</strong> Ban đầu môi ở dạng trung tính, sau đó chuyển sang tròn.</li><li><strong>Độ căng của lưỡi:</strong> Ban đầu thư giãn, sau đó hơi căng.</li><li><strong>Thời gian phát âm:</strong> Kéo dài do chuyển động.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Bắt đầu với lưỡi ở vị trí trung tâm.</li><li>Chuyển lưỡi lên về phía vị trí cao phía sau.</li><li>Làm tròn môi nhẹ ở cuối âm.</li><li>Luyện tập qua cặp từ: go (Anh) - go (Mỹ).</li></ol>"
+        }
+    },
+    "18": {
+        "letters": {
+            "type": "Nguyên âm đôi"
+        },
+        "comparison": {
+            "difference": "/ɪə/ là nguyên âm đôi chuyển động từ /ɪ/ sang /ə/; còn /ɪ/ là nguyên âm đơn ngắn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ɪə/</strong> là nguyên âm đôi, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Bắt đầu ở vị trí cao phía trước (/ɪ/), sau đó chuyển dần sang vị trí trung tâm (/ə/).</li><li><strong>Mở hàm:</strong> Miệng mở nhẹ ban đầu rồi thư giãn.</li><li><strong>Hình dạng môi:</strong> Môi ở dạng trung tính.</li><li><strong>Độ căng của lưỡi:</strong> Ban đầu hơi căng, sau đó thư giãn hơn.</li><li><strong>Thời gian phát âm:</strong> Kéo dài do quá trình chuyển động.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Bắt đầu với lưỡi ở vị trí cao phía trước.</li><li>Di chuyển lưỡi xuống về phía giữa.</li><li>Phát âm mượt mà, liên tục giữa hai âm.</li><li>Luyện tập qua cặp từ: here - hit.</li></ol>"
+        }
+    },
+    "19": {
+        "letters": {
+            "type": "Nguyên âm đôi"
+        },
+        "comparison": {
+            "difference": "/eə/ là nguyên âm đôi chuyển động từ /e/ sang /ə/; còn /e/ là nguyên âm đơn ngắn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /eə/</strong> là nguyên âm đôi, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Bắt đầu ở vị trí giữa phía trước (/e/), sau đó chuyển sang vị trí trung tâm (/ə/).</li><li><strong>Mở hàm:</strong> Miệng mở nhẹ ban đầu rồi thư giãn.</li><li><strong>Hình dạng môi:</strong> Môi ở dạng trung tính.</li><li><strong>Độ căng của lưỡi:</strong> Ban đầu hơi căng, sau đó thư giãn hơn.</li><li><strong>Thời gian phát âm:</strong> Kéo dài do chuyển động.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Bắt đầu với lưỡi ở vị trí giữa phía trước.</li><li>Di chuyển lưỡi hơi về phía sau trung tâm.</li><li>Phát âm mượt mà giữa hai âm.</li><li>Luyện tập qua cặp từ: air - egg.</li></ol>"
+        }
+    },
+    "20": {
+        "letters": {
+            "type": "Nguyên âm đôi"
+        },
+        "comparison": {
+            "difference": "/ʊə/ là nguyên âm đôi chuyển động từ /ʊ/ sang /ə/; còn /ʊ/ là nguyên âm đơn ngắn."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ʊə/</strong> là nguyên âm đôi, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Bắt đầu ở vị trí cao phía sau (/ʊ/), sau đó chuyển sang vị trí trung tâm (/ə/).</li><li><strong>Mở hàm:</strong> Miệng mở nhẹ ban đầu rồi thư giãn.</li><li><strong>Hình dạng môi:</strong> Ban đầu môi tròn, sau đó chuyển sang dạng trung tính.</li><li><strong>Độ căng của lưỡi:</strong> Ban đầu hơi căng, sau đó thư giãn hơn.</li><li><strong>Thời gian phát âm:</strong> Kéo dài do chuyển động.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Bắt đầu với lưỡi ở vị trí cao phía sau.</li><li>Di chuyển lưỡi về phía trước trung tâm.</li><li>Làm tròn môi ở đầu rồi thư giãn.</li><li>Luyện tập qua cặp từ: tour - took.</li></ol>"
+        }
+    },
+    "21": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/f/ là phụ âm vô thanh, không rung dây thanh; trong khi /v/ là phụ âm hữu thanh có rung dây thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /f/</strong> là phụ âm xát môi vô thanh, được phát âm như sau:</p><ul><li><strong>Môi và răng:</strong> Môi dưới chạm vào răng trên.</li><li><strong>Luồng không khí:</strong> Không khí thổi qua khe hẹp giữa môi và răng.</li><li><strong>Dây thanh:</strong> Không rung.</li><li><strong>Thời gian phát âm:</strong> Có thể kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt môi dưới lên răng trên.</li><li>Thổi không khí qua khe hẹp đó.</li><li>Phát âm mà không sử dụng giọng nói (không rung dây thanh).</li><li>Luyện tập qua cặp từ: fan - van.</li></ol>"
+        }
+    },
+    "22": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/v/ là phụ âm hữu thanh với rung dây thanh, trong khi /f/ là phụ âm vô thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /v/</strong> là phụ âm xát môi hữu thanh, được phát âm như sau:</p><ul><li><strong>Môi và răng:</strong> Môi dưới chạm vào răng trên.</li><li><strong>Luồng không khí:</strong> Không khí thổi qua khe hẹp giữa môi và răng.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li><li><strong>Thời gian phát âm:</strong> Có thể kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt môi dưới lên răng trên.</li><li>Thổi không khí qua khe hẹp đó trong khi làm rung dây thanh.</li><li>Luyện tập qua cặp từ: fan - van.</li></ol>"
+        }
+    },
+    "23": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/θ/ là phụ âm vô thanh, trong khi /ð/ là phụ âm hữu thanh có rung dây thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /θ/</strong> là phụ âm vô thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí chảy qua khe hẹp giữa lưỡi và răng cửa trên.</li><li><strong>Vị trí lưỡi:</strong> Đặt đầu lưỡi nhẹ vào răng cửa trên mà không che kín không khí.</li><li><strong>Dây thanh:</strong> Không rung.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi nhẹ chạm vào răng cửa trên.</li><li>Để không khí chảy qua khe hẹp đó.</li><li>Giữ cho dây thanh không rung.</li></ol>"
+        }
+    },
+    "24": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/ð/ là phụ âm hữu thanh với rung dây thanh, trong khi /θ/ là phụ âm vô thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ð/</strong> là phụ âm xát răng hữu thanh, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Đặt đầu lưỡi chạm nhẹ vào răng cửa trên.</li><li><strong>Luồng không khí:</strong> Không khí chảy qua khe hẹp giữa lưỡi và răng.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li><li><strong>Thời gian phát âm:</strong> Có thể kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi lên răng cửa trên.</li><li>Thổi không khí qua khe hẹp đó trong khi làm rung dây thanh.</li><li>Luyện tập qua cặp từ: this - think.</li></ol>"
+        }
+    },
+    "25": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/s/ là phụ âm vô thanh, không rung dây thanh; trong khi /z/ là phụ âm hữu thanh với rung dây thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /s/</strong> là phụ âm xát răng vô thanh, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Đặt đầu lưỡi gần sọ răng.</li><li><strong>Luồng không khí:</strong> Không khí chảy qua khe hẹp tạo ma sát.</li><li><strong>Dây thanh:</strong> Không rung.</li><li><strong>Thời gian phát âm:</strong> Có thể kéo dài.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi gần sọ răng nhưng không chạm vào.</li><li>Thổi không khí qua khe hẹp đó, giữ cho dây thanh không rung.</li><li>Luyện tập qua cặp từ: sip - zip (nếu cảm thấy rung, đó là /z/).</li></ol>"
+        }
+    },
+    "26": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/z/ là phụ âm hữu thanh với rung dây thanh, trong khi /s/ là phụ âm vô thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /z/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Rung dây thanh:</strong> Dây thanh rung khi phát âm.</li><li><strong>Vị trí lưỡi:</strong> Đặt đầu lưỡi gần sọ răng.</li><li><strong>Luồng không khí:</strong> Không khí chảy qua khe hẹp liên tục.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt lưỡi gần sọ răng.</li><li>Phát âm đồng thời làm rung dây thanh.</li><li>Luyện tập qua cặp từ: sip - zip.</li></ol>"
+        }
+    },
+    "27": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/ʃ/ là phụ âm vô thanh phát âm ở phía sau sọ răng, còn /ʒ/ là phiên bản hữu thanh của /ʃ/."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ʃ/</strong> là phụ âm vô thanh, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Đặt lưỡi gần vòm miệng, phía sau sọ răng.</li><li><strong>Luồng không khí:</strong> Không khí chảy qua lưỡi tạo ra tiếng ma sát.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt lưỡi gần vòm miệng.</li><li>Phát âm mà không làm rung dây thanh.</li><li>Luyện tập qua cặp từ: she - genre.</li></ol>"
+        }
+    },
+    "28": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/ʒ/ là phụ âm hữu thanh phát âm ở phía sau sọ răng, trong khi /ʃ/ là phụ âm vô thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ʒ/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Vị trí lưỡi:</strong> Đặt lưỡi gần vòm miệng, phía sau sọ răng.</li><li><strong>Luồng không khí:</strong> Không khí chảy qua lưỡi kèm theo rung dây thanh tạo ra tiếng ma sát.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt lưỡi gần vòm miệng.</li><li>Phát âm trong khi làm rung dây thanh.</li><li>Luyện tập qua cặp từ: vision - mission.</li></ol>"
+        }
+    },
+    "29": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/h/ là phụ âm vô thanh được phát âm từ cuống họng, trong khi /ʔ/ là âm cản họng và /x/ là phụ âm xát họng."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /h/</strong> là phụ âm vô thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí chảy qua cuống họng mở tự nhiên.</li><li><strong>Vị trí lưỡi:</strong> Lưỡi giữ ở vị trí trung tính, không ảnh hưởng nhiều đến phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Giữ cuống họng mở để không khí chảy tự do.</li><li>Giữ lưỡi ở vị trí trung tính.</li><li>Luyện tập bằng cách so sánh với các âm có rung dây thanh.</li></ol>"
+        }
+    },
+    "30": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/p/ là phụ âm vô thanh được phát âm bằng cách khép môi hoàn toàn, trong khi /b/ là phụ âm hữu thanh và /f/ là phụ âm xát."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /p/</strong> là phụ âm vô thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí bị chặn lại khi môi khép kín, sau đó thả ra đột ngột.</li><li><strong>Vị trí môi:</strong> Môi được khép kín hoàn toàn trước khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Khép môi hoàn toàn.</li><li>Tạo áp lực không khí sau môi.</li><li>Thả không khí ra nhanh để tạo ra âm /p/.</li></ol>"
+        }
+    },
+    "31": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/b/ là phụ âm hữu thanh được phát âm bằng cách khép môi, trong khi /p/ là vô thanh và /m/ là phụ âm mũi."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /b/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí bị chặn lại khi môi khép kín, sau đó thả ra đột ngột.</li><li><strong>Vị trí môi:</strong> Môi khép kín hoàn toàn.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Khép môi hoàn toàn.</li><li>Tạo áp lực không khí sau môi.</li><li>Thả không khí ra trong khi làm rung dây thanh.</li></ol>"
+        }
+    },
+    "32": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/t/ là phụ âm vô thanh được phát âm bằng cách chạm đầu lưỡi vào vùng sau răng cửa trên, trong khi /d/ là hữu thanh và /θ/ là phụ âm vô thanh xát răng."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /t/</strong> là phụ âm vô thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí bị chặn lại khi đầu lưỡi chạm vào vùng sau răng cửa trên, sau đó thả ra đột ngột.</li><li><strong>Vị trí lưỡi:</strong> Đặt đầu lưỡi vào vùng ngay sau răng cửa trên.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi vào khu vực sau răng cửa trên.</li><li>Tạo áp lực không khí sau lưỡi.</li><li>Thả không khí ra nhanh để tạo ra âm /t/.</li></ol>"
+        }
+    },
+    "33": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/d/ là phụ âm hữu thanh được phát âm bằng cách chạm đầu lưỡi vào vùng sau răng cửa trên, trong khi /t/ là vô thanh và /ð/ là phụ âm hữu thanh xát răng."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /d/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí bị chặn lại khi đầu lưỡi chạm vào vùng sau răng cửa trên, sau đó thả ra đột ngột.</li><li><strong>Vị trí lưỡi:</strong> Đặt đầu lưỡi vào khu vực ngay sau răng cửa trên.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi vào khu vực sau răng cửa trên.</li><li>Tạo áp lực không khí sau lưỡi.</li><li>Thả không khí ra trong khi làm rung dây thanh.</li></ol>"
+        }
+    },
+    "34": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/k/ là phụ âm vô thanh được phát âm bằng cách nâng phần sau của lưỡi lên chạm vào vòm miệng mềm, trong khi /g/ là phụ âm hữu thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /k/</strong> là phụ âm vô thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí bị chặn lại khi phần sau của lưỡi chạm vào vòm miệng mềm, sau đó thả ra đột ngột.</li><li><strong>Vị trí lưỡi:</strong> Phần sau của lưỡi chạm vào vòm miệng mềm rồi thả ra nhanh chóng.</li><li><strong>Dây thanh:</strong> Không rung.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Nâng phần sau của lưỡi lên chạm vào vòm miệng mềm.</li><li>Tạo áp lực không khí sau lưỡi.</li><li>Thả không khí ra mà không làm rung dây thanh.</li></ol>"
+        }
+    },
+    "35": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/g/ là phụ âm hữu thanh được phát âm bằng cách đặt phần sau của lưỡi lên vòm miệng mềm, trong khi /k/ là vô thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /g/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí bị chặn lại khi phần sau của lưỡi chạm vào vòm miệng mềm, sau đó thả ra đột ngột.</li><li><strong>Vị trí lưỡi:</strong> Phần sau của lưỡi chạm vào vòm miệng mềm rồi thả ra nhanh chóng.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt phần sau của lưỡi lên vòm miệng mềm.</li><li>Tạo áp lực không khí sau lưỡi.</li><li>Thả không khí ra trong khi làm rung dây thanh.</li></ol>"
+        }
+    },
+    "36": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/m/ là phụ âm mũi hữu thanh, được phát âm bằng cách ép môi lại với nhau để không khí đi qua mũi; trong khi /n/ phát âm bằng cách đặt đầu lưỡi vào vùng sau răng cửa trên, và /ŋ/ được phát âm ở phần sau của miệng."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /m/</strong> là phụ âm mũi hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí không ra ngoài qua miệng vì môi được ép lại, mà thoát qua mũi.</li><li><strong>Vị trí môi:</strong> Cả hai môi được ép lại với nhau.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Ép môi lại với nhau một cách chắc chắn.</li><li>Phát âm sao cho không khí đi qua mũi.</li><li>Luyện tập qua các cặp từ để cảm nhận sự khác biệt.</li></ol>"
+        }
+    },
+    "37": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/n/ là phụ âm mũi hữu thanh được phát âm bằng cách đặt đầu lưỡi vào vùng sau răng cửa trên, trong khi /m/ được phát âm bằng cách chạm môi, và /ŋ/ được phát âm ở phần sau của miệng."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /n/</strong> là phụ âm mũi hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí đi qua mũi vì phần miệng bị chặn bởi lưỡi.</li><li><strong>Vị trí lưỡi:</strong> Đặt đầu lưỡi vào vùng sau răng cửa trên.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi vào vùng sau răng cửa trên.</li><li>Hạ vòm mềm xuống để không khí thoát qua mũi.</li><li>Phát âm trong khi làm rung dây thanh.</li></ol>"
+        }
+    },
+    "38": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/ŋ/ là phụ âm mũi hữu thanh được phát âm ở phần sau của miệng, trong khi /n/ phát âm ở vùng sau răng cửa trên và /m/ được phát âm bằng cách chạm môi."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /ŋ/</strong> là phụ âm mũi hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí đi qua mũi khi phần sau của lưỡi chạm vào vòm miệng mềm.</li><li><strong>Vị trí lưỡi:</strong> Phần sau của lưỡi chạm vào vòm miệng mềm.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Nâng phần sau của lưỡi lên chạm vào vòm miệng mềm.</li><li>Phát âm sao cho không khí đi qua mũi và cùng lúc làm rung dây thanh.</li><li>Thả lưỡi ra để hoàn thành âm /ŋ/.</li></ol>"
+        }
+    },
+    "39": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/w/ được phát âm bằng cách làm tròn môi và đặt phần sau của lưỡi gần vòm miệng mềm, trong khi /v/ là phụ âm xát môi và /r/ được phát âm với đầu lưỡi nâng lên."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /w/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí chảy qua miệng mà không tạo ra ma sát.</li><li><strong>Vị trí môi:</strong> Môi được làm tròn.</li><li><strong>Vị trí lưỡi:</strong> Phần sau của lưỡi tiến gần vòm miệng mềm nhưng không chạm vào.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Làm tròn môi.</li><li>Nâng phần sau của lưỡi lên gần vòm miệng mềm nhưng không chạm vào.</li><li>Phát âm đồng thời làm rung dây thanh.</li></ol>"
+        }
+    },
+    "40": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/j/ được phát âm bằng cách nâng lưỡi về phía vòm miệng cứng, trong khi /i/ là nguyên âm cửa trước hẹp không tròn, và /ʒ/ là phụ âm sau sọ hữu thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /j/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí chảy tự do khi lưỡi tiến gần vòm miệng cứng mà không tạo ma sát.</li><li><strong>Vị trí lưỡi:</strong> Phần giữa của lưỡi nâng lên về phía vòm miệng cứng.</li><li><strong>Vị trí môi:</strong> Môi ở dạng trung tính hoặc hơi mở rộng.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Nâng phần giữa của lưỡi lên về phía vòm miệng cứng mà không chạm vào.</li><li>Để không khí chảy qua lưỡi tự do, không tạo ma sát.</li><li>Đảm bảo rằng dây thanh rung khi phát âm.</li></ol>"
+        }
+    },
+    "41": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/r/ được phát âm bằng cách nâng đầu lưỡi lên gần vùng sau răng cửa trên, trong khi /l/ được phát âm bằng cách để không khí đi qua hai bên lưỡi."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /r/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí chảy qua phần giữa miệng.</li><li><strong>Vị trí lưỡi:</strong> Đầu lưỡi được nâng lên gần vùng sau răng cửa trên nhưng không chạm vào.</li><li><strong>Vị trí môi:</strong> Môi có thể hơi tròn.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Nâng đầu lưỡi lên gần vùng sau răng cửa trên mà không chạm vào.</li><li>Giữ môi hơi tròn.</li><li>Phát âm sao cho không khí đi qua phần giữa miệng.</li></ol>"
+        }
+    },
+    "42": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/l/ được phát âm bằng cách đặt đầu lưỡi vào vùng sau răng cửa trên để không khí đi qua hai bên lưỡi, khác với /r/."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /l/</strong> là phụ âm hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí đi qua hai bên lưỡi.</li><li><strong>Vị trí lưỡi:</strong> Đầu lưỡi chạm vào vùng sau răng cửa trên.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi vào vùng sau răng cửa trên.</li><li>Để không khí thoát ra qua hai bên của lưỡi.</li><li>Phát âm rõ ràng để tạo ra âm /l/.</li></ol>"
+        }
+    },
+    "43": {
+        "letters": {
+            "type": "Phụ âm vô thanh"
+        },
+        "comparison": {
+            "difference": "/tʃ/ là phụ âm kết hợp, bắt đầu bằng âm dừng /t/ rồi phát ra âm xát /ʃ/; trong khi /t/ chỉ là âm dừng vô thanh và /ʃ/ là âm xát vô thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /tʃ/</strong> là phụ âm kết hợp vô thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Không khí bị chặn lại khi đầu lưỡi chạm vào răng, sau đó thả ra tạo ra âm xát.</li><li><strong>Vị trí lưỡi:</strong> Đầu lưỡi chạm vào răng cửa trên rồi di chuyển nhẹ lùi lại để tạo âm xát.</li><li><strong>Dây thanh:</strong> Không rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi vào vùng sau răng cửa trên.</li><li>Tạo áp lực không khí bằng cách giữ lưỡi.</li><li>Thả không khí ra trong khi di chuyển lưỡi nhẹ lùi lại.</li></ol>"
+        }
+    },
+    "44": {
+        "letters": {
+            "type": "Phụ âm hữu thanh"
+        },
+        "comparison": {
+            "difference": "/dʒ/ là phụ âm hữu thanh, bắt đầu bằng âm dừng /d/ sau đó phát ra âm xát /ʒ/; trong khi /tʃ/ là phụ âm vô thanh."
+        },
+        "description": {
+            "describe": "<p><strong>Âm /dʒ/</strong> là phụ âm kết hợp hữu thanh, được phát âm như sau:</p><ul><li><strong>Luồng không khí:</strong> Ban đầu không khí bị chặn lại khi đầu lưỡi chạm vào răng, sau đó thả ra tạo ra ma sát.</li><li><strong>Vị trí lưỡi:</strong> Đặt đầu lưỡi vào vùng sau răng cửa trên rồi di chuyển nhẹ lùi vào vùng sau răng.</li><li><strong>Dây thanh:</strong> Rung khi phát âm.</li></ul><p><strong>Hướng dẫn:</strong></p><ol><li>Đặt đầu lưỡi vào vùng sau răng cửa trên.</li><li>Tạo áp lực không khí bằng cách giữ lưỡi.</li><li>Thả không khí ra trong khi di chuyển lưỡi nhẹ lùi vào vùng sau răng và đảm bảo rung dây thanh.</li></ol>"
+        }
+    }
+}
