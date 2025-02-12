@@ -1,6 +1,7 @@
 {
     "langapp":[
-        {"code": "en", "name": "English", "flag": "🇬🇧"}
+        {"code": "en", "name": "English", "flag": "🇬🇧"},
+        {"code": "vi", "name": "Vietnamese", "flag": "🇻🇳"}
     ],
     "langvoice":[
         {"code": "en-US", "name": "English (United States)", "flag": "🇺🇸"},
