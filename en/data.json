@@ -679,15 +679,6 @@
     ],
     "exercises": [
       {
-        "k": "a",
-        "examples": [
-          { "e": "Cat", "ipa": "/kæt/", "hl": "C<span style='color:red'>a</span>t" },
-          { "e": "Man", "ipa": "/mæn/", "hl": "M<span style='color:red'>a</span>n" }
-        ]
-      }
-    ],
-    "exercises": [
-      {
         "level": "easy",
         "sentences": [
           { "text": "The fat cat.", "ipa": "/ðə fæt kæt/", "hl": "The f<span style='color:red'>a</span>t c<span style='color:red'>a</span>t." }
@@ -2421,8 +2412,7 @@
     },
     "description": {
       "audio": {
-        "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_hair_2023feb.mp3",
-        "us": "https://dictionary.cambridge.org/media/english/us_pron/us_pron_sound_air.mp3"
+        "uk": "https://dictionary.cambridge.org/vi/media/english/uk_phonetic/uk_phonetics_sound_hair_2023feb.mp3"
       },
       "video": "https://www.youtube.com/watch?v=0J7-5maJJIk&ab_channel=BBCLearningEnglish",
       "image": "https://thesoundofenglish.org/wp-content/uploads/in5-archives/interactive-ipa-chart-22/Interactive%20IPA%20Chart%2022/assets/images/item_2905.png",
