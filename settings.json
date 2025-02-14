@@ -81,10 +81,10 @@
         "house_ads": {
             "config": "https://raw.githubusercontent.com/novelland/image/master/ads.json",
             "ecmp": "1.5",
-            "enable": false
+            "enable": true
         },
         "unity_ads": {
-            "enable": true,
+            "enable": false,
             "game_id": "5436386",
             "ecmp": "9"
         }
