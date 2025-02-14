@@ -42,5 +42,55 @@
         {"code": "ta-IN", "name": "Tamil (India)", "flag": "🇮🇳"},
         {"code": "ur-PK", "name": "Urdu (Pakistan)", "flag": "🇵🇰"},
         {"code": "fa-IR", "name": "Persian (Iran)", "flag": "🇮🇷"}
-    ]
+    ],
+    "ads":{
+        "limitAdsTime": 300000,
+        "mute": true,
+        "admob": {
+            "enable": false,
+            "app_id": "ca-app-pub-7223114719058225~1138249478",
+            "banner": "ca-app-pub-7223114719058225/6647319349",
+            "interstitial": "ca-app-pub-7223114719058225/3302970704",
+            "rewardVideo": "ca-app-pub-7223114719058225/4967976989",
+            "nativeExpress": "",
+            "showVideoAdPercent": 100,
+            "showIntertisialPercent": 20,
+            "nativeAdvance": "ca-app-pub-7223114719058225/1253799545",
+            "showBanner": true,
+            "showNativeAdvance": false,
+            "ecmp": "22"
+        },
+        "vungle": {
+            "ecmp": "0.95",
+            "placement_interstitial": "DEFAULT51196",
+            "placement_ref_banner_id": "BANNER_250-1883709",
+            "placement_ref_native_id": "NATIVE250-5456932",
+            "placement_ref_id": "",
+            "report_id": "598c150d9fa26d1d690030b9",
+            "app_id": "598c150d9fa26d1d690030b9",
+            "enable": false
+        },
+        "adcolony": {
+            "enable": false,
+            "app_id": "app65502bf8db7a45d194",
+            "zone_id": "vz73d0e549c8c542bab9",
+            "interstitial_id": "vz74f89ef681024aac95",
+            "ecmp": "1.4"
+        },
+        "house_ads": {
+            "config": "https://raw.githubusercontent.com/novelland/image/master/ads.json",
+            "ecmp": "1.5",
+            "enable": false
+        },
+        "unity_ads": {
+            "enable": true,
+            "game_id": "5436386",
+            "ecmp": "9"
+        }
+    },
+    "payments": {
+        "crypto":{
+            "url": ""
+        }
+    }
 }
