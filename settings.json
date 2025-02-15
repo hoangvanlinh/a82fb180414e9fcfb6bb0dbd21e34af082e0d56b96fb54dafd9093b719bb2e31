@@ -47,7 +47,7 @@
         "limitAdsTime": 300000,
         "mute": true,
         "admob": {
-            "enable": false,
+            "enable": true,
             "app_id": "ca-app-pub-7223114719058225~1138249478",
             "banner": "ca-app-pub-7223114719058225/6647319349",
             "interstitial": "ca-app-pub-7223114719058225/3302970704",
@@ -81,7 +81,7 @@
         "house_ads": {
             "config": "https://raw.githubusercontent.com/novelland/image/master/ads.json",
             "ecmp": "1.5",
-            "enable": true
+            "enable": false
         },
         "unity_ads": {
             "enable": false,
