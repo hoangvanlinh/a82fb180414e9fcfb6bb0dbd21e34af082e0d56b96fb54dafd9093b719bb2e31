@@ -5,7 +5,7 @@
       "type": "short vowels"
     },
     "comparison": {
-      "similar_to": "/iː/",
+      "similar_to": ["/iː/"],
       "difference": "/ɪ/ is shorter and more relaxed, while /iː/ is longer and more tense."
     },
     "description": {
@@ -316,7 +316,7 @@
       "type": "short vowels"
     },
     "comparison": {
-      "similar_to": "/uː/",
+      "similar_to": ["/uː/"],
       "difference": "/ʊ/ is shorter and more relaxed, while /uː/ is longer and more tense."
     },
     "description": {
@@ -477,7 +477,7 @@
       "type": "short vowels"
     },
     "comparison": {
-      "similar_to": "/eɪ/",
+      "similar_to": ["/eɪ/"],
       "difference": "/ɛ/ is a short, relaxed vowel, while /eɪ/ is a diphthong that glides from /ɛ/ to /ɪ/."
     },
     "description": {
@@ -623,7 +623,7 @@
       "type": "short vowels"
     },
     "comparison": {
-      "similar_to": "/ɑː/",
+      "similar_to": ["/ɑː/"],
       "difference": "/æ/ is shorter and more fronted, while /ɑː/ is longer and more open."
     },
     "description": {
@@ -704,7 +704,7 @@
       "type": "short vowels"
     },
     "comparison": {
-      "similar_to": "/ɑː/",
+      "similar_to": ["/ɑː/"],
       "difference": "/ʌ/ is shorter and more central, while /ɑː/ is longer and more open."
     },
     "description": {
@@ -792,7 +792,7 @@
       "type": "short vowels"
     },
     "comparison": {
-      "similar_to": "/ɔː/",
+      "similar_to": ["/ɔː/"],
       "difference": "/ɒ/ is shorter and more open, while /ɔː/ is longer and more rounded."
     },
     "description": {
@@ -881,7 +881,7 @@
       "type": "mid-central vowel"
     },
     "comparison": {
-      "similar_to": "/ʌ/",
+      "similar_to": ["/ʌ/"],
       "difference": "/ə/ is always unstressed, while /ʌ/ can be stressed. /ə/ is the most common vowel sound in English."
     },
     "description": {
@@ -990,7 +990,7 @@
       "type": "long vowel"
     },
     "comparison": {
-      "similar_to": "/ɪ/",
+      "similar_to": ["/ɪ/"],
       "difference": "/iː/ is longer and tenser, while /ɪ/ is shorter and more relaxed."
     },
     "description": {
@@ -1122,7 +1122,7 @@
       "type": "long vowel"
     },
     "comparison": {
-      "similar_to": "/ʊ/",
+      "similar_to": ["/ʊ/"],
       "difference": "/uː/ is longer and tenser, while /ʊ/ is shorter and more relaxed."
     },
     "description": {
@@ -1253,7 +1253,7 @@
       "type": "long vowel"
     },
     "comparison": {
-      "similar_to": "/ə/",
+      "similar_to": ["/ə/"],
       "difference": "/ɜː/ is a longer, stressed vowel, while /ə/ (schwa) is shorter and always unstressed."
     },
     "description": {
@@ -1384,7 +1384,7 @@
       "type": "long vowel"
     },
     "comparison": {
-      "similar_to": "/ɒ/",
+      "similar_to": ["/ɒ/"],
       "difference": "/ɔː/ is longer and more rounded, while /ɒ/ is shorter and more open."
     },
     "description": {
@@ -1515,7 +1515,7 @@
       "type": "long vowel"
     },
     "comparison": {
-      "similar_to": "/æ/",
+      "similar_to": ["/æ/"],
       "difference": "/ɑː/ is longer and produced with a more open mouth, while /æ/ is shorter and more fronted."
     },
     "description": {
@@ -1641,7 +1641,7 @@
       "type": "diphthong"
     },
     "comparison": {
-      "similar_to": "/ɛ/",
+      "similar_to": ["/ɛ/"],
       "difference": "/eɪ/ is a diphthong that glides from /e/ to /ɪ/, while /ɛ/ is a short, monophthong sound."
     },
     "description": {
@@ -1780,7 +1780,7 @@
       "type": "diphthong"
     },
     "comparison": {
-      "similar_to": "/æ/",
+      "similar_to": ["/æ/"],
       "difference": "/aɪ/ is a diphthong that glides from /a/ to /ɪ/, while /æ/ is a short, monophthong sound."
     },
     "description": {
@@ -1911,7 +1911,7 @@
       "type": "diphthong"
     },
     "comparison": {
-      "similar_to": "/ɔː/",
+      "similar_to": ["/ɔː/"],
       "difference": "/ɔɪ/ is a diphthong that glides from /ɔ/ to /ɪ/, while /ɔː/ is a long, monophthong sound."
     },
     "description": {
@@ -2028,7 +2028,7 @@
       "type": "diphthong"
     },
     "comparison": {
-      "similar_to": "/æ/",
+      "similar_to": ["/æ/"],
       "difference": "/aʊ/ is a diphthong that glides from /a/ to /ʊ/, while /æ/ is a short, monophthong sound."
     },
     "description": {
@@ -2145,7 +2145,7 @@
       "type": "diphthong"
     },
     "comparison": {
-      "similar_to": "/oʊ/",
+      "similar_to": ["/oʊ/"],
       "difference": "/əʊ/ is commonly used in British English, while /oʊ/ is the American English equivalent."
     },
     "description": {
@@ -2276,7 +2276,7 @@
       "type": "diphthong"
     },
     "comparison": {
-      "similar_to": "/ɪ/",
+      "similar_to": ["/ɪ/"],
       "difference": "/ɪə/ is a diphthong that glides from /ɪ/ to /ə/, while /ɪ/ is a short monophthong sound."
     },
     "description": {
@@ -2407,7 +2407,7 @@
       "type": "diphthong"
     },
     "comparison": {
-      "similar_to": "/e/",
+      "similar_to": ["/e/"],
       "difference": "/eə/ is a diphthong that glides from /e/ to /ə/, while /e/ is a short, monophthong sound."
     },
     "description": {
@@ -2538,7 +2538,7 @@
       "type": "diphthong"
     },
     "comparison": {
-      "similar_to": "/ʊ/",
+      "similar_to": ["/ʊ/"],
       "difference": "/ʊə/ is a diphthong that glides from /ʊ/ to /ə/, while /ʊ/ is a short, monophthong sound."
     },
     "description": {
@@ -2660,7 +2660,7 @@
       "type": "voiceless consonant"
     },
     "comparison": {
-      "similar_to": "/v/",
+      "similar_to": ["/v/"],
       "difference": "/f/ is voiceless (no vocal cord vibration), while /v/ is voiced (with vocal cord vibration)."
     },
     "description": {
@@ -2793,7 +2793,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/f/",
+      "similar_to": ["/f/"],
       "difference": "/v/ is voiced (with vocal cord vibration), while /f/ is voiceless (without vocal cord vibration)."
     },
     "description": {
@@ -2910,7 +2910,7 @@
       "type": "voiceless consonant"
     },
     "comparison": {
-      "similar_to": "/ð/",
+      "similar_to": ["/ð/"],
       "difference": "/θ/ is voiceless, whereas /ð/ is voiced."
     },
     "description": {
@@ -2971,7 +2971,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/θ/",
+      "similar_to": ["/θ/"],
       "difference": "/ð/ is voiced (vocal cords vibrate), while /θ/ is voiceless (no vocal cord vibration)."
     },
     "description": {
@@ -3082,7 +3082,7 @@
       "type": "voiceless consonant"
     },
     "comparison": {
-      "similar_to": "/z/",
+      "similar_to": ["/z/"],
       "difference": "/s/ is voiceless (no vocal cord vibration), while /z/ is voiced (vocal cords vibrate)."
     },
     "description": {
@@ -3288,7 +3288,7 @@
       "type": "voiceless consonants"
     },
     "comparison": {
-      "similar_to": "/s/ and /ʒ/",
+      "similar_to": ["/s/","/ʒ/"],
       "difference": "/ʃ/ is a voiceless postalveolar fricative, whereas /s/ is alveolar, and /ʒ/ is its voiced counterpart."
     },
     "description": {
@@ -3363,7 +3363,7 @@
       "type": "voiced consonants"
     },
     "comparison": {
-      "similar_to": "/ʃ/ and /z/",
+      "similar_to": ["/ʃ/","/z/"],
       "difference": "/ʒ/ is a voiced postalveolar fricative, whereas /ʃ/ is voiceless, and /z/ is alveolar."
     },
     "description": {
@@ -3429,7 +3429,7 @@
       "type": "voiceless consonants"
     },
     "comparison": {
-      "similar_to": "/ʔ/ and /x/",
+      "similar_to": ["/ʔ/","/x/"],
       "difference": "/h/ is a voiceless glottal fricative, whereas /ʔ/ is a glottal stop and /x/ is a velar fricative."
     },
     "description": {
@@ -3490,7 +3490,7 @@
       "type": "voiceless consonants"
     },
     "comparison": {
-      "similar_to": "/b/ and /f/",
+      "similar_to": ["/b/","/f/"],
       "difference": "/p/ is a voiceless bilabial plosive, whereas /b/ is voiced, and /f/ is a fricative."
     },
     "description": {
@@ -3551,7 +3551,7 @@
       "type": "voiced consonants"
     },
     "comparison": {
-      "similar_to": "/p/ and /m/",
+      "similar_to": ["/p/","/m/"],
       "difference": "/b/ is a voiced bilabial plosive, whereas /p/ is voiceless, and /m/ is a nasal sound."
     },
     "description": {
@@ -3612,7 +3612,7 @@
       "type": "voiceless consonant"
     },
     "comparison": {
-      "similar_to": "/d/ and /θ/",
+      "similar_to": ["/d/","/θ/"],
       "difference": "/t/ is a voiceless alveolar plosive, whereas /d/ is voiced, and /θ/ is a voiceless dental fricative."
     },
     "description": {
@@ -3680,7 +3680,7 @@
       "type": "voiced consonants"
     },
     "comparison": {
-      "similar_to": "/t/ and /ð/",
+      "similar_to": ["/t/","/ð/"],
       "difference": "/d/ is a voiced alveolar plosive, whereas /t/ is voiceless, and /ð/ is a voiced dental fricative."
     },
     "description": {
@@ -3748,7 +3748,7 @@
       "type": "voiceless consonants"
     },
     "comparison": {
-      "similar_to": "/g/ and /t/",
+      "similar_to": ["/g/","/t/"],
       "difference": "/k/ is a voiceless velar plosive, whereas /g/ is voiced, and /t/ is an alveolar plosive."
     },
     "description": {
@@ -3830,7 +3830,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/k/",
+      "similar_to": ["/k/"],
       "difference": "/g/ is a voiced velar plosive, whereas /k/ is voiceless."
     },
     "description": {
@@ -3898,7 +3898,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/n/ and /ŋ/",
+      "similar_to": ["/n/","/ŋ/"],
       "difference": "/m/ is a voiced bilabial nasal, whereas /n/ is a voiced alveolar nasal, and /ŋ/ is a voiced velar nasal."
     },
     "description": {
@@ -3966,7 +3966,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/m/ and /ŋ/",
+      "similar_to": ["/m/","/ŋ/"],
       "difference": "/n/ is a voiced alveolar nasal, whereas /m/ is a voiced bilabial nasal, and /ŋ/ is a voiced velar nasal."
     },
     "description": {
@@ -4034,7 +4034,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/n/ and /m/",
+      "similar_to": ["/n/","/m/"],
       "difference": "/ŋ/ is a voiced velar nasal, whereas /n/ is a voiced alveolar nasal, and /m/ is a voiced bilabial nasal."
     },
     "description": {
@@ -4102,7 +4102,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/v/ and /r/",
+      "similar_to": ["/v/","/r/"],
       "difference": "/w/ is a voiced labio-velar approximant, whereas /v/ is a voiced labiodental fricative, and /r/ is a voiced alveolar approximant."
     },
     "description": {
@@ -4170,7 +4170,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/i/ and /ʒ/",
+      "similar_to": ["/i/","/ʒ/"],
       "difference": "/j/ is a voiced palatal approximant, whereas /i/ is a close front unrounded vowel, and /ʒ/ is a voiced postalveolar fricative."
     },
     "description": {
@@ -4238,7 +4238,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/l/ and /w/",
+      "similar_to": ["/l/","/w/"],
       "difference": "/r/ is a voiced alveolar approximant, whereas /l/ is a voiced alveolar lateral approximant, and /w/ is a voiced labio-velar approximant."
     },
     "description": {
@@ -4306,7 +4306,7 @@
       "type": "voiced consonant"
     },
     "comparison": {
-      "similar_to": "/r/",
+      "similar_to": ["/r/"],
       "difference": "/l/ is a voiced alveolar lateral approximant, whereas /r/ is a voiced alveolar approximant."
     },
     "description": {
