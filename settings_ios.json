@@ -1,0 +1,97 @@
+{
+    "langapp":[
+        {"code": "en", "name": "English", "flag": "🇬🇧"},
+        {"code": "vi", "name": "Vietnamese", "flag": "🇻🇳"}
+    ],
+    "langvoice":[
+        {"code": "en-US", "name": "English (United States)", "flag": "🇺🇸"},
+        {"code": "en-GB", "name": "English (United Kingdom)", "flag": "🇬🇧"},
+        {"code": "vi-VN", "name": "Vietnamese", "flag": "🇻🇳"},
+        {"code": "fr-FR", "name": "French", "flag": "🇫🇷"},
+        {"code": "es-ES", "name": "Spanish (Spain)", "flag": "🇪🇸"},
+        {"code": "es-MX", "name": "Spanish (Mexico)", "flag": "🇲🇽"},
+        {"code": "hi-IN", "name": "Hindi (India)", "flag": "🇮🇳"},
+        {"code": "zh-CN", "name": "Chinese (Mandarin, China)", "flag": "🇨🇳"},
+        {"code": "zh-TW", "name": "Chinese (Mandarin, Taiwan)", "flag": "🇹🇼"},
+        {"code": "ja-JP", "name": "Japanese", "flag": "🇯🇵"},
+        {"code": "id-ID", "name": "Indonesian", "flag": "🇮🇩"},
+        {"code": "fil-PH", "name": "Filipino", "flag": "🇵🇭"},
+        {"code": "de-DE", "name": "German", "flag": "🇩🇪"},
+        {"code": "it-IT", "name": "Italian", "flag": "🇮🇹"},
+        {"code": "ru-RU", "name": "Russian", "flag": "🇷🇺"},
+        {"code": "ko-KR", "name": "Korean", "flag": "🇰🇷"},
+        {"code": "pt-PT", "name": "Portuguese (Portugal)", "flag": "🇵🇹"},
+        {"code": "pt-BR", "name": "Portuguese (Brazil)", "flag": "🇧🇷"},
+        {"code": "ar-SA", "name": "Arabic (Saudi Arabia)", "flag": "🇸🇦"},
+        {"code": "th-TH", "name": "Thai", "flag": "🇹🇭"},
+        {"code": "tr-TR", "name": "Turkish", "flag": "🇹🇷"},
+        {"code": "nl-NL", "name": "Dutch", "flag": "🇳🇱"},
+        {"code": "sv-SE", "name": "Swedish", "flag": "🇸🇪"},
+        {"code": "da-DK", "name": "Danish", "flag": "🇩🇰"},
+        {"code": "fi-FI", "name": "Finnish", "flag": "🇫🇮"},
+        {"code": "no-NO", "name": "Norwegian", "flag": "🇳🇴"},
+        {"code": "pl-PL", "name": "Polish", "flag": "🇵🇱"},
+        {"code": "hu-HU", "name": "Hungarian", "flag": "🇭🇺"},
+        {"code": "cs-CZ", "name": "Czech", "flag": "🇨🇿"},
+        {"code": "ro-RO", "name": "Romanian", "flag": "🇷🇴"},
+        {"code": "el-GR", "name": "Greek", "flag": "🇬🇷"},
+        {"code": "he-IL", "name": "Hebrew", "flag": "🇮🇱"},
+        {"code": "uk-UA", "name": "Ukrainian", "flag": "🇺🇦"},
+        {"code": "ms-MY", "name": "Malay", "flag": "🇲🇾"},
+        {"code": "bn-BD", "name": "Bengali (Bangladesh)", "flag": "🇧🇩"},
+        {"code": "ta-IN", "name": "Tamil (India)", "flag": "🇮🇳"},
+        {"code": "ur-PK", "name": "Urdu (Pakistan)", "flag": "🇵🇰"},
+        {"code": "fa-IR", "name": "Persian (Iran)", "flag": "🇮🇷"}
+    ],
+    "ads":{
+        "limitAdsTime": 300000,
+        "mute": true,
+        "admob": {
+            "enable": true,
+            "app_id": "ca-app-pub-7223114719058225~2553065622",
+            "banner": "ca-app-pub-7223114719058225/1669636471",
+            "interstitial": "ca-app-pub-7223114719058225/8626761217",
+            "interstitialVideo": "ca-app-pub-7223114719058225/3429440709",
+            "rewardVideo": "ca-app-pub-7223114719058225/6243306305",
+            "nativeExpress": "",
+            "showVideoAdPercent": 100,
+            "showIntertisialPercent": 20,
+            "nativeAdvance": "ca-app-pub-7223114719058225/1050689372",
+            "showBanner": true,
+            "showNativeAdvance": false,
+            "ecmp": "22"
+        },
+        "vungle": {
+            "ecmp": "0.95",
+            "placement_interstitial": "DEFAULT51196",
+            "placement_ref_banner_id": "BANNER_250-1883709",
+            "placement_ref_native_id": "NATIVE250-5456932",
+            "placement_ref_id": "",
+            "report_id": "598c150d9fa26d1d690030b9",
+            "app_id": "598c150d9fa26d1d690030b9",
+            "enable": false
+        },
+        "adcolony": {
+            "enable": false,
+            "app_id": "app65502bf8db7a45d194",
+            "zone_id": "vz73d0e549c8c542bab9",
+            "interstitial_id": "vz74f89ef681024aac95",
+            "ecmp": "1.4"
+        },
+        "house_ads": {
+            "config": "https://raw.githubusercontent.com/novelland/image/master/ads.json",
+            "ecmp": "1.5",
+            "enable": false
+        },
+        "unity_ads": {
+            "enable": false,
+            "game_id": "5436386",
+            "ecmp": "9"
+        }
+    },
+    "payments": {
+        "crypto":{
+            "url": ""
+        }
+    }
+}
