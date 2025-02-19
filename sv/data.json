@@ -1,0 +1,486 @@
+{
+    "1": {
+        "letters": {
+            "type": "korta vokaler"
+        },
+        "comparison": {
+            "difference": "/ɪ/ är kortare och mer avslappnad, medan /iː/ är längre och mer spänd."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ɪ/</strong> är en kort vokal som uttalas med:</p> <ul> <li><strong>Tungans position:</strong> i framkant, något upphöjd, men inte lika hög som /iː/.</li> <li><strong>Käkeöppning:</strong> lätt öppen, inte alltför vid.</li> <li><strong>Läppform:</strong> avslappnade, något öppna, inte rundade.</li> <li><strong>Tungspänning:</strong> avslappnad.</li> <li><strong>Varaktighet:</strong> kort, inte utdragen.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Håll munnen lätt öppen utan att spänna läpparna.</li> <li>Placera tungan mot framkanten och något upphöjd.</li> <li>Uttala ljudet snabbt och kort, undvik att förlänga det som /iː/.</li> <li>Öva med ordpar som <em>bit</em> – <em>beat</em>.</li> </ol>"
+        }
+    },
+    "2": {
+        "letters": {
+            "type": "korta vokaler"
+        },
+        "comparison": {
+            "difference": "/ʊ/ är kortare och mer avslappnad, medan /uː/ är längre och mer spänd."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ʊ/</strong> är en kort vokal som uttalas med:</p> <ul> <li><strong>Tungans position:</strong> hög, men något lägre än /uː/.</li> <li><strong>Käkeöppning:</strong> lätt öppen.</li> <li><strong>Läppform:</strong> rundade, men inte lika tydligt som vid /uː/.</li> <li><strong>Tungspänning:</strong> avslappnad.</li> <li><strong>Varaktighet:</strong> kort, inte utdragen.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Håll läpparna lätt rundade.</li> <li>Placera tungan i en hög position, men inte lika hög som /uː/.</li> <li>Uttala ljudet snabbt och kort, undvik att förlänga det som /uː/.</li> <li>Öva med ordpar som <em>pull</em> – <em>pool</em>.</li> </ol>"
+        }
+    },
+    "3": {
+        "letters": {
+            "type": "korta vokaler"
+        },
+        "comparison": {
+            "difference": "/ɛ/ är en kort och avslappnad vokal, medan /eɪ/ är ett diftong som glider från /ɛ/ till /ɪ/."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ɛ/</strong> är en kort vokal som uttalas med:</p> <ul> <li><strong>Tungans position:</strong> i framkanten, på medelhöjd nedåt.</li> <li><strong>Käkeöppning:</strong> moderat öppen.</li> <li><strong>Läppform:</strong> avslappnad, utan rundning.</li> <li><strong>Tungspänning:</strong> avslappnad.</li> <li><strong>Varaktighet:</strong> kort, inte utdragen.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Håll munnen lätt öppen med avslappnade läppar.</li> <li>Placera tungan i mitten av munnen, något upphöjd framtill.</li> <li>Uttala ljudet snabbt och kort, utan att förlänga det mot /eɪ/.</li> <li>Öva med ordpar som <em>bed</em> – <em>bait</em>.</li> </ol>"
+        }
+    },
+    "4": {
+        "letters": {
+            "type": "korta vokaler"
+        },
+        "comparison": {
+            "difference": "/æ/ är kortare och mer framme, medan /ɑː/ är längre och mer öppen."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /æ/</strong> är en kort vokal som uttalas med:</p> <ul> <li><strong>Tungans position:</strong> i framkanten, låg, med en bred käkeöppning.</li> <li><strong>Käkeöppning:</strong> brett öppen.</li> <li><strong>Läppform:</strong> neutral, något utbredd.</li> <li><strong>Tungspänning:</strong> något mer spänd än /ɪ/.</li> <li><strong>Varaktighet:</strong> kort, men något längre än /ɪ/.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Öppna munnen brett och sänk tungan.</li> <li>Placera tungan i framkanten av munnen.</li> <li>Öva med ordpar som <em>bat</em> – <em>bit</em> för att jämföra ljuden.</li> </ol>"
+        }
+    },
+    "5": {
+        "letters": {
+            "type": "korta vokaler"
+        },
+        "comparison": {
+            "difference": "/ʌ/ är kortare och mer central, medan /ɑː/ är längre och mer öppen."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ʌ/</strong> är en kort vokal som uttalas med:</p> <ul> <li><strong>Tungans position:</strong> central, något upphöjd men lägre än /ɪ/.</li> <li><strong>Käkeöppning:</strong> moderat öppen.</li> <li><strong>Läppform:</strong> neutral, något avslappnad.</li> <li><strong>Tungspänning:</strong> mer avslappnad än /ɪ/.</li> <li><strong>Varaktighet:</strong> kort, men något längre än /ɪ/.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Håll munnen lätt öppen och slappna av i tungan.</li> <li>Placera tungan i mitten av munnen.</li> <li>Öva med ordpar som <em>cup</em> – <em>kip</em>.</li> </ol>"
+        }
+    },
+    "6": {
+        "letters": {
+            "type": "korta vokaler"
+        },
+        "comparison": {
+            "difference": "/ɒ/ är kortare och mer öppen, medan /ɔː/ är längre och mer rundad."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ɒ/</strong> är en kort vokal som uttalas med:</p> <ul> <li><strong>Tungans position:</strong> i bakre delen, något låg.</li> <li><strong>Käkeöppning:</strong> lätt öppen.</li> <li><strong>Läppform:</strong> rundad.</li> <li><strong>Tungspänning:</strong> avslappnad.</li> <li><strong>Varaktighet:</strong> kort.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Håll munnen lätt öppen och läpparna rundade.</li> <li>Placera tungan längst bak i munnen.</li> <li>Öva med ordpar som <em>cot</em> – <em>cart</em>.</li> </ol>"
+        }
+    },
+    "7": {
+        "letters": {
+            "type": "centrala vokaler"
+        },
+        "comparison": {
+            "difference": "/ə/ uttalas alltid oaccenterat, medan /ʌ/ kan vara accenterat. /ə/ är den vanligaste vokalljudet i engelska."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ə/ (schwa)</strong> är den vanligaste vokalen i engelska, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> central och avslappnad.</li> <li><strong>Käkeöppning:</strong> något öppen.</li> <li><strong>Läppform:</strong> neutral.</li> <li><strong>Tungspänning:</strong> avslappnad.</li> <li><strong>Varaktighet:</strong> mycket kort.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Slappna av i munnen och tungan.</li> <li>Betona inte den stavelse som innehåller /ə/.</li> <li>Jämför med en accenterad vokal genom att öva med ordpar som <em>sofa</em> – <em>cup</em>.</li> </ol>"
+        }
+    },
+    "8": {
+        "letters": {
+            "type": "långa vokaler"
+        },
+        "comparison": {
+            "difference": "/iː/ är längre och mer spänd, medan /ɪ/ är kortare och mer avslappnad."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /iː/</strong> är en lång vokal, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> i framkant, hög och spänd.</li> <li><strong>Käkeöppning:</strong> något öppen.</li> <li><strong>Läppform:</strong> inte rundad och något utsträckt.</li> <li><strong>Tungspänning:</strong> spänd.</li> <li><strong>Varaktighet:</strong> lång och hållbar.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Håll tungan hög och framme i munnen.</li> <li>Sträck lätt på läpparna, som ett leende.</li> <li>Håll ljudet längre än /ɪ/.</li> <li>Öva med ordpar som <em>sheep</em> – <em>ship</em>.</li> </ol>"
+        }
+    },
+    "9": {
+        "letters": {
+            "type": "långa vokaler"
+        },
+        "comparison": {
+            "difference": "/uː/ är längre och mer spänd, medan /ʊ/ är kortare och mer avslappnad."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /uː/</strong> är en lång vokal, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> i bakre delen, hög och spänd.</li> <li><strong>Käkeöppning:</strong> något öppen.</li> <li><strong>Läppform:</strong> rundad.</li> <li><strong>Tungspänning:</strong> spänd.</li> <li><strong>Varaktighet:</strong> lång och hållbar.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Håll tungan hög i bakre delen av munnen.</li> <li>Runda lätt på läpparna.</li> <li>Håll ljudet längre än /ʊ/.</li> <li>Öva med ordpar som <em>pool</em> – <em>pull</em>.</li> </ol>"
+        }
+    },
+    "10": {
+        "letters": {
+            "type": "långa vokaler"
+        },
+        "comparison": {
+            "difference": "/ɜː/ är en lång, betonad vokal, medan /ə/ (schwa) är kortare och alltid obetonad."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ɜː/</strong> är en lång, betonad vokal, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> central, i medelhöjd och spänd.</li> <li><strong>Käkeöppning:</strong> något öppen.</li> <li><strong>Läppform:</strong> neutral, utan rundning.</li> <li><strong>Tungspänning:</strong> spänd.</li> <li><strong>Varaktighet:</strong> lång och hållbar.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungan i mitten av munnen.</li> <li>Runda inte läpparna.</li> <li>Håll ljudet längre än /ə/.</li> <li>Öva med ordpar som <em>her</em> – <em>sofa</em>.</li> </ol>"
+        }
+    },
+    "11": {
+        "letters": {
+            "type": "långa vokaler"
+        },
+        "comparison": {
+            "difference": "/ɔː/ är längre och mer rundad, medan /ɒ/ är kortare och mer öppen."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ɔː/</strong> är en lång vokal, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> i bakre delen, på medelhöjd nedåt och spänd.</li> <li><strong>Käkeöppning:</strong> moderat öppen.</li> <li><strong>Läppform:</strong> rundad.</li> <li><strong>Tungspänning:</strong> spänd.</li> <li><strong>Varaktighet:</strong> lång och hållbar.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungan i bakre delen av munnen, något lägre.</li> <li>Håll läpparna måttligt rundade.</li> <li>Håll ljudet längre än /ɒ/.</li> <li>Öva med ordpar som <em>law</em> – <em>lot</em>.</li> </ol>"
+        }
+    },
+    "12": {
+        "letters": {
+            "type": "långa vokaler"
+        },
+        "comparison": {
+            "difference": "/ɑː/ är längre och uttalas med en mer öppen mun, medan /æ/ är kortare och mer framme."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ɑː/</strong> är en lång vokal, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> i bakre delen, låg och spänd.</li> <li><strong>Käkeöppning:</strong> brett öppen.</li> <li><strong>Läppform:</strong> neutral, utan rundning.</li> <li><strong>Tungspänning:</strong> spänd.</li> <li><strong>Varaktighet:</strong> lång och hållbar.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Öppna munnen ordentligt och slappna av i läpparna.</li> <li>Placera tungan lågt och något bakåt i munnen.</li> <li>Håll ljudet längre än /æ/.</li> <li>Öva med ordpar som <em>car</em> – <em>cat</em>.</li> </ol>"
+        }
+    },
+    "13": {
+        "letters": {
+            "type": "diftonger"
+        },
+        "comparison": {
+            "difference": "/eɪ/ är ett diftong som glider från /e/ till /ɪ/, medan /ɛ/ är ett kort, monofoniskt ljud."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /eɪ/</strong> är ett diftong, uttalat med:</p> <ul> <li><strong>Tungans position:</strong> börjar i en medel-främ position (/e/) och glider sedan mot /ɪ/.</li> <li><strong>Käkeöppning:</strong> något öppen i början, sedan lite mer sluten.</li> <li><strong>Läppform:</strong> avslappnad och något utsträckt.</li> <li><strong>Tungspänning:</strong> övergång från avslappnad till något spänd.</li> <li><strong>Varaktighet:</strong> lång, då ljudet glider mellan positioner.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Starta med tungan i en medel-främ position (/e/).</li> <li>Glid långsamt med tungan mot /ɪ/.</li> <li>Låt de två ljuden smälta samman flytande utan att separeras.</li> <li>Öva med ordpar som <em>late</em> – <em>let</em>.</li> </ol>"
+        }
+    },
+    "14": {
+        "letters": {
+            "type": "diftonger"
+        },
+        "comparison": {
+            "difference": "/aɪ/ är ett diftong som glider från /a/ till /ɪ/, medan /æ/ är ett kort, monofoniskt ljud."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /aɪ/</strong> är ett diftong, uttalat med:</p> <ul> <li><strong>Tungans position:</strong> börjar från en låg position och rör sig sedan mot en hög, fram position.</li> <li><strong>Käkeöppning:</strong> startar med en mycket öppen mun, sedan något sluten.</li> <li><strong>Läppform:</strong> initialt neutral, sedan något utsträckt.</li> <li><strong>Tungspänning:</strong> går från avslappnad till något spänd.</li> <li><strong>Varaktighet:</strong> lång, då ljudet glider mellan positioner.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Starta med tungan i en låg position.</li> <li>Förflytta tungan mot en hög, fram position.</li> <li>Låt de två ljuden smälta samman flytande utan att separeras.</li> <li>Öva med ordpar som <em>ride</em> – <em>rad</em>.</li> </ol>"
+        }
+    },
+    "15": {
+        "letters": {
+            "type": "diftonger"
+        },
+        "comparison": {
+            "difference": "/ɔɪ/ är ett diftong som glider från /ɔ/ till /ɪ/, medan /ɔː/ är ett långt monofoniskt ljud."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ɔɪ/</strong> är ett diftong, uttalat med:</p> <ul> <li><strong>Tungans position:</strong> börjar i en mellantidig, bakre och rundad position (/ɔ/) och glider sedan mot en hög, fram position (/ɪ/).</li> <li><strong>Käkeöppning:</strong> startar något öppen, sedan något sluten.</li> <li><strong>Läppform:</strong> börjar med rundade läppar, sedan något utsträckta.</li> <li><strong>Tungspänning:</strong> går från avslappnad till något spänd.</li> <li><strong>Varaktighet:</strong> lång, då ljudet glider mellan positioner.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Starta med tungan i en mellantidig, bakre, rundad position (/ɔ/).</li> <li>Förflytta tungan mot en hög, fram position (/ɪ/).</li> <li>Låt de två ljuden smälta samman flytande utan att separeras.</li> <li>Öva med ordpar som <em>boy</em> – <em>bore</em>.</li> </ol>"
+        }
+    },
+    "16": {
+        "letters": {
+            "type": "diftonger"
+        },
+        "comparison": {
+            "difference": "/aʊ/ är ett diftong som glider från /a/ till /ʊ/, medan /æ/ är ett kort monofoniskt ljud."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /aʊ/</strong> är ett diftong, uttalat med:</p> <ul> <li><strong>Tungans position:</strong> börjar i en låg, fram position (/a/) och glider sedan mot en hög, bak position med rundning (/ʊ/).</li> <li><strong>Käkeöppning:</strong> startar med en mycket öppen mun, sedan något sluten.</li> <li><strong>Läppform:</strong> börjar neutral och övergår sedan till att vara rundad.</li> <li><strong>Tungspänning:</strong> övergår från avslappnad till något spänd.</li> <li><strong>Varaktighet:</strong> lång, då ljudet glider mellan positioner.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Starta med tungan i den låga, fram positionen (/a/).</li> <li>Förflytta tungan mot en hög, bak position med rundning (/ʊ/).</li> <li>Låt de två ljuden smälta samman flytande utan att separeras.</li> <li>Öva med ordpar som <em>now</em> – <em>nap</em>.</li> </ol>"
+        }
+    },
+    "17": {
+        "letters": {
+            "type": "diftonger"
+        },
+        "comparison": {
+            "difference": "/əʊ/ används ofta i brittisk engelska, medan /oʊ/ är den amerikanska motsvarigheten."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /əʊ/</strong> är ett diftong, uttalat med:</p> <ul> <li><strong>Tungans position:</strong> börjar i en central position (/ə/) och glider sedan mot en hög, bak position med rundning (/ʊ/).</li> <li><strong>Käkeöppning:</strong> något öppen i början, sedan något sluten.</li> <li><strong>Läppform:</strong> börjar neutral och övergår till att vara rundad.</li> <li><strong>Tungspänning:</strong> övergång från avslappnad till något spänd.</li> <li><strong>Varaktighet:</strong> lång, då ljudet glider mellan positioner.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Starta med tungan i en central position (/ə/).</li> <li>Förflytta tungan mot en hög, bak position med rundning (/ʊ/).</li> <li>Låt de två ljuden smälta samman flytande utan att separeras.</li> <li>Öva med ordpar, t.ex. <em>go</em> (brittiskt) – <em>go</em> (amerikanskt).</li> </ol>"
+        }
+    },
+    "18": {
+        "letters": {
+            "type": "diftonger"
+        },
+        "comparison": {
+            "difference": "/ɪə/ är ett diftong som glider från /ɪ/ till /ə/, medan /ɪ/ är ett kort monofoniskt ljud."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ɪə/</strong> är ett diftong, uttalat med:</p> <ul> <li><strong>Tungans position:</strong> börjar i en hög, fram position (/ɪ/) och glider sedan mot en central position (/ə/).</li> <li><strong>Käkeöppning:</strong> något öppen i början, därefter avslappnad.</li> <li><strong>Läppform:</strong> neutral.</li> <li><strong>Tungspänning:</strong> övergång från spänd till mer avslappnad.</li> <li><strong>Varaktighet:</strong> lång, då ljudet glider mellan positioner.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Starta med tungan i en hög, fram position (/ɪ/).</li> <li>Förflytta tungan något mot mitten (/ə/).</li> <li>Låt de två ljuden smälta samman flytande utan att separeras.</li> <li>Öva med ordpar som <em>here</em> – <em>hit</em>.</li> </ol>"
+        }
+    },
+    "19": {
+        "letters": {
+            "type": "diftonger"
+        },
+        "comparison": {
+            "difference": "/eə/ är ett diftong som glider från /e/ till /ə/, medan /e/ är ett kort monofoniskt ljud."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /eə/</strong> är ett diftong, uttalat med:</p> <ul> <li><strong>Tungans position:</strong> börjar i en medel-fram position (/e/) och glider sedan mot en central position (/ə/).</li> <li><strong>Käkeöppning:</strong> något öppen i början, sedan avslappnad.</li> <li><strong>Läppform:</strong> neutral.</li> <li><strong>Tungspänning:</strong> övergång från något spänd till avslappnad.</li> <li><strong>Varaktighet:</strong> lång, då ljudet glider mellan positioner.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Starta med tungan i en medel-fram position (/e/).</li> <li>Glid långsamt med tungan mot en central position (/ə/).</li> <li>Låt ljuden smälta samman flytande utan att separeras.</li> <li>Öva med ordpar som <em>air</em> – <em>egg</em>.</li> </ol>"
+        }
+    },
+    "20": {
+        "letters": {
+            "type": "diftonger"
+        },
+        "comparison": {
+            "difference": "/ʊə/ är ett diftong som glider från /ʊ/ till /ə/, medan /ʊ/ är ett kort monofoniskt ljud."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ʊə/</strong> är ett diftong, uttalat med:</p> <ul> <li><strong>Tungans position:</strong> börjar i en hög, bak position (/ʊ/) och glider sedan mot en central position (/ə/).</li> <li><strong>Käkeöppning:</strong> något öppen i början, sedan avslappnad.</li> <li><strong>Läppform:</strong> börjar med rundade läppar, övergår sedan till en neutral form.</li> <li><strong>Tungspänning:</strong> övergång från något spänd till mer avslappnad.</li> <li><strong>Varaktighet:</strong> lång, då ljudet glider mellan positioner.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Starta med tungan i en hög, bak position (/ʊ/).</li> <li>Glid långsamt med tungan mot en central position (/ə/).</li> <li>Låt de två ljuden smälta samman flytande utan att separeras.</li> <li>Öva med ordpar som <em>tour</em> – <em>took</em>.</li> </ol>"
+        }
+    },
+    "21": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/f/ är tonlös (inga röstvibreringar), medan /v/ är röstad (röstvibrerar)."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /f/</strong> är en tonlös labiodental frikativ, uttalad med:</p> <ul> <li><strong>Läppar och tänder:</strong> Underläppens kant rör vid de övre tänderna.</li> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde passerar genom den trånga öppningen mellan läpparna och tänderna.</li> <li><strong>Röstbanden:</strong> Vibrerar inte.</li> <li><strong>Varaktighet:</strong> Kan förlängas.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera underläppen mot de övre tänderna.</li> <li>Låt luften passera genom den trånga öppningen.</li> <li>Använd inte rösten (jämför med /v/ genom att känna på halsens vibrationer).</li> <li>Öva med minimala par som <em>fan</em> – <em>van</em>.</li> </ol>"
+        }
+    },
+    "22": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/v/ är röstad (röstbanden vibrerar), medan /f/ är tonlös (inga vibrationer)."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /v/</strong> är en röstad labiodental frikativ, uttalad med:</p> <ul> <li><strong>Läppar och tänder:</strong> Underläppens kant rör vid de övre tänderna.</li> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde passerar genom den trånga öppningen.</li> <li><strong>Röstbanden:</strong> Vibrerar.</li> <li><strong>Varaktighet:</strong> Kan förlängas.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera underläppen mot de övre tänderna.</li> <li>Låt luften passera genom den trånga öppningen medan du använder rösten.</li> <li>Jämför med /f/ genom att känna på vibrationerna (om du känner vibration, är det /v/; annars /f/).</li> <li>Öva med minimala par som <em>fan</em> – <em>van</em>.</li> </ol>"
+        }
+    },
+    "23": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/θ/ är tonlös, medan /ð/ är röstad."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /θ/</strong> är en tonlös frikativ, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde passerar genom en smal förträngning som bildas av tungan och de övre framtänderna.</li> <li><strong>Tungans position:</strong> Toppens spets rör lätt vid de övre framtänderna utan att helt blockera luftflödet.</li> <li><strong>Röstbanden:</strong> Vibrerar inte under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Tryck lätt med tungspetsen mot de övre framtänderna.</li> <li>Låt luften flöda kontinuerligt mellan tungan och tänderna.</li> <li>Säkerställ att röstbanden är avslappnade och inte vibrerar.</li> </ol>"
+        }
+    },
+    "24": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/ð/ är röstad (röstbanden vibrerar), medan /θ/ är tonlös (inga vibrationer)."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ð/</strong> är en röstad dental frikativ, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> Toppens spets rör lätt vid de övre framtänderna.</li> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde passerar genom den smala öppningen mellan tungan och tänderna.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> <li><strong>Varaktighet:</strong> Kan förlängas.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungspetsen mot de övre framtänderna.</li> <li>Låt luften passera genom den smala öppningen medan röstbanden vibrerar.</li> <li>Jämför /θ/ och /ð/ genom att känna på vibrationerna.</li> <li>Öva med minimala par som <em>this</em> – <em>think</em>.</li> </ol>"
+        }
+    },
+    "25": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/s/ är tonlös (inga röstvibrationer), medan /z/ är röstad (röstbanden vibrerar)."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /s/</strong> är en tonlös alveolär frikativ, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> Toppens spets placeras nära den alveolära kammen.</li> <li><strong>Luftflöde:</strong> Ett smalt, kontinuerligt luftflöde skapar friktion.</li> <li><strong>Röstbanden:</strong> Vibrerar inte.</li> <li><strong>Varaktighet:</strong> Kan förlängas.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungspetsen nära den alveolära kammen, utan att röra den.</li> <li>Låt luften passera genom den smala öppningen medan röstbanden är inaktiva.</li> <li>Jämför med /z/ genom att känna på vibrationerna.</li> <li>Öva med minimala par som <em>sip</em> – <em>zip</em>.</li> </ol>"
+        }
+    },
+    "26": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/z/ är röstad, vilket innebär att röstbanden vibrerar, medan /s/ är tonlös."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /z/</strong> är en röstad konsonant, uttalad med:</p> <ul> <li><strong>Röstbandsvibration:</strong> Till skillnad från /s/ vibrerar röstbanden vid uttal av /z/.</li> <li><strong>Tungans position:</strong> Toppens spets placeras nära den alveolära kammen.</li> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde passerar genom den smala öppningen.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungan nära den alveolära kammen.</li> <li>Uttala ljudet genom att släppa ut luft medan röstbanden vibrerar.</li> <li>Öva med minimala par som <em>sip</em> – <em>zip</em>.</li> </ol>"
+        }
+    },
+    "27": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/ʃ/ är en tonlös postalveolär frikativ, medan /s/ är alveolär och /ʒ/ är dess röstade motsvarighet."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ʃ/</strong> är en tonlös frikativ, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> Placera tungan nära gommen, något bakom den alveolära kammen.</li> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde genererar friktion.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungan nära gommen.</li> <li>Låt luften flöda kontinuerligt utan att aktivera röstbanden.</li> <li>Öva med minimala par som <em>she</em> – <em>genre</em>.</li> </ol>"
+        }
+    },
+    "28": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/ʒ/ är röstad, medan /ʃ/ är tonlös och /z/ är alveolär."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ʒ/</strong> är en röstad frikativ, uttalad med:</p> <ul> <li><strong>Tungans position:</strong> Placera tungan nära gommen, något bakom den alveolära kammen.</li> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde i kombination med röstbandsvibration skapar friktion.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungan nära gommen.</li> <li>Låt luften flöda medan röstbanden vibrerar.</li> <li>Öva med minimala par som <em>vision</em> – <em>mission</em>.</li> </ol>"
+        }
+    },
+    "29": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/h/ är en tonlös glottal frikativ, medan /ʔ/ är ett glottalt stopp och /x/ är en velar frikativ."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /h/</strong> är en tonlös frikativ, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> Ett mjukt, jämnt luftflöde passerar genom en öppen glottis.</li> <li><strong>Tungans position:</strong> Tungan hålls i en neutral position, beroende på den följande vokalen.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Håll röstbanden öppna så att luften kan flöda fritt.</li> <li>Behåll en neutral tungposition.</li> <li>Jämför med röstade ljud för att känna av frånvaron av vibration.</li> </ol>"
+        }
+    },
+    "30": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/p/ är en tonlös bilabial plosiv, medan /b/ är röstad och /f/ är en frikativ."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /p/</strong> är en tonlös plosiv, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> En kortvarig stopp av luftflödet genom att stänga läpparna, följt av en explosion av luft.</li> <li><strong>Position av läpparna:</strong> Läpparna är helt stängda innan ljudet släpps ut.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Stäng läpparna helt.</li> <li>Bygg upp lufttryck bakom läpparna.</li> <li>Släpp ut luften snabbt för att producera ljudet /p/.</li> </ol>"
+        }
+    },
+    "31": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/b/ är en röstad bilabial plosiv, medan /p/ är tonlös och /m/ är ett nasalt ljud."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /b/</strong> är en röstad plosiv, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> En kortvarig stopp av luftflödet genom att stänga läpparna, följt av en explosion av luft.</li> <li><strong>Position av läpparna:</strong> Läpparna är helt stängda innan ljudet släpps ut.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Stäng läpparna helt.</li> <li>Bygg upp lufttryck bakom läpparna.</li> <li>Släpp ut luften medan röstbanden vibrerar för att producera ljudet /b/.</li> </ol>"
+        }
+    },
+    "32": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/t/ är en tonlös alveolär plosiv, medan /d/ är röstad och /θ/ är en tonlös dental frikativ."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /t/</strong> är en tonlös plosiv, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> En kortvarig stopp av luftflödet genom att pressa tungspetsen mot den alveolära kammen (området strax bakom de övre framtänderna), följt av en snabb utandning.</li> <li><strong>Tungans position:</strong> Tungspetsen rör vid den alveolära kammen och släpps sedan snabbt.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungspetsen mot den alveolära kammen, strax bakom de övre framtänderna.</li> <li>Bygg upp lufttryck bakom tungan.</li> <li>Släpp ut luften snabbt för att producera ljudet /t/.</li> </ol>"
+        }
+    },
+    "33": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/d/ är en röstad alveolär plosiv, medan /t/ är tonlös och /ð/ är en röstad dental frikativ."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /d/</strong> är en röstad plosiv, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> En kortvarig stopp av luftflödet genom att pressa tungspetsen mot den alveolära kammen, följt av en snabb utandning.</li> <li><strong>Tungans position:</strong> Tungspetsen rör vid den alveolära kammen och släpps sedan snabbt.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungspetsen mot den alveolära kammen, strax bakom de övre framtänderna.</li> <li>Bygg upp lufttryck bakom tungan.</li> <li>Släpp ut luften medan röstbanden vibrerar för att producera ljudet /d/.</li> </ol>"
+        }
+    },
+    "34": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/k/ är en tonlös velar plosiv, medan /g/ är röstad och /t/ är en alveolär plosiv."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /k/</strong> är en tonlös plosiv, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> En kortvarig stopp av luftflödet genom att höja baksidan av tungan mot den mjuka gommen (den mjuka delen av munndäcket), följt av en snabb utandning.</li> <li><strong>Tungans position:</strong> Baksidan av tungan rör vid den mjuka gommen och släpps snabbt.</li> <li><strong>Röstbanden:</strong> Vibrerar inte under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Höj baksidan av tungan så att den rör vid den mjuka gommen.</li> <li>Bygg upp lufttryck bakom tungan.</li> <li>Släpp ut luften snabbt utan att röstbanden vibrerar.</li> </ol>"
+        }
+    },
+    "35": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/g/ är en röstad velar plosiv, medan /k/ är tonlös."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /g/</strong> är en röstad plosiv, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> En kortvarig stopp av luftflödet genom att placera baksidan av tungan mot den mjuka gommen, följt av en snabb utandning.</li> <li><strong>Tungans position:</strong> Baksidan av tungan rör vid den mjuka gommen och släpps snabbt.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera baksidan av tungan mot den mjuka gommen.</li> <li>Bygg upp lufttryck bakom tungan.</li> <li>Släpp ut luften medan röstbanden vibrerar för att producera ljudet /g/.</li> </ol>"
+        }
+    },
+    "36": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/m/ är en röstad nasal, medan /n/ är en röstad alveolär nasal och /ŋ/ är en röstad velar nasal."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /m/</strong> är en röstad nasal, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> Luften blockeras i munnen genom att läpparna pressas samman och släpps ut genom näsan.</li> <li><strong>Position av läpparna:</strong> Läpparna är ordentligt ihoppressade.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Pressa ihop läpparna ordentligt.</li> <li>Låt luften passera genom näsan medan munnen är stängd.</li> <li>Aktivera röstbanden för att producera ljudet /m/.</li> </ol>"
+        }
+    },
+    "37": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/n/ är en röstad alveolär nasal, medan /m/ är en röstad bilabial nasal och /ŋ/ är en röstad velar nasal."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /n/</strong> är en röstad alveolär nasal, producerad med:</p> <ul> <li><strong>Luftflöde:</strong> Luften leds genom näsan medan munnen blockeras.</li> <li><strong>Tungans position:</strong> Tungspetsen placeras mot den alveolära kammen, strax bakom de övre framtänderna.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungspetsen mot den alveolära kammen, strax bakom de övre framtänderna.</li> <li>Sänk den mjuka gommen så att luften kan passera genom näsan.</li> <li>Aktivera röstbanden för att producera ljudet /n/.</li> </ol>"
+        }
+    },
+    "38": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/ŋ/ är en röstad velar nasal, medan /n/ är en röstad alveolär nasal och /m/ är en röstad bilabial nasal."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /ŋ/</strong> är en röstad velar nasal, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> Luften släpps ut genom näsan när baksidan av tungan rör vid den mjuka gommen och blockerar luftflödet i munnen.</li> <li><strong>Tungans position:</strong> Baksidan av tungan pressas mot den mjuka gommen och hindrar luft från att passera genom munnen.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Höj baksidan av tungan så att den rör vid den mjuka gommen.</li> <li>Låt luften passera genom näsan medan röstbanden vibrerar.</li> <li>Släpp tungan för att avsluta ljudet /ŋ/.</li> </ol>"
+        }
+    },
+    "39": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/w/ är en röstad labio-velar approximant, medan /v/ är en röstad labiodental frikativ och /r/ är en röstad alveolär approximant."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /w/</strong> är en röstad approximant, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde utan friktion.</li> <li><strong>Läppform:</strong> Rundade läppar.</li> <li><strong>Tungans position:</strong> Baksidan av tungan närmar sig den mjuka gommen utan att röra vid den.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Runda läpparna.</li> <li>Försök föra baksidan av tungan nära den mjuka gommen utan att röra vid den.</li> <li>Producera ljudet med ett kontinuerligt luftflöde och röstbändernas vibration.</li> </ol>"
+        }
+    },
+    "40": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/j/ är en röstad palatal approximant, medan /i/ är en sluten, främre, orundad vokal och /ʒ/ är en röstad postalveolar frikativ."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /j/</strong> är en röstad approximant, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> Ett obehindrat luftflöde när tungan närmar sig den hårda gommen utan att skapa friktion.</li> <li><strong>Tungans position:</strong> Den mellersta delen av tungan lyfts mot den hårda gommen.</li> <li><strong>Läppform:</strong> Vanligtvis neutral eller något utsträckt.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Lyft den mellersta delen av tungan mot den hårda gommen utan att röra vid den.</li> <li>Låt luften flöda fritt över tungan utan att skapa friktion.</li> <li>Säkerställ att röstbanden vibrerar vid uttalet.</li> </ol>"
+        }
+    },
+    "41": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/r/ är en röstad alveolär approximant, medan /l/ är en röstad lateral alveolär approximant och /w/ är en röstad labio-velar approximant."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /r/</strong> är en röstad approximant, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> Ett kontinuerligt luftflöde utan friktion.</li> <li><strong>Tungans position:</strong> Tungspetsen lyfts mot den alveolära kammen, strax bakom de övre framtänderna, utan att röra vid dem, vilket bildar en smal luftkanal.</li> <li><strong>Läppform:</strong> Ofta något rundade.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Lyft tungspetsen mot den alveolära kammen, strax bakom de övre framtänderna, utan att röra vid dem.</li> <li>Håll läpparna något rundade.</li> <li>Producera ljudet genom att bibehålla ett kontinuerligt luftflöde och röstbändernas vibration.</li> </ol>"
+        }
+    },
+    "42": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/l/ är en röstad lateral alveolär approximant, medan /r/ är en röstad alveolär approximant."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /l/</strong> är en röstad lateral approximant, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> Luften passerar runt sidorna av tungan.</li> <li><strong>Tungans position:</strong> Tungspetsen rör vid den alveolära kammen, strax bakom de övre framtänderna.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungspetsen mot den alveolära kammen.</li> <li>Låt luften passera runt sidorna av tungan.</li> <li>Aktivera röstbanden för att producera ljudet /l/.</li> </ol>"
+        }
+    },
+    "43": {
+        "letters": {
+            "type": "tonlösa konsonanter"
+        },
+        "comparison": {
+            "difference": "/tʃ/ är en tonlös affrikat som kombinerar plosiven /t/ med frikativen /ʃ/, medan /t/ är en tonlös alveolär plosiv och /ʃ/ är en tonlös postalveolar frikativ."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /tʃ/</strong> är en tonlös affrikat, uttalad med:</p> <ul> <li><strong>Luftflöde:</strong> En kortvarig stopp av luftflödet genom att trycka tungspetsen mot den alveolära kammen, följt av en snabb utandning som genererar en frikativ ljuddel.</li> <li><strong>Tungans position:</strong> Tungspetsen rör vid den alveolära kammen och förflyttas sedan något bakåt för att möjliggöra den frikativa delen.</li> <li><strong>Röstbanden:</strong> Vibrerar inte under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungspetsen strax bakom de övre framtänderna, vid den alveolära kammen.</li> <li>Bygg upp lufttryck bakom tungan.</li> <li>Släpp ut luften snabbt medan tungan förflyttas något bakåt för att producera ljudet /tʃ/ utan att röstbanden vibrerar.</li> </ol>"
+        }
+    },
+    "44": {
+        "letters": {
+            "type": "röstade konsonanter"
+        },
+        "comparison": {
+            "difference": "/dʒ/ är röstad, medan /tʃ/ är tonlös. /dʒ/ börjar med plosiven /d/ följt av frikativen /ʒ/."
+        },
+        "description": {
+            "describe": "<p><strong>Ljudet /dʒ/</strong> är en röstad postalveolar affrikat, producerad genom att:</p> <ul> <li><strong>Luftflöde:</strong> Först stoppas luftflödet genom att trycka tungspetsen mot den alveolära kammen, därefter släpps luften snabbt ut för att skapa friktion i det postalveolära området.</li> <li><strong>Tungans position:</strong> Tungspetsen rör vid den alveolära kammen och förflyttas något bakåt mot det postalveolära området under utandningen.</li> <li><strong>Röstbanden:</strong> Vibrerar under uttalet.</li> </ul> <p><strong>Uttalsguide:</strong></p> <ol> <li>Placera tungspetsen strax bakom de övre framtänderna, vid den alveolära kammen.</li> <li>Bygg upp lufttryck bakom tungan.</li> <li>Släpp ut luften snabbt medan tungan förflyttas något bakåt för att producera ljudet /dʒ/ med vibration i röstbanden.</li> </ol>"
+        }
+    }
+}

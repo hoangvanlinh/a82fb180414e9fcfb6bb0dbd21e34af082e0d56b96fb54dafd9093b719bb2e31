@@ -1,0 +1,486 @@
+{
+    "1": {
+        "letters": {
+            "type": "krótkie samogłoski"
+        },
+        "comparison": {
+            "difference": "/ɪ/ jest krótsze i bardziej zrelaksowane, podczas gdy /iː/ jest dłuższe i bardziej napięte."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ɪ/</strong> to krótka samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> z przodu, lekko uniesionego, ale nie tak wysoko jak /iː/.</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte, niezbyt szerokie.</li> <li><strong>Kształt ust:</strong> rozluźnione, lekko otwarte, niezaokrąglone.</li> <li><strong>Napięcie języka:</strong> rozluźnione.</li> <li><strong>Czas trwania:</strong> krótki, nie przedłużany.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Utrzymuj lekko otwarte usta, bez napinania.</li> <li>Umieść język z przodu, lekko uniesiony.</li> <li>Wymawiaj dźwięk szybko i krótko, unikając przedłużania go jak w przypadku /iː/.</li> <li>Ćwicz, porównując z /iː/ za pomocą par słów, np. <em>bit</em> – <em>beat</em>.</li> </ol>"
+        }
+    },
+    "2": {
+        "letters": {
+            "type": "krótkie samogłoski"
+        },
+        "comparison": {
+            "difference": "/ʊ/ jest krótsze i bardziej zrelaksowane, podczas gdy /uː/ jest dłuższe i bardziej napięte."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ʊ/</strong> to krótka samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> wysoka, ale nie tak wysoka jak przy /uː/.</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte.</li> <li><strong>Kształt ust:</strong> zaokrąglone, lecz nie tak wyraźne jak przy /uː/.</li> <li><strong>Napięcie języka:</strong> rozluźnione.</li> <li><strong>Czas trwania:</strong> krótki, nie przedłużany.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Utrzymuj lekko zaokrąglone usta.</li> <li>Umieść język w wysokiej pozycji, ale nie tak wysokiej jak przy /uː/.</li> <li>Wymawiaj dźwięk szybko i krótko, unikając przedłużania go jak przy /uː/.</li> <li>Ćwicz, porównując z /uː/ używając par słów, np. <em>pull</em> – <em>pool</em>.</li> </ol>"
+        }
+    },
+    "3": {
+        "letters": {
+            "type": "krótkie samogłoski"
+        },
+        "comparison": {
+            "difference": "/ɛ/ jest krótką, zrelaksowaną samogłoską, podczas gdy /eɪ/ to dyftong przesuwający się z /ɛ/ do /ɪ/."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ɛ/</strong> to krótka samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> z przodu, na średnim poziomie w dół.</li> <li><strong>Otworzenie szczęki:</strong> umiarkowanie otwarte.</li> <li><strong>Kształt ust:</strong> rozluźnione, niezaokrąglone.</li> <li><strong>Napięcie języka:</strong> rozluźnione.</li> <li><strong>Czas trwania:</strong> krótki, nie przedłużany.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Utrzymuj lekko otwarte usta z rozluźnionymi wargami.</li> <li>Umieść język w środku jamy ustnej, lekko uniesiony z przodu.</li> <li>Wymawiaj dźwięk szybko i krótko, nie zmieniając go na /eɪ/.</li> <li>Ćwicz z parą słów, np. <em>bed</em> – <em>bait</em>.</li> </ol>"
+        }
+    },
+    "4": {
+        "letters": {
+            "type": "krótkie samogłoski"
+        },
+        "comparison": {
+            "difference": "/æ/ jest krótsze i bardziej wysunięte do przodu, podczas gdy /ɑː/ jest dłuższe i bardziej otwarte."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /æ/</strong> to krótka samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> z przodu, nisko, przy szeroko otwartej szczęce.</li> <li><strong>Otworzenie szczęki:</strong> szeroko otwarte.</li> <li><strong>Kształt ust:</strong> neutralne, lekko rozchylone.</li> <li><strong>Napięcie języka:</strong> nieco bardziej napięte niż /ɪ/.</li> <li><strong>Czas trwania:</strong> krótkie, ale nieco dłuższe niż /ɪ/.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Otwórz szeroko usta i opuść język.</li> <li>Umieść język z przodu jamy ustnej.</li> <li>Ćwicz, porównując dźwięk /æ/ z /ɪ/ za pomocą par słów, np. <em>bat</em> – <em>bit</em>.</li> </ol>"
+        }
+    },
+    "5": {
+        "letters": {
+            "type": "krótkie samogłoski"
+        },
+        "comparison": {
+            "difference": "/ʌ/ jest krótsze i bardziej centralne, podczas gdy /ɑː/ jest dłuższe i bardziej otwarte."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ʌ/</strong> to krótka samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> centralna, lekko uniesiona, ale niżej niż /ɪ/.</li> <li><strong>Otworzenie szczęki:</strong> umiarkowanie otwarte.</li> <li><strong>Kształt ust:</strong> neutralne, lekko rozluźnione.</li> <li><strong>Napięcie języka:</strong> bardziej rozluźnione niż /ɪ/.</li> <li><strong>Czas trwania:</strong> krótkie, ale nieco dłuższe niż /ɪ/.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Utrzymuj usta lekko otwarte i rozluźnione.</li> <li>Umieść język w środku jamy ustnej.</li> <li>Ćwicz, porównując z /ɪ/ używając par słów, np. <em>cup</em> – <em>kip</em>.</li> </ol>"
+        }
+    },
+    "6": {
+        "letters": {
+            "type": "krótkie samogłoski"
+        },
+        "comparison": {
+            "difference": "/ɒ/ jest krótsze i bardziej otwarte, podczas gdy /ɔː/ jest dłuższe i bardziej zaokrąglone."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ɒ/</strong> to krótka samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> z tyłu, lekko obniżona.</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte.</li> <li><strong>Kształt ust:</strong> zaokrąglone.</li> <li><strong>Napięcie języka:</strong> rozluźnione.</li> <li><strong>Czas trwania:</strong> krótkie.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Utrzymuj lekko otwarte usta i zaokrąglone usta.</li> <li>Umieść język z tyłu jamy ustnej.</li> <li>Ćwicz, porównując dźwięk /ɒ/ z /ɑː/ na przykład za pomocą par słów, np. <em>cot</em> – <em>cart</em>.</li> </ol>"
+        }
+    },
+    "7": {
+        "letters": {
+            "type": "samogłoska centralna"
+        },
+        "comparison": {
+            "difference": "/ə/ jest zawsze nieakcentowane, podczas gdy /ʌ/ może być akcentowane. /ə/ jest najczęstszym dźwiękiem samogłoskowym w języku angielskim."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ə/ (szwa)</strong> – najczęstszej samogłoski w angielskim – odbywa się z:</p> <ul> <li><strong>Pozycja języka:</strong> centralna, rozluźniona.</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte.</li> <li><strong>Kształt ust:</strong> neutralny.</li> <li><strong>Napięcie języka:</strong> rozluźnione.</li> <li><strong>Czas trwania:</strong> bardzo krótkie.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozluźnij usta i język.</li> <li>Nie akcentuj sylaby zawierającej /ə/.</li> <li>Porównaj z akcentowaną samogłoską, ćwicząc pary słów, np. <em>sofa</em> – <em>cup</em>.</li> </ol>"
+        }
+    },
+    "8": {
+        "letters": {
+            "type": "długie samogłoski"
+        },
+        "comparison": {
+            "difference": "/iː/ jest dłuższe i bardziej napięte, podczas gdy /ɪ/ jest krótsze i bardziej zrelaksowane."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /iː/</strong> to długa samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> z przodu, wysoka i napięta.</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte.</li> <li><strong>Kształt ust:</strong> niezaokrąglone, lekko rozchylone.</li> <li><strong>Napięcie języka:</strong> napięte.</li> <li><strong>Czas trwania:</strong> długie i utrzymane.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Utrzymuj język wysoko i z przodu w jamie ustnej.</li> <li>Delikatnie rozciągnij usta, jak przy uśmiechu.</li> <li>Wymawiaj dźwięk dłużej niż /ɪ/.</li> <li>Ćwicz, porównując z /ɪ/ przy użyciu par słów, np. <em>sheep</em> – <em>ship</em>.</li> </ol>"
+        }
+    },
+    "9": {
+        "letters": {
+            "type": "długie samogłoski"
+        },
+        "comparison": {
+            "difference": "/uː/ jest dłuższe i bardziej napięte, podczas gdy /ʊ/ jest krótsze i bardziej zrelaksowane."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /uː/</strong> to długa samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> z tyłu, wysoka i napięta.</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte.</li> <li><strong>Kształt ust:</strong> zaokrąglone.</li> <li><strong>Napięcie języka:</strong> napięte.</li> <li><strong>Czas trwania:</strong> długie i utrzymane.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Utrzymuj język wysoko z tyłu w jamie ustnej.</li> <li>Delikatnie zaokrąglij usta.</li> <li>Wymawiaj dźwięk dłużej niż /ʊ/.</li> <li>Ćwicz, porównując z /ʊ/ używając par słów, np. <em>pool</em> – <em>pull</em>.</li> </ol>"
+        }
+    },
+    "10": {
+        "letters": {
+            "type": "długie samogłoski"
+        },
+        "comparison": {
+            "difference": "/ɜː/ jest długą, akcentowaną samogłoską, podczas gdy /ə/ (szwa) jest krótsza i zawsze nieakcentowana."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ɜː/</strong> to długa, akcentowana samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> centralna, na średnim poziomie, napięta.</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte.</li> <li><strong>Kształt ust:</strong> neutralny, niezaokrąglony.</li> <li><strong>Napięcie języka:</strong> napięte.</li> <li><strong>Czas trwania:</strong> długie i utrzymane.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść język w środku jamy ustnej.</li> <li>Nie zaokrąglaj ust.</li> <li>Wymawiaj dźwięk dłużej niż /ə/.</li> <li>Ćwicz z parą słów, np. <em>her</em> – <em>sofa</em>.</li> </ol>"
+        }
+    },
+    "11": {
+        "letters": {
+            "type": "długie samogłoski"
+        },
+        "comparison": {
+            "difference": "/ɔː/ jest dłuższe i bardziej zaokrąglone, podczas gdy /ɒ/ jest krótsze i bardziej otwarte."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ɔː/</strong> to długa samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> z tyłu, na średnim poziomie w dół, napięta.</li> <li><strong>Otworzenie szczęki:</strong> umiarkowanie otwarte.</li> <li><strong>Kształt ust:</strong> zaokrąglone.</li> <li><strong>Napięcie języka:</strong> napięte.</li> <li><strong>Czas trwania:</strong> długie i utrzymane.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść język z tyłu jamy ustnej, nieco nisko.</li> <li>Utrzymuj usta w umiarkowanie zaokrąglonym stanie.</li> <li>Wymawiaj dźwięk dłużej niż /ɒ/.</li> <li>Ćwicz z parą słów, np. <em>law</em> – <em>lot</em>.</li> </ol>"
+        }
+    },
+    "12": {
+        "letters": {
+            "type": "długie samogłoski"
+        },
+        "comparison": {
+            "difference": "/ɑː/ jest dłuższe i wymawiane z bardziej otwartymi ustami, podczas gdy /æ/ jest krótsze i bardziej wysunięte do przodu."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ɑː/</strong> to długa samogłoska, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> z tyłu, nisko i napięte.</li> <li><strong>Otworzenie szczęki:</strong> szeroko otwarte.</li> <li><strong>Kształt ust:</strong> neutralne, niezaokrąglone.</li> <li><strong>Napięcie języka:</strong> napięte.</li> <li><strong>Czas trwania:</strong> długie i utrzymane.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Otwórz szeroko usta i rozluźnij je.</li> <li>Umieść język nisko i nieco do tyłu.</li> <li>Wymawiaj dźwięk dłużej niż /æ/.</li> <li>Ćwicz z parą słów, np. <em>car</em> – <em>cat</em>.</li> </ol>"
+        }
+    },
+    "13": {
+        "letters": {
+            "type": "dyftongi"
+        },
+        "comparison": {
+            "difference": "/eɪ/ jest dyftongiem, który przesuwa się od /e/ do /ɪ/, podczas gdy /ɛ/ jest krótkim, jednorodnym dźwiękiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /eɪ/</strong> to dyftong, wymawiany z:</p> <ul> <li><strong>Pozycja języka:</strong> zaczyna się w środkowo-przedniej pozycji (/e/), a następnie przechodzi do /ɪ/.</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte, potem nieco zamknięte.</li> <li><strong>Kształt ust:</strong> rozluźnione i lekko rozchylone.</li> <li><strong>Napięcie języka:</strong> przechodzi od rozluźnionego do nieco napiętego.</li> <li><strong>Czas trwania:</strong> długie, ponieważ dźwięk przesuwa się między pozycjami.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozpocznij z językiem w środkowo-przedniej pozycji (/e/).</li> <li>Powoli przesuń język w kierunku /ɪ/.</li> <li>Pozwól, aby oba dźwięki płynnie się połączyły, bez ich rozdzielania.</li> <li>Ćwicz, używając par słów, np. <em>late</em> – <em>let</em>.</li> </ol>"
+        }
+    },
+    "14": {
+        "letters": {
+            "type": "dyftongi"
+        },
+        "comparison": {
+            "difference": "/aɪ/ jest dyftongiem, który przesuwa się od /a/ do /ɪ/, podczas gdy /æ/ jest krótkim, jednorodnym dźwiękiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /aɪ/</strong> to dyftong, wymawiany z:</p> <ul> <li><strong>Pozycja języka:</strong> zaczyna się z niskiej pozycji, a następnie przesuwa się do wysokiej pozycji przedniej.</li> <li><strong>Otworzenie szczęki:</strong> zaczyna się od szeroko otwartej jamy ustnej, po czym lekko się zamyka.</li> <li><strong>Kształt ust:</strong> początkowo neutralny, potem lekko rozchylony.</li> <li><strong>Napięcie języka:</strong> stopniowo przechodzi od rozluźnionego do nieco napiętego.</li> <li><strong>Czas trwania:</strong> długie, ponieważ dźwięk przesuwa się między pozycjami.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozpocznij z językiem w niskiej pozycji.</li> <li>Przesuń język do wysokiej pozycji przedniej.</li> <li>Pozwól, aby oba dźwięki płynnie się połączyły, bez rozdzielania.</li> <li>Ćwicz, używając par słów, np. <em>ride</em> – <em>rad</em>.</li> </ol>"
+        }
+    },
+    "15": {
+        "letters": {
+            "type": "dyftongi"
+        },
+        "comparison": {
+            "difference": "/ɔɪ/ jest dyftongiem, który przesuwa się od /ɔ/ do /ɪ/, podczas gdy /ɔː/ jest długim, jednorodnym dźwiękiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ɔɪ/</strong> to dyftong, wymawiany z:</p> <ul> <li><strong>Pozycja języka:</strong> zaczyna się w średnio-tylnej, zaokrąglonej pozycji (/ɔ/), a następnie przesuwa się do wysokiej pozycji przedniej (/ɪ/).</li> <li><strong>Otworzenie szczęki:</strong> zaczyna się lekko otwarte, potem nieco zamknięte.</li> <li><strong>Kształt ust:</strong> początkowo zaokrąglone, następnie lekko rozchylone.</li> <li><strong>Napięcie języka:</strong> przechodzi od stanu rozluźnionego do nieco napiętego.</li> <li><strong>Czas trwania:</strong> długie, ponieważ dźwięk przesuwa się między pozycjami.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozpocznij z językiem w średnio-tylnej, zaokrąglonej pozycji (/ɔ/).</li> <li>Przesuń język do wysokiej pozycji przedniej (/ɪ/).</li> <li>Pozwól, aby oba dźwięki płynnie się łączyły, bez ich rozdzielania.</li> <li>Ćwicz, używając par słów, np. <em>boy</em> – <em>bore</em>.</li> </ol>"
+        }
+    },
+    "16": {
+        "letters": {
+            "type": "dyftongi"
+        },
+        "comparison": {
+            "difference": "/aʊ/ jest dyftongiem, który przesuwa się od /a/ do /ʊ/, podczas gdy /æ/ jest krótkim, jednorodnym dźwiękiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /aʊ/</strong> to dyftong, wymawiany z:</p> <ul> <li><strong>Pozycja języka:</strong> zaczyna się w niskiej pozycji przedniej (/a/), a następnie przesuwa się do wysokiej pozycji tylnej z zaokrągleniem (/ʊ/).</li> <li><strong>Otworzenie szczęki:</strong> zaczyna się od szeroko otwartej jamy ustnej, a potem lekko się zamyka.</li> <li><strong>Kształt ust:</strong> początkowo neutralny, a następnie zmienia się na zaokrąglony.</li> <li><strong>Napięcie języka:</strong> stopniowo przechodzi od rozluźnionego do nieco napiętego.</li> <li><strong>Czas trwania:</strong> długie, ponieważ dźwięk przesuwa się między pozycjami.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozpocznij z językiem w niskiej pozycji przedniej (/a/).</li> <li>Przesuń język do wysokiej pozycji tylnej z zaokrągleniem (/ʊ/).</li> <li>Pozwól, aby oba dźwięki płynnie się łączyły, bez ich rozdzielania.</li> <li>Ćwicz, używając par słów, np. <em>now</em> – <em>nap</em>.</li> </ol>"
+        }
+    },
+    "17": {
+        "letters": {
+            "type": "dyftongi"
+        },
+        "comparison": {
+            "difference": "/əʊ/ jest często używany w brytyjskim angielskim, podczas gdy /oʊ/ jest jego amerykańskim odpowiednikiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /əʊ/</strong> to dyftong, wymawiany z:</p> <ul> <li><strong>Pozycja języka:</strong> zaczyna się w centralnej pozycji (/ə/), a następnie przesuwa się do wysokiej pozycji tylnej z zaokrągleniem (/ʊ/).</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte na początku, potem nieco zamknięte.</li> <li><strong>Kształt ust:</strong> zaczyna się neutralnie, a następnie przechodzi w stan zaokrąglony.</li> <li><strong>Napięcie języka:</strong> przechodzi od rozluźnionego do nieco napiętego.</li> <li><strong>Czas trwania:</strong> długie, ponieważ dźwięk przesuwa się między pozycjami.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozpocznij z językiem w centralnej pozycji (/ə/).</li> <li>Przesuń język do wysokiej pozycji tylnej z zaokrągleniem (/ʊ/).</li> <li>Pozwól, aby oba dźwięki płynnie się połączyły, bez ich rozdzielania.</li> <li>Ćwicz, używając par słów, np. <em>go</em> (UK) – <em>go</em> (US).</li> </ol>"
+        }
+    },
+    "18": {
+        "letters": {
+            "type": "dyftongi"
+        },
+        "comparison": {
+            "difference": "/ɪə/ jest dyftongiem, który przesuwa się od /ɪ/ do /ə/, podczas gdy /ɪ/ jest krótkim, jednorodnym dźwiękiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ɪə/</strong> to dyftong, wymawiany z:</p> <ul> <li><strong>Pozycja języka:</strong> zaczyna się w wysokiej pozycji przedniej (/ɪ/), a następnie przesuwa się do centralnej (/ə/).</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte na początku, potem rozluźniają się.</li> <li><strong>Kształt ust:</strong> neutralny.</li> <li><strong>Napięcie języka:</strong> przechodzi od napiętego do bardziej rozluźnionego.</li> <li><strong>Czas trwania:</strong> długie, ponieważ dźwięk przesuwa się między pozycjami.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozpocznij z językiem w wysokiej pozycji przedniej (/ɪ/).</li> <li>Przesuń język w stronę pozycji centralnej (/ə/).</li> <li>Pozwól, aby oba dźwięki płynnie się połączyły, bez rozdzielania ich.</li> <li>Ćwicz, używając par słów, np. <em>here</em> – <em>hit</em>.</li> </ol>"
+        }
+    },
+    "19": {
+        "letters": {
+            "type": "dyftongi"
+        },
+        "comparison": {
+            "difference": "/eə/ jest dyftongiem, który przesuwa się od /e/ do /ə/, podczas gdy /e/ jest krótkim, jednorodnym dźwiękiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /eə/</strong> to dyftong, wymawiany z:</p> <ul> <li><strong>Pozycja języka:</strong> zaczyna się w średniej pozycji przedniej (/e/), a następnie przesuwa się do centralnej (/ə/).</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte na początku, potem rozluźniają się.</li> <li><strong>Kształt ust:</strong> neutralny.</li> <li><strong>Napięcie języka:</strong> przechodzi od lekkiego napięcia do stanu rozluźnionego.</li> <li><strong>Czas trwania:</strong> długie, ponieważ dźwięk przesuwa się między pozycjami.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozpocznij z językiem w średniej pozycji przedniej (/e/).</li> <li>Powoli przesuń język w stronę centralnej pozycji (/ə/).</li> <li>Pozwól, aby dźwięki płynnie się połączyły bez rozdzielania.</li> <li>Ćwicz, używając par słów, np. <em>air</em> – <em>egg</em>.</li> </ol>"
+        }
+    },
+    "20": {
+        "letters": {
+            "type": "dyftongi"
+        },
+        "comparison": {
+            "difference": "/ʊə/ jest dyftongiem, który przesuwa się od /ʊ/ do /ə/, podczas gdy /ʊ/ jest krótkim, jednorodnym dźwiękiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ʊə/</strong> to dyftong, wymawiany z:</p> <ul> <li><strong>Pozycja języka:</strong> zaczyna się w wysokiej pozycji tylnej (/ʊ/), a następnie przesuwa się do centralnej (/ə/).</li> <li><strong>Otworzenie szczęki:</strong> lekko otwarte na początku, potem rozluźniają się.</li> <li><strong>Kształt ust:</strong> zaczyna się z zaokrąglonymi ustami, a potem staje się neutralny.</li> <li><strong>Napięcie języka:</strong> przechodzi od nieco napiętego do bardziej rozluźnionego.</li> <li><strong>Czas trwania:</strong> długie, ponieważ dźwięk przesuwa się między pozycjami.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Rozpocznij z językiem w wysokiej pozycji tylnej (/ʊ/).</li> <li>Powoli przesuń język w stronę centralnej pozycji (/ə/).</li> <li>Pozwól, aby dźwięki płynnie się połączyły, bez ich rozdzielania.</li> <li>Ćwicz, używając par słów, np. <em>tour</em> – <em>took</em>.</li> </ol>"
+        }
+    },
+    "21": {
+        "letters": {
+            "type": "bez głosu"
+        },
+        "comparison": {
+            "difference": "/f/ jest bezgłosowe (bez drgań strun głosowych), podczas gdy /v/ jest dźwięczne (struny głosowe drgają)."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /f/</strong> to bezgłosowa spółgłoska labiodentalna frikatywna, wymawiana z:</p> <ul> <li><strong>Lip i zęby:</strong> Dolna warga dotyka górnych zębów.</li> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza przechodzi przez wąską szczelinę między wargami a zębami.</li> <li><strong>Struny głosowe:</strong> Nie drgają.</li> <li><strong>Trwanie:</strong> Może być przedłużone.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść dolną wargę przy górnych zębach.</li> <li>Wydychaj powietrze przez wąską szczelinę.</li> <li>Nie używaj głosu (porównaj z /v/, wyczuwając drgania w gardle).</li> <li>Ćwicz z minimalnymi parami, np. <em>fan</em> – <em>van</em>.</li> </ol>"
+        }
+    },
+    "22": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/v/ jest dźwięczne (struny głosowe drgają), podczas gdy /f/ jest bezgłosowe (bez drgań strun głosowych)."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /v/</strong> to dźwięczna spółgłoska labiodentalna frikatywna, wymawiana z:</p> <ul> <li><strong>Lip i zęby:</strong> Dolna warga dotyka górnych zębów.</li> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza przechodzi przez wąską szczelinę między wargami a zębami.</li> <li><strong>Struny głosowe:</strong> Drgają.</li> <li><strong>Trwanie:</strong> Może być przedłużone.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść dolną wargę przy górnych zębach.</li> <li>Wydychaj powietrze przez wąską szczelinę, używając głosu.</li> <li>Porównaj z /f/ – jeśli czujesz drganie, to /v/; w przeciwnym razie /f/.</li> <li>Ćwicz z minimalnymi parami, np. <em>fan</em> – <em>van</em>.</li> </ol>"
+        }
+    },
+    "23": {
+        "letters": {
+            "type": "bez głosu"
+        },
+        "comparison": {
+            "difference": "/θ/ jest bezgłosowe, podczas gdy /ð/ jest dźwięczne."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /θ/</strong> to bezgłosowa spółgłoska frikatywna, wymawiana z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza przechodzi przez wąskie zwężenie utworzone przez język i górne siekacze.</li> <li><strong>Pozycja języka:</strong> Czubek języka lekko dotyka górnych siekaczy, nie blokując całkowicie przepływu powietrza.</li> <li><strong>Struny głosowe:</strong> Nie drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Delikatnie dotknij czubkiem języka górnych siekaczy.</li> <li>Upewnij się, że powietrze płynie nieprzerwanie między językiem a zębami.</li> <li>Zadbaj, aby struny głosowe pozostały rozluźnione i nie drgały.</li> </ol>"
+        }
+    },
+    "24": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/ð/ jest dźwięczne (struny głosowe drgają), podczas gdy /θ/ jest bezgłosowe (bez drgań strun głosowych)."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ð/</strong> to dźwięczna spółgłoska dentalna frikatywna, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> Czubek języka lekko dotyka górnych siekaczy.</li> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza przechodzi przez wąską szczelinę między językiem a zębami.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> <li><strong>Trwanie:</strong> Może być przedłużone.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść czubek języka przy górnych siekaczach.</li> <li>Wydychaj powietrze przez wąską szczelinę, jednocześnie powodując drganie strun głosowych.</li> <li>Porównaj /θ/ z /ð/ – zwróć uwagę na różnicę drgań.</li> <li>Ćwicz z minimalnymi parami, np. <em>this</em> – <em>think</em>.</li> </ol>"
+        }
+    },
+    "25": {
+        "letters": {
+            "type": "bez głosu"
+        },
+        "comparison": {
+            "difference": "/s/ jest bezgłosowe (bez drgań strun głosowych), podczas gdy /z/ jest dźwięczne (struny głosowe drgają)."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /s/</strong> to bezgłosowa spółgłoska alveolarna frikatywna, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> Czubek języka znajduje się blisko grzbietu zębów.</li> <li><strong>Przepływ powietrza:</strong> Wąski, ciągły strumień powietrza powoduje tarcie.</li> <li><strong>Struny głosowe:</strong> Nie drgają.</li> <li><strong>Trwanie:</strong> Może być przedłużone.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść czubek języka blisko grzbietu zębów, ale nie dotykaj ich.</li> <li>Wydychaj powietrze przez wąską szczelinę, utrzymując struny głosowe w spoczynku.</li> <li>Porównaj z /z/ czując drganie.</li> <li>Ćwicz z minimalnymi parami, np. <em>sip</em> – <em>zip</em>.</li> </ol>"
+        }
+    },
+    "26": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/z/ jest dźwięczne, co oznacza, że struny głosowe drgają, podczas gdy /s/ jest bezgłosowe."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /z/</strong> to dźwięczna spółgłoska, wymawiana z:</p> <ul> <li><strong>Wibracja strun głosowych:</strong> W przeciwieństwie do /s/, przy wymawianiu /z/ struny głosowe drgają.</li> <li><strong>Pozycja języka:</strong> Czubek języka znajduje się blisko grzbietu zębów.</li> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza przechodzi przez wąską szczelinę.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść język blisko grzbietu zębów.</li> <li>Wymawiaj, wypuszczając powietrze, podczas gdy struny głosowe drgają.</li> <li>Ćwicz z minimalnymi parami, np. <em>sip</em> – <em>zip</em>.</li> </ol>"
+        }
+    },
+    "27": {
+        "letters": {
+            "type": "ustemne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/ʃ/ jest ustemnym frikatywem postalveolarnym, podczas gdy /s/ jest alveolarny, a /ʒ/ jest jego dźwięcznym odpowiednikiem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ʃ/</strong> to ustemna spółgłoska frikatywna, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> Język umieszczony jest blisko podniebienia, nieco za grzbietem zębów.</li> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza generuje tarcie.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść język blisko podniebienia.</li> <li>Wypuszczaj powietrze ciągłym strumieniem, bez angażowania strun głosowych.</li> <li>Ćwicz z minimalnymi parami, np. <em>she</em> – <em>genre</em>.</li> </ol>"
+        }
+    },
+    "28": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/ʒ/ jest dźwięczne, wymawiane jako frikatywna spółgłoska postalveolarna, podczas gdy /ʃ/ jest ustemne, a /z/ jest alveolarny."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ʒ/</strong> to dźwięczna spółgłoska frikatywna, wymawiana z:</p> <ul> <li><strong>Pozycja języka:</strong> Język umieszczony jest blisko podniebienia, nieco za grzbietem zębów.</li> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza wraz z drganiami strun głosowych generuje tarcie.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść język blisko podniebienia.</li> <li>Wypuszczaj powietrze, pozwalając strunom głosowym drgać.</li> <li>Ćwicz z minimalnymi parami, np. <em>vision</em> – <em>mission</em>.</li> </ol>"
+        }
+    },
+    "29": {
+        "letters": {
+            "type": "ustemne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/h/ jest ustemne, wymawiane jako glottalny frikatyw, podczas gdy /ʔ/ jest zatrzymaniem głosowym, a /x/ to velarny frikatyw."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /h/</strong> to ustemna spółgłoska frikatywna, wymawiana z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Łagodny, płynny strumień powietrza przepływa przez otwartą krtanię.</li> <li><strong>Pozycja języka:</strong> Język pozostaje w neutralnej pozycji, zależnie od następującej samogłoski.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Utrzymuj otwartą krtań, aby powietrze mogło swobodnie przepływać.</li> <li>Trzymaj język w pozycji neutralnej.</li> <li>Porównaj z dźwięcznymi spółgłoskami, aby wyczuć brak drgań.</li> </ol>"
+        }
+    },
+    "30": {
+        "letters": {
+            "type": "ustemne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/p/ jest ustemnym bilabialnym plozjatywem, podczas gdy /b/ jest dźwięczne, a /f/ jest frikatywem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /p/</strong> to ustemny plozjatyw, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Krótkie zatrzymanie przepływu powietrza przez zamknięcie ust, a następnie gwałtowny wydech.</li> <li><strong>Pozycja ust:</strong> Usta są całkowicie zamknięte przed wypuszczeniem dźwięku.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Całkowicie zamknij usta.</li> <li>Wytwórz ciśnienie powietrza za ustami.</li> <li>Szybko wypuść powietrze, aby wyprodukować dźwięk /p/.</li> </ol>"
+        }
+    },
+    "31": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/b/ jest dźwięcznym bilabialnym plozjatywem, podczas gdy /p/ jest ustemne, a /m/ jest dźwiękiem nosowym."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /b/</strong> to dźwięczny plozjatyw, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Krótkie zatrzymanie przepływu powietrza przez zamknięcie ust, a następnie gwałtowny wydech.</li> <li><strong>Pozycja ust:</strong> Usta są całkowicie zamknięte przed wypuszczeniem dźwięku.</li> <li><strong>Struny głosowe:</strong> Drgają podczas produkcji dźwięku.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Całkowicie zamknij usta.</li> <li>Wytwórz ciśnienie powietrza za ustami.</li> <li>Wypuść powietrze, jednocześnie powodując drganie strun głosowych, aby wyprodukować dźwięk /b/.</li> </ol>"
+        }
+    },
+    "32": {
+        "letters": {
+            "type": "ustemne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/t/ jest ustemnym alveolarnym plozjatywem, podczas gdy /d/ jest dźwięczne, a /θ/ jest ustemnym dentarnym frikatywem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /t/</strong> to ustemny plozjatyw, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Krótkie zatrzymanie przepływu powietrza przez przyciśnięcie czubka języka do grzbietu zębów (obszar tuż za górnymi siekaczami), a następnie szybkie wypuszczenie powietrza.</li> <li><strong>Pozycja języka:</strong> Czubek języka dotyka grzbietu zębów, po czym szybko się rozluźnia.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść czubek języka na grzbiecie zębów, tuż za górnymi siekaczami.</li> <li>Wytwórz ciśnienie powietrza za językiem.</li> <li>Szybko wypuść powietrze, aby wyprodukować dźwięk /t/.</li> </ol>"
+        }
+    },
+    "33": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/d/ jest dźwięcznym alveolarnym plozjatywem, podczas gdy /t/ jest ustemne, a /ð/ jest dźwięcznym dentarnym frikatywem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /d/</strong> to dźwięczny plozjatyw, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Krótkie zatrzymanie przepływu powietrza przez przyciśnięcie czubka języka do grzbietu zębów, a następnie szybkie wypuszczenie powietrza.</li> <li><strong>Pozycja języka:</strong> Czubek języka dotyka grzbietu zębów i szybko się rozluźnia.</li> <li><strong>Struny głosowe:</strong> Drgają podczas produkcji dźwięku.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść czubek języka na grzbiecie zębów, tuż za górnymi siekaczami.</li> <li>Wytwórz ciśnienie powietrza za językiem.</li> <li>Wypuść powietrze, powodując drganie strun głosowych, aby wyprodukować dźwięk /d/.</li> </ol>"
+        }
+    },
+    "34": {
+        "letters": {
+            "type": "ustemne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/k/ jest ustemnym welarnym plozjatywem, podczas gdy /g/ jest dźwięczne, a /t/ jest alveolarnym plozjatywem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /k/</strong> to ustemny plozjatyw, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Krótkie zatrzymanie przepływu powietrza przez uniesienie tylnej części języka w kierunku miękkiego podniebienia (miękka część dachu jamy ustnej), a następnie szybkie wypuszczenie powietrza.</li> <li><strong>Pozycja języka:</strong> Tylna część języka dotyka miękkiego podniebienia i szybko się rozluźnia.</li> <li><strong>Struny głosowe:</strong> Nie drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Unieś tylną część języka tak, aby dotknęła miękkiego podniebienia.</li> <li>Zbuduj ciśnienie powietrza za językiem.</li> <li>Szybko wypuść powietrze, upewniając się, że struny głosowe nie drgają.</li> </ol>"
+        }
+    },
+    "35": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/g/ jest dźwięcznym welarnym plozjatywem, podczas gdy /k/ jest ustemne."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /g/</strong> to dźwięczny plozjatyw, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Krótkie zatrzymanie przepływu powietrza przez przyłożenie tylnej części języka do miękkiego podniebienia, a następnie szybkie wypuszczenie powietrza.</li> <li><strong>Pozycja języka:</strong> Tylna część języka dotyka miękkiego podniebienia i szybko się rozluźnia.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść tylną część języka przy miękkim podniebieniu.</li> <li>Zbuduj ciśnienie powietrza za językiem.</li> <li>Szybko wypuść powietrze, powodując drganie strun głosowych, aby wyprodukować dźwięk /g/.</li> </ol>"
+        }
+    },
+    "36": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/m/ jest dźwięczną spółgłoską nosową, podczas gdy /n/ jest dźwięczną nosową alveolarną, a /ŋ/ jest dźwięczną nosową welarną."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /m/</strong> to dźwięczna spółgłoska nosowa, wymawiana z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Powietrze wydostaje się przez nos, gdyż jama ustna jest zamknięta przez usta.</li> <li><strong>Pozycja ust:</strong> Oba usta są ściśle zamknięte.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Dokładnie zaciśnij usta.</li> <li>Pozwól powietrzu wydostawać się przez nos, trzymając usta zamknięte.</li> <li>Spraw, aby struny głosowe drgały, produkując dźwięk /m/.</li> </ol>"
+        }
+    },
+    "37": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/n/ jest dźwięczną nosową alveolarną, podczas gdy /m/ jest dźwięczną nosową dwuwargową, a /ŋ/ jest dźwięczną nosową welarną."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /n/</strong> to dźwięczna spółgłoska nosowa alveolarna, produkowana przez:</p> <ul> <li><strong>Przepływ powietrza:</strong> Powietrze kierowane jest przez nos, podczas gdy przepływ w jamie ustnej jest blokowany.</li> <li><strong>Pozycja języka:</strong> Czubek języka dotyka grzbietu zębów, tuż za górnymi siekaczami.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść czubek języka przy grzbietach zębów, tuż za górnymi siekaczami.</li> <li>Obniż miękkie podniebienie, aby powietrze mogło przechodzić przez nos.</li> <li>Spraw, aby struny głosowe drgały, produkując dźwięk /n/.</li> </ol>"
+        }
+    },
+    "38": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/ŋ/ jest dźwięczną nosową welarną, podczas gdy /n/ jest dźwięczną nosową alveolarną, a /m/ jest dźwięczną nosową dwuwargową."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /ŋ/</strong> to dźwięczna spółgłoska nosowa welarna, wymawiana z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Powietrze wydostaje się przez nos, gdy tylna część języka dotyka miękkiego podniebienia, blokując przepływ w jamie ustnej.</li> <li><strong>Pozycja języka:</strong> Tylna część języka naciska na miękkie podniebienie, blokując przepływ powietrza w jamie ustnej.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Unieś tylną część języka tak, aby dotknęła miękkiego podniebienia.</li> <li>Pozwól powietrzu przepływać przez nos, podczas gdy struny głosowe drgają.</li> <li>Rozluźnij język, aby zakończyć dźwięk /ŋ/.</li> </ol>"
+        }
+    },
+    "39": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/w/ jest dźwięcznym labiolowargowym aproksymantem, podczas gdy /v/ jest dźwięcznym labiodentalnym frikatywem, a /r/ jest dźwięcznym alveolarnym aproksymantem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /w/</strong> to dźwięczny aproksymant, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza bez tarcia.</li> <li><strong>Kształt ust:</strong> Usta są zaokrąglone.</li> <li><strong>Pozycja języka:</strong> Tylna część języka zbliża się do miękkiego podniebienia, nie dotykając go.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Zaokrąglij usta.</li> <li>Przybliż tylną część języka do miękkiego podniebienia, ale nie dotykaj go.</li> <li>Utrzymuj ciągły przepływ powietrza i drganie strun głosowych przy wymawianiu /w/.</li> </ol>"
+        }
+    },
+    "40": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/j/ jest dźwięcznym aproksymantem palatowym, podczas gdy /i/ jest zamkniętą, przednią, niemałą samogłoską, a /ʒ/ jest dźwięcznym postalveolarnym frikatywem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /j/</strong> to dźwięczny aproksymant palatowy, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Swobodny przepływ powietrza, gdy język zbliża się do twardego podniebienia, nie powodując tarcia.</li> <li><strong>Pozycja języka:</strong> Środkowa część języka unosi się w kierunku twardego podniebienia.</li> <li><strong>Kształt ust:</strong> Zazwyczaj neutralny lub lekko rozchylony.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Unieś środkową część języka w kierunku twardego podniebienia, nie dotykając go.</li> <li>Upewnij się, że powietrze swobodnie przepływa nad językiem, bez tarcia.</li> <li>Sprawdź, czy struny głosowe drgają podczas wymowy.</li> </ol>"
+        }
+    },
+    "41": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/r/ jest dźwięcznym aproksymantem alveolarnym, podczas gdy /l/ jest dźwięcznym bocznym aproksymantem alveolarnym, a /w/ jest dźwięcznym labiolowargowym aproksymantem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /r/</strong> to dźwięczny aproksymant alveolarny, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Ciągły strumień powietrza bez tarcia.</li> <li><strong>Pozycja języka:</strong> Czubek języka unosi się w kierunku grzbietu zębów, tuż za górnymi siekaczami, nie dotykając ich, tworząc wąski kanał dla powietrza.</li> <li><strong>Kształt ust:</strong> Często lekko zaokrąglone.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Unieś czubek języka w kierunku grzbietu zębów, tuż za górnymi siekaczami, nie dotykając ich.</li> <li>Utrzymaj lekko zaokrąglone usta.</li> <li>Wymawiaj dźwięk, utrzymując ciągły przepływ powietrza i drganie strun głosowych.</li> </ol>"
+        }
+    },
+    "42": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/l/ jest dźwięcznym bocznym aproksymantem alveolarnym, podczas gdy /r/ jest dźwięcznym aproksymantem alveolarnym."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /l/</strong> to dźwięczny boczny aproksymant alveolarny, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Powietrze przepływa po bokach języka.</li> <li><strong>Pozycja języka:</strong> Czubek języka dotyka grzbietu zębów, tuż za górnymi siekaczami.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść czubek języka przy grzbiecie zębów.</li> <li>Upewnij się, że powietrze przepływa po bokach języka.</li> <li>Aktywuj struny głosowe, aby wyprodukować dźwięk /l/.</li> </ol>"
+        }
+    },
+    "43": {
+        "letters": {
+            "type": "ustemne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/tʃ/ jest ustemnym afrykatem, który łączy plozjatyw /t/ z frikatywem /ʃ/, podczas gdy /t/ jest ustemnym alveolarnym plozjatywem, a /ʃ/ jest ustemnym postalveolarnym frikatywem."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /tʃ/</strong> to ustemny afrykat, wymawiany z:</p> <ul> <li><strong>Przepływ powietrza:</strong> Krótkie zatrzymanie powietrza przez przyciśnięcie czubka języka do grzbietu zębów, a następnie szybkie wypuszczenie powietrza, co powoduje frikację.</li> <li><strong>Pozycja języka:</strong> Czubek języka dotyka grzbietu zębów, po czym przesuwa się nieco do tyłu, umożliwiając powstanie frikacji.</li> <li><strong>Struny głosowe:</strong> Nie drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść czubek języka tuż za górnymi siekaczami, przy grzbietach zębów.</li> <li>Zbuduj ciśnienie powietrza za językiem.</li> <li>Szybko wypuść powietrze, przesuwając język nieco do tyłu, aby wyprodukować dźwięk /tʃ/ bez drgań strun głosowych.</li> </ol>"
+        }
+    },
+    "44": {
+        "letters": {
+            "type": "dźwięczne spółgłoski"
+        },
+        "comparison": {
+            "difference": "/dʒ/ jest dźwięczne, podczas gdy /tʃ/ jest ustemne. /dʒ/ zaczyna się od plozjatywu /d/ i jest kontynuowane przez frikatyw /ʒ/."
+        },
+        "description": {
+            "describe": "<p><strong>Wymowa dźwięku /dʒ/</strong> to dźwięczny afrykat postalveolarny, produkowany przez:</p> <ul> <li><strong>Przepływ powietrza:</strong> Najpierw zatrzymaj przepływ powietrza, przyciskając czubek języka do grzbietu zębów, a następnie szybko wypuść powietrze, aby wytworzyć frikację w obszarze postalveolarnym.</li> <li><strong>Pozycja języka:</strong> Czubek języka dotyka grzbietu zębów, po czym przesuwa się nieco do tyłu w kierunku obszaru postalveolarnego podczas wypuszczania powietrza.</li> <li><strong>Struny głosowe:</strong> Drgają podczas wymowy.</li> </ul> <p><strong>Przewodnik po wymowie:</strong></p> <ol> <li>Umieść czubek języka tuż za górnymi siekaczami, przy grzbietach zębów.</li> <li>Zbuduj ciśnienie powietrza za językiem.</li> <li>Szybko wypuść powietrze, przesuwając język nieco do tyłu, aby wyprodukować dźwięk /dʒ/ przy jednoczesnym drganiu strun głosowych.</li> </ol>"
+        }
+    }
+}

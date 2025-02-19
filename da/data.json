@@ -1,0 +1,487 @@
+{
+    "1": {
+      "letters": {
+        "type": "korte vokaler"
+      },
+      "comparison": {
+        "difference": "/ɪ/ er kortere og mere afslappet, mens /iː/ er længere og mere anspændt."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ɪ/</strong> er en kort vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> foran, let hævet, men ikke så højt som ved /iː/.</li> <li><strong>Kæbeåbning:</strong> let åben, ikke for bred.</li> <li><strong>Læbeform:</strong> afslappet, let åben, uden afrunding.</li> <li><strong>Tungespænding:</strong> afslappet.</li> <li><strong>Varighed:</strong> kort, ikke forlænget.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hold munden let åben uden at spænde læberne.</li> <li>Placer tungen fremad og let hævet.</li> <li>Udtal lyden hurtigt og kort, undgå at trække den ud som /iː/.</li> <li>Øv med ordpar som <em>bit</em> – <em>beat</em>.</li> </ol>"
+      }
+    },
+    "2": {
+      "letters": {
+        "type": "korte vokaler"
+      },
+      "comparison": {
+        "difference": "/ʊ/ er kortere og mere afslappet, mens /uː/ er længere og mere anspændt."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ʊ/</strong> er en kort vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> høj, men lidt lavere end /uː/.</li> <li><strong>Kæbeåbning:</strong> let åben.</li> <li><strong>Læbeform:</strong> let rundet, men ikke så udtalt som ved /uː/.</li> <li><strong>Tungespænding:</strong> afslappet.</li> <li><strong>Varighed:</strong> kort, ikke forlænget.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hold læberne let rundede.</li> <li>Placer tungen i en høj position, men ikke så høj som /uː/.</li> <li>Udtal lyden hurtigt og kort, uden at forlænge den som /uː/.</li> <li>Øv med ordpar som <em>pull</em> – <em>pool</em>.</li> </ol>"
+      }
+    },
+    "3": {
+      "letters": {
+        "type": "korte vokaler"
+      },
+      "comparison": {
+        "difference": "/ɛ/ er en kort og afslappet vokal, mens /eɪ/ er et diftong, der glider fra /ɛ/ til /ɪ/."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ɛ/</strong> er en kort vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> foran, på en middel-lav højde.</li> <li><strong>Kæbeåbning:</strong> moderat åben.</li> <li><strong>Læbeform:</strong> afslappet, uden afrunding.</li> <li><strong>Tungespænding:</strong> afslappet.</li> <li><strong>Varighed:</strong> kort, ikke forlænget.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hold munden let åben med afslappede læber.</li> <li>Placer tungen centralt i munden, let hævet foran.</li> <li>Udtal lyden hurtigt og kort, uden at den glider over i /eɪ/.</li> <li>Øv med ordpar som <em>bed</em> – <em>bait</em>.</li> </ol>"
+      }
+    },
+    "4": {
+      "letters": {
+        "type": "korte vokaler"
+      },
+      "comparison": {
+        "difference": "/æ/ er kortere og mere fremtrædende, mens /ɑː/ er længere og mere åben."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /æ/</strong> er en kort vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> foran, lavt, med en vidt åben kæbe.</li> <li><strong>Kæbeåbning:</strong> bredt åben.</li> <li><strong>Læbeform:</strong> neutral, let spredte læber.</li> <li><strong>Tungespænding:</strong> en smule mere anspændt end ved /ɪ/.</li> <li><strong>Varighed:</strong> kort, men en smule længere end /ɪ/.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Åbn munden bredt og sænk tungen.</li> <li>Placer tungen fremad i munden.</li> <li>Øv med ordpar som <em>bat</em> – <em>bit</em> for at sammenligne lydene.</li> </ol>"
+      }
+    },
+    "5": {
+      "letters": {
+        "type": "korte vokaler"
+      },
+      "comparison": {
+        "difference": "/ʌ/ er kort og central, mens /ɑː/ er længere og mere åben."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ʌ/</strong> er en kort vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> central, let hævet, men en smule lavere end /ɪ/.</li> <li><strong>Kæbeåbning:</strong> moderat åben.</li> <li><strong>Læbeform:</strong> neutral, lidt afslappet.</li> <li><strong>Tungespænding:</strong> mere afslappet end ved /ɪ/.</li> <li><strong>Varighed:</strong> kort, men en smule længere end /ɪ/.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hold munden let åben og slap af i tungen.</li> <li>Placer tungen centralt i munden.</li> <li>Øv med ordpar som <em>cup</em> – <em>kip</em>.</li> </ol>"
+      }
+    },
+    "6": {
+      "letters": {
+        "type": "korte vokaler"
+      },
+      "comparison": {
+        "difference": "/ɒ/ er kort og mere åben, mens /ɔː/ er længere og mere rundet."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ɒ/</strong> er en kort vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> bagest i munden, let lav.</li> <li><strong>Kæbeåbning:</strong> let åben.</li> <li><strong>Læbeform:</strong> rundet.</li> <li><strong>Tungespænding:</strong> afslappet.</li> <li><strong>Varighed:</strong> kort.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hold munden let åben og læberne rundede.</li> <li>Placer tungen bagest i munden.</li> <li>Øv med ordpar som <em>cot</em> – <em>cart</em>.</li> </ol>"
+      }
+    },
+    "7": {
+      "letters": {
+        "type": "centrale vokaler"
+      },
+      "comparison": {
+        "difference": "/ə/ udtales altid ustresset, mens /ʌ/ kan være stresset. /ə/ er den mest almindelige vokal i engelsk."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ə/ (schwa)</strong> er den mest almindelige vokal i engelsk, udtalt med:</p> <ul> <li><strong>Tungeposition:</strong> central og afslappet.</li> <li><strong>Kæbeåbning:</strong> let åben.</li> <li><strong>Læbeform:</strong> neutral.</li> <li><strong>Tungespænding:</strong> afslappet.</li> <li><strong>Varighed:</strong> meget kort.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Slap af i munden og med tungen.</li> <li>Beton ikke den stavelse, der indeholder /ə/.</li> <li>Sammenlign med en betonet vokal ved at øve med ordpar som <em>sofa</em> – <em>cup</em>.</li> </ol>"
+      }
+    },
+    "8": {
+      "letters": {
+        "type": "lange vokaler"
+      },
+      "comparison": {
+        "difference": "/iː/ er længere og mere anspændt, mens /ɪ/ er kortere og mere afslappet."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /iː/</strong> er en lang vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> foran, høj og anspændt.</li> <li><strong>Kæbeåbning:</strong> let åben.</li> <li><strong>Læbeform:</strong> ikke rundet og en smule udstrakt.</li> <li><strong>Tungespænding:</strong> anspændt.</li> <li><strong>Varighed:</strong> lang og vedvarende.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hold tungen høj og foran i munden.</li> <li>Stræk læberne let ud, som om du smiler.</li> <li>Udtal lyden længere end /ɪ/.</li> <li>Øv med ordpar som <em>sheep</em> – <em>ship</em>.</li> </ol>"
+      }
+    },
+    "9": {
+      "letters": {
+        "type": "lange vokaler"
+      },
+      "comparison": {
+        "difference": "/uː/ er længere og mere anspændt, mens /ʊ/ er kortere og mere afslappet."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /uː/</strong> er en lang vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> bagest, høj og anspændt.</li> <li><strong>Kæbeåbning:</strong> let åben.</li> <li><strong>Læbeform:</strong> rundede.</li> <li><strong>Tungespænding:</strong> anspændt.</li> <li><strong>Varighed:</strong> lang og vedvarende.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hold tungen høj bagest i munden.</li> <li>Rund læberne let.</li> <li>Udtal lyden længere end /ʊ/.</li> <li>Øv med ordpar som <em>pool</em> – <em>pull</em>.</li> </ol>"
+      }
+    },
+    "10": {
+      "letters": {
+        "type": "lange vokaler"
+      },
+      "comparison": {
+        "difference": "/ɜː/ er en lang, betonet vokal, mens /ə/ (schwa) er kortere og altid ustresset."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ɜː/</strong> er en lang, betonet vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> central, på en middelhøj højde og anspændt.</li> <li><strong>Kæbeåbning:</strong> let åben.</li> <li><strong>Læbeform:</strong> neutral, uden afrunding.</li> <li><strong>Tungespænding:</strong> anspændt.</li> <li><strong>Varighed:</strong> lang og vedvarende.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungen centralt i munden.</li> <li>Undlad at runde læberne.</li> <li>Udtal lyden længere end /ə/.</li> <li>Øv med ordpar som <em>her</em> – <em>sofa</em>.</li> </ol>"
+      }
+    },
+    "11": {
+      "letters": {
+        "type": "lange vokaler"
+      },
+      "comparison": {
+        "difference": "/ɔː/ er længere og mere rundet, mens /ɒ/ er kortere og mere åben."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ɔː/</strong> er en lang vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> bagest, på en middel-lav højde og anspændt.</li> <li><strong>Kæbeåbning:</strong> moderat åben.</li> <li><strong>Læbeform:</strong> rundet.</li> <li><strong>Tungespænding:</strong> anspændt.</li> <li><strong>Varighed:</strong> lang og vedvarende.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungen bagest i munden, en smule lavere.</li> <li>Hold læberne moderat rundede.</li> <li>Udtal lyden længere end /ɒ/.</li> <li>Øv med ordpar som <em>law</em> – <em>lot</em>.</li> </ol>"
+      }
+    },
+    "12": {
+      "letters": {
+        "type": "lange vokaler"
+      },
+      "comparison": {
+        "difference": "/ɑː/ er længere og udtales med en mere åben mund, mens /æ/ er kortere og mere fremtrædende."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ɑː/</strong> er en lang vokal, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> bagest, lavt og anspændt.</li> <li><strong>Kæbeåbning:</strong> bredt åben.</li> <li><strong>Læbeform:</strong> neutral, uden afrunding.</li> <li><strong>Tungespænding:</strong> anspændt.</li> <li><strong>Varighed:</strong> lang og vedvarende.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Åbn munden bredt og slap af i læberne.</li> <li>Placer tungen lavt og en smule bagud.</li> <li>Udtal lyden længere end /æ/.</li> <li>Øv med ordpar som <em>car</em> – <em>cat</em>.</li> </ol>"
+      }
+    },
+    "13": {
+      "letters": {
+        "type": "diftonger"
+      },
+      "comparison": {
+        "difference": "/eɪ/ er et diftong, der glider fra /e/ til /ɪ/, mens /ɛ/ er en kort monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /eɪ/</strong> er et diftong, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Starter i en middel-forreste position (/e/) og glider derefter mod /ɪ/.</li> <li><strong>Kæbeåbning:</strong> Let åben i starten, derefter lidt lukket.</li> <li><strong>Læbeform:</strong> Afslappet og let udstrakt.</li> <li><strong>Tungespænding:</strong> Overgår gradvist fra afslappet til en smule anspændt.</li> <li><strong>Varighed:</strong> Lang, da lyden glider mellem positioner.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Start med tungen i den middel-forreste position (/e/).</li> <li>Glid langsomt med tungen mod /ɪ/.</li> <li>Lad de to lyde flyde sammen uden at blive adskilt.</li> <li>Øv med ordpar som <em>late</em> – <em>let</em>.</li> </ol>"
+      }
+    },
+    "14": {
+      "letters": {
+        "type": "diftonger"
+      },
+      "comparison": {
+        "difference": "/aɪ/ er et diftong, der glider fra /a/ til /ɪ/, mens /æ/ er en kort monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /aɪ/</strong> er et diftong, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Starter fra en lav position og bevæger sig derefter til en høj, frem position.</li> <li><strong>Kæbeåbning:</strong> Starter med en meget åben mund, derefter en smule lukket.</li> <li><strong>Læbeform:</strong> I starten neutral, derefter let udstrakt.</li> <li><strong>Tungespænding:</strong> Skifter gradvist fra afslappet til en smule anspændt.</li> <li><strong>Varighed:</strong> Lang, da lyden glider mellem positioner.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Start med tungen i en lav position.</li> <li>Bevæg tungen mod en høj, frem position.</li> <li>Lad de to lyde flyde sammen uden at blive adskilt.</li> <li>Øv med ordpar som <em>ride</em> – <em>rad</em>.</li> </ol>"
+      }
+    },
+    "15": {
+      "letters": {
+        "type": "diftonger"
+      },
+      "comparison": {
+        "difference": "/ɔɪ/ er et diftong, der glider fra /ɔ/ til /ɪ/, mens /ɔː/ er en lang monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ɔɪ/</strong> er et diftong, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Starter i en mellem-tilbagelænet, rundet position (/ɔ/) og glider så til en høj, frem position (/ɪ/).</li> <li><strong>Kæbeåbning:</strong> Starter let åben, derefter lidt lukket.</li> <li><strong>Læbeform:</strong> Starter med rundede læber, og bliver derefter let udstrakt.</li> <li><strong>Tungespænding:</strong> Overgår fra afslappet til en smule anspændt.</li> <li><strong>Varighed:</strong> Lang, da lyden glider mellem positioner.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Start med tungen i den mellem-tilbagelænet, rundede position (/ɔ/).</li> <li>Glid tungen mod en høj, frem position (/ɪ/).</li> <li>Lad de to lyde flyde sammen uden afbrydelse.</li> <li>Øv med ordpar som <em>boy</em> – <em>bore</em>.</li> </ol>"
+      }
+    },
+    "16": {
+      "letters": {
+        "type": "diftonger"
+      },
+      "comparison": {
+        "difference": "/aʊ/ er et diftong, der glider fra /a/ til /ʊ/, mens /æ/ er en kort monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /aʊ/</strong> er et diftong, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Starter i en lav, frem position (/a/) og glider derefter til en høj, bag position med afrunding (/ʊ/).</li> <li><strong>Kæbeåbning:</strong> Starter med en meget åben mund, derefter lidt lukket.</li> <li><strong>Læbeform:</strong> Starter neutral, og bliver derefter rundet.</li> <li><strong>Tungespænding:</strong> Skifter gradvist fra afslappet til en smule anspændt.</li> <li><strong>Varighed:</strong> Lang, da lyden glider mellem positioner.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Start med tungen i den lave, frem position (/a/).</li> <li>Glid langsomt med tungen til en høj, bag position med afrunding (/ʊ/).</li> <li>Lad de to lyde flyde sammen uden afbrydelse.</li> <li>Øv med ordpar som <em>now</em> – <em>nap</em>.</li> </ol>"
+      }
+    },
+    "17": {
+      "letters": {
+        "type": "diftonger"
+      },
+      "comparison": {
+        "difference": "/əʊ/ bruges almindeligvis i britisk engelsk, mens /oʊ/ er den amerikanske pendant."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /əʊ/</strong> er et diftong, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Starter i en central position (/ə/) og glider derefter til en høj, bag position med afrunding (/ʊ/).</li> <li><strong>Kæbeåbning:</strong> Let åben i starten, derefter lidt lukket.</li> <li><strong>Læbeform:</strong> Starter neutral og bliver derefter rundet.</li> <li><strong>Tungespænding:</strong> Overgår fra afslappet til en smule anspændt.</li> <li><strong>Varighed:</strong> Lang, da lyden glider mellem positioner.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Start med tungen i den centrale position (/ə/).</li> <li>Glid tungen mod en høj, bag position med afrunding (/ʊ/).</li> <li>Lad de to lyde smelte sammen uden afbrydelse.</li> <li>Bemærk forskellen mellem britisk og amerikansk udtale, fx <em>go</em> (britisk) – <em>go</em> (amerikansk).</li> </ol>"
+      }
+    },
+    "18": {
+      "letters": {
+        "type": "diftonger"
+      },
+      "comparison": {
+        "difference": "/ɪə/ er et diftong, der glider fra /ɪ/ til /ə/, mens /ɪ/ er en kort monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ɪə/</strong> er et diftong, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Starter i en høj, frem position (/ɪ/) og glider derefter til en central position (/ə/).</li> <li><strong>Kæbeåbning:</strong> Let åben i starten, derefter slappere.</li> <li><strong>Læbeform:</strong> Neutral.</li> <li><strong>Tungespænding:</strong> Overgår fra anspændt til mere afslappet.</li> <li><strong>Varighed:</strong> Lang, da lyden glider mellem positioner.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Start med tungen i en høj, frem position (/ɪ/).</li> <li>Glid tungen mod den centrale position (/ə/).</li> <li>Lad de to lyde smelte sammen flydende uden adskillelse.</li> <li>Øv med ordpar som <em>here</em> – <em>hit</em>.</li> </ol>"
+      }
+    },
+    "19": {
+      "letters": {
+        "type": "diftonger"
+      },
+      "comparison": {
+        "difference": "/eə/ er et diftong, der glider fra /e/ til /ə/, mens /e/ er en kort monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /eə/</strong> er et diftong, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Starter i en middel-forreste position (/e/) og glider derefter til en central position (/ə/).</li> <li><strong>Kæbeåbning:</strong> Let åben i starten, derefter afslappet.</li> <li><strong>Læbeform:</strong> Neutral.</li> <li><strong>Tungespænding:</strong> Overgår fra let anspændt til afslappet.</li> <li><strong>Varighed:</strong> Lang, da lyden glider mellem positioner.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Start med tungen i den middel-forreste position (/e/).</li> <li>Glid langsomt med tungen mod den centrale position (/ə/).</li> <li>Lad lydene smelte sammen flydende uden adskillelse.</li> <li>Øv med ordpar som <em>air</em> – <em>egg</em>.</li> </ol>"
+      }
+    },
+    "20": {
+      "letters": {
+        "type": "diftonger"
+      },
+      "comparison": {
+        "difference": "/ʊə/ er et diftong, der glider fra /ʊ/ til /ə/, mens /ʊ/ er en kort monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ʊə/</strong> er et diftong, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Starter i en høj, bag position (/ʊ/) og glider derefter til en central position (/ə/).</li> <li><strong>Kæbeåbning:</strong> Let åben i starten, derefter slappere.</li> <li><strong>Læbeform:</strong> Starter med rundede læber, derefter bliver de neutrale.</li> <li><strong>Tungespænding:</strong> Overgår fra let anspændt til mere afslappet.</li> <li><strong>Varighed:</strong> Lang, da lyden glider mellem positioner.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Start med tungen i den høj, bag position (/ʊ/).</li> <li>Glid langsomt med tungen til den centrale position (/ə/).</li> <li>Lad lydene smelte sammen flydende uden adskillelse.</li> <li>Øv med ordpar som <em>tour</em> – <em>took</em>.</li> </ol>"
+      }
+    },
+    "21": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/f/ er stemmefri (uden stemmebåndsvibration), mens /v/ er stemt (stemmebåndene vibrerer)."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /f/</strong> er en stemmefri labiodental frikativ, der udtales med:</p> <ul> <li><strong>Læber og tænder:</strong> Den nedre læbe rører ved de øverste tænder.</li> <li><strong>Luftstrøm:</strong> En kontinuerlig luftstrøm passerer gennem det smalle mellemrum mellem læber og tænder.</li> <li><strong>Stemmebånd:</strong> Vibrerer ikke.</li> <li><strong>Varighed:</strong> Kan forlænges.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer den nedre læbe mod de øverste tænder.</li> <li>Lad luften passere gennem det smalle mellemrum.</li> <li>Brug ikke stemmen (sammenlign med /v/ ved at mærke efter vibration i halsen).</li> <li>Øv med minimale ordpar, f.eks. <em>fan</em> – <em>van</em>.</li> </ol>"
+      }
+    },
+    "22": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/v/ er stemt (stemmebåndene vibrerer), mens /f/ er stemmefri (uden vibration)."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /v/</strong> er en stemt labiodental frikativ, der udtales med:</p> <ul> <li><strong>Læber og tænder:</strong> Den nedre læbe rører ved de øverste tænder.</li> <li><strong>Luftstrøm:</strong> En kontinuerlig luftstrøm passerer gennem det smalle mellemrum.</li> <li><strong>Stemmebånd:</strong> Vibrerer.</li> <li><strong>Varighed:</strong> Kan forlænges.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer den nedre læbe mod de øverste tænder.</li> <li>Lad luften passere gennem det smalle mellemrum, mens du bruger stemmen.</li> <li>Sammenlign med /f/ – hvis du mærker vibration, er det /v/; ellers /f/.</li> <li>Øv med minimale ordpar, f.eks. <em>fan</em> – <em>van</em>.</li> </ol>"
+      }
+    },
+    "23": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/θ/ er stemmefri, mens /ð/ er stemt."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /θ/</strong> er en stemmefri frikativ, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> En kontinuerlig luftstrøm passerer gennem en snæver passage dannet af tungen og de øverste fortænder.</li> <li><strong>Tungeposition:</strong> Tuppen af tungen rører let ved de øverste fortænder uden fuldstændig at blokere luftstrømmen.</li> <li><strong>Stemmebånd:</strong> Vibrerer ikke ved udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Tryk let med tungespidsen mod de øverste fortænder.</li> <li>Lad luften flyde jævnt mellem tungen og tænderne.</li> <li>Sørg for, at stemmebåndene er afslappede og ikke vibrerer.</li> </ol>"
+      }
+    },
+    "24": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/ð/ er stemt (stemmebåndene vibrerer), mens /θ/ er stemmefri (uden vibration)."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ð/</strong> er en stemt dental frikativ, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Tuppen af tungen rører let ved de øverste fortænder.</li> <li><strong>Luftstrøm:</strong> En kontinuerlig luftstrøm passerer gennem den snævre åbning mellem tungen og tænderne.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> <li><strong>Varighed:</strong> Kan forlænges.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungespidsen mod de øverste fortænder.</li> <li>Lad luften passere gennem den snævre åbning, mens stemmebåndene vibrerer.</li> <li>Sammenlign /θ/ og /ð/ ud fra vibrationerne.</li> <li>Øv med minimale ordpar, f.eks. <em>this</em> – <em>think</em>.</li> </ol>"
+      }
+    },
+    "25": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/s/ er stemmefri (uden stemmebåndsvibration), mens /z/ er stemt (stemmebåndene vibrerer)."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /s/</strong> er en stemmefri alveolær frikativ, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Tuppen af tungen placeres tæt på den alveolære kam.</li> <li><strong>Luftstrøm:</strong> Et snævert, kontinuerligt luftstrøm skaber friktion.</li> <li><strong>Stemmebånd:</strong> Vibrerer ikke.</li> <li><strong>Varighed:</strong> Kan forlænges.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungespidsen tæt på den alveolære kam, uden at røre den.</li> <li>Lad luften passere gennem det snævre mellemrum, mens stemmebåndene er inaktive.</li> <li>Sammenlign med /z/ og mærk efter vibration.</li> <li>Øv med minimale ordpar, f.eks. <em>sip</em> – <em>zip</em>.</li> </ol>"
+      }
+    },
+    "26": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/z/ er stemt, hvilket betyder, at stemmebåndene vibrerer, mens /s/ er stemmefri."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /z/</strong> er en stemt konsonant, der udtales med:</p> <ul> <li><strong>Stemmebåndsvibration:</strong> I modsætning til /s/ vibrerer stemmebåndene, når /z/ udtales.</li> <li><strong>Tungeposition:</strong> Tuppen af tungen placeres tæt på den alveolære kam.</li> <li><strong>Luftstrøm:</strong> Et kontinuerligt luftstrøm passerer gennem det snævre mellemrum.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungen tæt på den alveolære kam.</li> <li>Udtal lyden ved at puste luft ud, mens stemmebåndene vibrerer.</li> <li>Øv med minimale ordpar, f.eks. <em>sip</em> – <em>zip</em>.</li> </ol>"
+      }
+    },
+    "27": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/ʃ/ er en stemmefri postalveolær frikativ, mens /s/ er alveolær, og /ʒ/ er dens stemte modstykke."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ʃ/</strong> er en stemmefri frikativ, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Placer tungen tæt på ganen, lidt bag den alveolære kam.</li> <li><strong>Luftstrøm:</strong> Et kontinuerligt luftstrøm skaber friktion.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungen tæt på ganen.</li> <li>Lad luften flyde kontinuerligt uden at aktivere stemmebåndene.</li> <li>Øv med ordpar som <em>she</em> – <em>genre</em>.</li> </ol>"
+      }
+    },
+    "28": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/ʒ/ er stemt, mens /ʃ/ er stemmefri, og /z/ er alveolær."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ʒ/</strong> er en stemt frikativ, der udtales med:</p> <ul> <li><strong>Tungeposition:</strong> Placer tungen tæt på ganen, lidt bag den alveolære kam.</li> <li><strong>Luftstrøm:</strong> Et kontinuerligt luftstrøm kombineret med stemmebåndsvibration skaber friktion.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungen tæt på ganen.</li> <li>Lad luften flyde ud, mens stemmebåndene vibrerer.</li> <li>Øv med ordpar som <em>vision</em> – <em>mission</em>.</li> </ol>"
+      }
+    },
+    "29": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/h/ er en stemmefri glottal frikativ, mens /ʔ/ er et glottalt stop og /x/ er en velar frikativ."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /h/</strong> er en stemmefri frikativ, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> Et blødt, jævnt luftstrøm passerer gennem den åbne strube.</li> <li><strong>Tungeposition:</strong> Tungen forbliver i en neutral position, alt efter den følgende vokal.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hold struben åben, så luften frit kan flyde.</li> <li>Hold tungen i en neutral position.</li> <li>Sammenlign med stemte konsonanter for at mærke, at der ikke er vibration.</li> </ol>"
+      }
+    },
+    "30": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/p/ er en stemmefri bilabial plosiv, mens /b/ er stemt og /f/ er en frikativ."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /p/</strong> er en stemmefri plosiv, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> En kortvarig lukning af luftstrømmen ved at lukke læberne, efterfulgt af et eksplosivt udånding.</li> <li><strong>Læbebevægelse:</strong> Læberne er helt lukkede, før lyden frigives.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Luk læberne helt.</li> <li>Skab et lufttryk bag læberne.</li> <li>Slip luften hurtigt ud for at producere lyden /p/.</li> </ol>"
+      }
+    },
+    "31": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/b/ er en stemt bilabial plosiv, mens /p/ er stemmefri, og /m/ er en nasal lyd."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /b/</strong> er en stemt plosiv, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> En kortvarig lukning af luftstrømmen ved at lukke læberne, efterfulgt af et eksplosivt udånding.</li> <li><strong>Læbebevægelse:</strong> Læberne er helt lukkede, før lyden frigives.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Luk læberne helt.</li> <li>Skab et lufttryk bag læberne.</li> <li>Slip luften ud, mens stemmebåndene vibrerer, for at producere lyden /b/.</li> </ol>"
+      }
+    },
+    "32": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/t/ er en stemmefri alveolær plosiv, mens /d/ er stemt og /θ/ er en stemmefri dental frikativ."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /t/</strong> er en stemmefri plosiv, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> En kortvarig lukning af luftstrømmen ved at trykke tungespidsen mod den alveolære kam (området lige bag de øverste fortænder), efterfulgt af en hurtig udånding.</li> <li><strong>Tungeposition:</strong> Tungespidsen rører ved den alveolære kam og frigives hurtigt.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungespidsen mod den alveolære kam, lige bag de øverste fortænder.</li> <li>Skab et lufttryk bag tungen.</li> <li>Slip luften hurtigt ud for at producere lyden /t/.</li> </ol>"
+      }
+    },
+    "33": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/d/ er en stemt alveolær plosiv, mens /t/ er stemmefri og /ð/ er en stemt dental frikativ."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /d/</strong> er en stemt plosiv, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> En kortvarig lukning af luftstrømmen ved at trykke tungespidsen mod den alveolære kam, efterfulgt af en hurtig udånding.</li> <li><strong>Tungeposition:</strong> Tungespidsen rører ved den alveolære kam og frigives hurtigt.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungespidsen mod den alveolære kam, lige bag de øverste fortænder.</li> <li>Skab et lufttryk bag tungen.</li> <li>Slip luften ud, mens stemmebåndene vibrerer, for at producere lyden /d/.</li> </ol>"
+      }
+    },
+    "34": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/k/ er en stemmefri velær plosiv, mens /g/ er stemt og /t/ er en alveolær plosiv."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /k/</strong> er en stemmefri plosiv, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> En kortvarig lukning af luftstrømmen ved at løfte den bagerste del af tungen mod den bløde gane (den bløde del af mundens tag), efterfulgt af en hurtig udånding.</li> <li><strong>Tungeposition:</strong> Den bagerste del af tungen rører ved den bløde gane og frigives hurtigt.</li> <li><strong>Stemmebånd:</strong> Vibrerer ikke under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Løft den bagerste del af tungen, så den rører ved den bløde gane.</li> <li>Skab et lufttryk bag tungen.</li> <li>Slip luften hurtigt ud uden at stemmebåndene vibrerer.</li> </ol>"
+      }
+    },
+    "35": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/g/ er en stemt velær plosiv, mens /k/ er stemmefri."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /g/</strong> er en stemt plosiv, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> En kortvarig lukning af luftstrømmen ved at placere den bagerste del af tungen mod den bløde gane, efterfulgt af en hurtig udånding.</li> <li><strong>Tungeposition:</strong> Den bagerste del af tungen rører ved den bløde gane og frigives hurtigt.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer den bagerste del af tungen mod den bløde gane.</li> <li>Skab et lufttryk bag tungen.</li> <li>Slip luften ud, mens stemmebåndene vibrerer, for at producere lyden /g/.</li> </ol>"
+      }
+    },
+    "36": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/m/ er en stemt nasal konsonant, mens /n/ er en stemt alveolær nasal, og /ŋ/ er en stemt velær nasal."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /m/</strong> er en stemt nasal konsonant, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> Luften blokeres i munden ved at lukke læberne, og den slipper ud gennem næsen.</li> <li><strong>Læbebevægelse:</strong> Læberne presses tæt sammen.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Pres læberne sammen.</li> <li>Slip luften ud gennem næsen, mens munden holdes lukket.</li> <li>Aktiver stemmebåndene for at producere lyden /m/.</li> </ol>"
+      }
+    },
+    "37": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/n/ er en stemt alveolær nasal, mens /m/ er en stemt bilabial nasal, og /ŋ/ er en stemt velær nasal."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /n/</strong> er en stemt alveolær nasal konsonant, der dannes ved:</p> <ul> <li><strong>Luftstrøm:</strong> Luften ledes gennem næsen, mens munden er lukket.</li> <li><strong>Tungeposition:</strong> Tunge-spidsen rører den alveolære kam, lige bag de øverste fortænder.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungespidsen mod den alveolære kam, lige bag de øverste fortænder.</li> <li>Sænk den bløde gane, så luften kan passere gennem næsen.</li> <li>Aktiver stemmebåndene for at producere lyden /n/.</li> </ol>"
+      }
+    },
+    "38": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/ŋ/ er en stemt velær nasal, mens /n/ er en stemt alveolær nasal, og /m/ er en stemt bilabial nasal."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /ŋ/</strong> er en stemt velær nasal konsonant, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> Luften slipper ud gennem næsen, når bagsiden af tungen rører den bløde gane og blokerer luftstrømmen i munden.</li> <li><strong>Tungeposition:</strong> Bagsiden af tungen presses mod den bløde gane, hvilket forhindrer luft i at passere gennem munden.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Løft bagsiden af tungen, så den rører ved den bløde gane.</li> <li>Slip luften ud gennem næsen, mens stemmebåndene vibrerer.</li> <li>Slip tungen for at fuldføre lyden /ŋ/.</li> </ol>"
+      }
+    },
+    "39": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/w/ er en stemt labio-velær approximant, mens /v/ er en stemt labiodental frikativ, og /r/ er en stemt alveolær approximant."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /w/</strong> er en stemt approximant, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> Et kontinuerligt luftstrøm uden friktion.</li> <li><strong>Læbeform:</strong> Læberne er rundede.</li> <li><strong>Tungeposition:</strong> Bagsiden af tungen nærmer sig den bløde gane uden at røre den.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Rund læberne.</li> <li>Før bagsiden af tungen tæt på den bløde gane, uden at røre den.</li> <li>Udtal lyden med et kontinuerligt luftstrøm og stemmebåndsvibration.</li> </ol>"
+      }
+    },
+    "40": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/j/ er en stemt palatal approximant, mens /i/ er en lukket, forreste, ikke-rundet vokal, og /ʒ/ er en stemt postalveolær frikativ."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /j/</strong> er en stemt approximant, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> Fri luft passerer, når tungen nærmer sig den hårde gane (den forreste del af mundens tag) uden at skabe friktion.</li> <li><strong>Tungeposition:</strong> Den midterste del af tungen hæves mod den hårde gane.</li> <li><strong>Læbeform:</strong> Normalt neutral eller let udstrakt.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Hæv den midterste del af tungen mod den hårde gane uden at røre den.</li> <li>Lad luften flyde frit over tungen uden at skabe friktion.</li> <li>Sørg for, at stemmebåndene vibrerer under udtale.</li> </ol>"
+      }
+    },
+    "41": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/r/ er en stemt alveolær approximant, mens /l/ er en stemt lateral alveolær approximant, og /w/ er en stemt labio-velær approximant."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /r/</strong> er en stemt approximant, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> Et kontinuerligt luftstrøm uden friktion.</li> <li><strong>Tungeposition:</strong> Tunge-spidsen løftes mod den alveolære kam, lige bag de øverste fortænder, uden at røre dem, så der dannes en smal luftkanal.</li> <li><strong>Læbeform:</strong> Ofte let rundede.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Løft tungespidsen mod den alveolære kam, lige bag de øverste fortænder, uden at røre dem.</li> <li>Hold læberne let rundede.</li> <li>Udtal lyden med et kontinuerligt luftstrøm og stemmebåndsvibration.</li> </ol>"
+      }
+    },
+    "42": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/l/ er en stemt lateral alveolær approximant, mens /r/ er en stemt alveolær approximant."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /l/</strong> er en stemt lateral approximant, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> Luften passerer langs siderne af tungen.</li> <li><strong>Tungeposition:</strong> Tunge-spidsen rører den alveolære kam, lige bag de øverste fortænder.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungespidsen mod den alveolære kam.</li> <li>Sørg for, at luften kan passere langs siderne af tungen.</li> <li>Aktivér stemmebåndene for at producere lyden /l/.</li> </ol>"
+      }
+    },
+    "43": {
+      "letters": {
+        "type": "stemmefri konsonanter"
+      },
+      "comparison": {
+        "difference": "/tʃ/ er en stemmefri affrikat, der kombinerer plosiv /t/ med frikativ /ʃ/, mens /t/ er en stemmefri alveolær plosiv, og /ʃ/ er en stemmefri postalveolær frikativ."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /tʃ/</strong> er en stemmefri affrikat, der udtales med:</p> <ul> <li><strong>Luftstrøm:</strong> En kortvarig lukning af luftstrømmen ved at trykke tungespidsen mod den alveolære kam, efterfulgt af en hurtig udånding, som danner den frikative del.</li> <li><strong>Tungeposition:</strong> Tunge-spidsen rører den alveolære kam og bevæger sig derefter en smule bagud, så den frikative del dannes.</li> <li><strong>Stemmebånd:</strong> Vibrerer ikke under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungespidsen lige bag de øverste fortænder, på den alveolære kam.</li> <li>Skab et lufttryk bag tungen.</li> <li>Slip luften hurtigt ud, mens tungen bevæger sig en smule bagud, så lyden /tʃ/ dannes uden stemmebåndsvibration.</li> </ol>"
+      }
+    },
+    "44": {
+      "letters": {
+        "type": "stemmelige konsonanter"
+      },
+      "comparison": {
+        "difference": "/dʒ/ er stemt, mens /tʃ/ er stemmefri. /dʒ/ starter med plosiv /d/ efterfulgt af frikativ /ʒ/."
+      },
+      "description": {
+        "describe": "<p><strong>Lyd /dʒ/</strong> er en stemt postalveolær affrikat, der dannes ved:</p> <ul> <li><strong>Luftstrøm:</strong> Først stoppes luftstrømmen ved at trykke tungespidsen mod den alveolære kam, hvorefter luften hurtigt frigives for at skabe friktion i det postalveolære område.</li> <li><strong>Tungeposition:</strong> Tunge-spidsen rører den alveolære kam og bevæger sig en smule bagud mod det postalveolære område under udåndingen.</li> <li><strong>Stemmebånd:</strong> Vibrerer under udtale.</li> </ul> <p><strong>Udtalevejledning:</strong></p> <ol> <li>Placer tungespidsen lige bag de øverste fortænder, på den alveolære kam.</li> <li>Skab et lufttryk bag tungen.</li> <li>Slip luften hurtigt ud, mens tungen bevæger sig en smule bagud, så lyden /dʒ/ dannes med stemmebåndsvibration.</li> </ol>"
+      }
+    }
+  }
+  

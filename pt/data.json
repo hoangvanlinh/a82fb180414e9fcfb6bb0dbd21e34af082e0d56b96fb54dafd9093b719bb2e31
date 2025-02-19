@@ -1,0 +1,486 @@
+{
+    "1": {
+        "letters": {
+            "type": "vogais curtas"
+        },
+        "comparison": {
+            "difference": "/ɪ/ é mais curto e mais relaxado, enquanto /iː/ é mais longo e mais tenso."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ɪ/</strong> é uma vogal curta, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> na frente, ligeiramente elevada, mas não tão alta quanto /iː/.</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta, não muito ampla.</li> <li><strong>Forma dos lábios:</strong> relaxada, um pouco aberta, não arredondada.</li> <li><strong>Tensão da língua:</strong> relaxada.</li> <li><strong>Duração:</strong> curta, sem prolongamento.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Mantenha a boca ligeiramente aberta, sem tensionar os lábios.</li> <li>Posicione a língua para a frente e um pouco elevada.</li> <li>Pronuncie o som de forma rápida e breve, evitando prolongá-lo como /iː/.</li> <li>Pratique com pares de palavras, como <em>bit</em> – <em>beat</em>.</li> </ol>"
+        }
+    },
+    "2": {
+        "letters": {
+            "type": "vogais curtas"
+        },
+        "comparison": {
+            "difference": "/ʊ/ é mais curto e mais relaxado, enquanto /uː/ é mais longo e mais tenso."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ʊ/</strong> é uma vogal curta, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> alta, porém um pouco mais baixa que /uː/.</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta.</li> <li><strong>Forma dos lábios:</strong> arredondada, mas não tão acentuada quanto em /uː/.</li> <li><strong>Tensão da língua:</strong> relaxada.</li> <li><strong>Duração:</strong> curta, sem prolongamento.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Mantenha os lábios ligeiramente arredondados.</li> <li>Posicione a língua em uma posição alta, mas não tão alta quanto /uː/.</li> <li>Pronuncie o som de forma rápida e breve, evitando prolongá-lo como /uː/.</li> <li>Pratique com pares de palavras, como <em>pull</em> – <em>pool</em>.</li> </ol>"
+        }
+    },
+    "3": {
+        "letters": {
+            "type": "vogais curtas"
+        },
+        "comparison": {
+            "difference": "/ɛ/ é uma vogal curta e relaxada, enquanto /eɪ/ é um ditongo que desliza de /ɛ/ para /ɪ/."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ɛ/</strong> é uma vogal curta, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> na frente, em nível médio-baixo.</li> <li><strong>Abertura da mandíbula:</strong> moderadamente aberta.</li> <li><strong>Forma dos lábios:</strong> relaxada, sem arredondamento.</li> <li><strong>Tensão da língua:</strong> relaxada.</li> <li><strong>Duração:</strong> curta, sem prolongamento.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Mantenha a boca ligeiramente aberta com os lábios relaxados.</li> <li>Posicione a língua no centro da boca, ligeiramente elevada na parte da frente.</li> <li>Pronuncie o som de forma rápida e breve, sem transformá-lo em /eɪ/.</li> <li>Pratique com pares de palavras, como <em>bed</em> – <em>bait</em>.</li> </ol>"
+        }
+    },
+    "4": {
+        "letters": {
+            "type": "vogais curtas"
+        },
+        "comparison": {
+            "difference": "/æ/ é mais curto e mais avançado, enquanto /ɑː/ é mais longo e mais aberto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /æ/</strong> é uma vogal curta, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> na frente, em posição baixa, com a boca bem aberta.</li> <li><strong>Abertura da mandíbula:</strong> amplamente aberta.</li> <li><strong>Forma dos lábios:</strong> neutra, ligeiramente afastada.</li> <li><strong>Tensão da língua:</strong> um pouco mais tensa que /ɪ/.</li> <li><strong>Duração:</strong> curta, porém um pouco mais longa que /ɪ/.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Abra bem a boca e abaixe a língua.</li> <li>Posicione a língua na parte frontal da boca.</li> <li>Pratique com pares de palavras, como <em>bat</em> – <em>bit</em>.</li> </ol>"
+        }
+    },
+    "5": {
+        "letters": {
+            "type": "vogais curtas"
+        },
+        "comparison": {
+            "difference": "/ʌ/ é mais curto e central, enquanto /ɑː/ é mais longo e mais aberto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ʌ/</strong> é uma vogal curta, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> central, ligeiramente elevada, porém mais baixa que /ɪ/.</li> <li><strong>Abertura da mandíbula:</strong> moderadamente aberta.</li> <li><strong>Forma dos lábios:</strong> neutra, um pouco relaxada.</li> <li><strong>Tensão da língua:</strong> mais relaxada do que /ɪ/.</li> <li><strong>Duração:</strong> curta, porém um pouco mais longa que /ɪ/.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Mantenha a boca ligeiramente aberta e a língua relaxada.</li> <li>Posicione a língua no centro da boca.</li> <li>Pratique com pares de palavras, como <em>cup</em> – <em>kip</em>.</li> </ol>"
+        }
+    },
+    "6": {
+        "letters": {
+            "type": "vogais curtas"
+        },
+        "comparison": {
+            "difference": "/ɒ/ é mais curto e mais aberto, enquanto /ɔː/ é mais longo e mais arredondado."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ɒ/</strong> é uma vogal curta, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> na parte de trás, ligeiramente baixa.</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta.</li> <li><strong>Forma dos lábios:</strong> arredondada.</li> <li><strong>Tensão da língua:</strong> relaxada.</li> <li><strong>Duração:</strong> curta.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Mantenha a boca ligeiramente aberta e os lábios arredondados.</li> <li>Posicione a língua na parte de trás da boca.</li> <li>Pratique com pares de palavras, como <em>cot</em> – <em>cart</em>.</li> </ol>"
+        }
+    },
+    "7": {
+        "letters": {
+            "type": "vogal central"
+        },
+        "comparison": {
+            "difference": "/ə/ é sempre pronunciada de forma átona, enquanto /ʌ/ pode ser acentuada. /ə/ é o som vocálico mais comum no inglês."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ə/ (schwa)</strong> é o som vocálico mais comum no inglês, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> central, relaxada.</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta.</li> <li><strong>Forma dos lábios:</strong> neutra.</li> <li><strong>Tensão da língua:</strong> relaxada.</li> <li><strong>Duração:</strong> muito curta.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Relaxe a boca e a língua.</li> <li>Não acentue a sílaba que contém /ə/.</li> <li>Compare com uma vogal acentuada, praticando pares de palavras, como <em>sofa</em> – <em>cup</em>.</li> </ol>"
+        }
+    },
+    "8": {
+        "letters": {
+            "type": "vogais longas"
+        },
+        "comparison": {
+            "difference": "/iː/ é mais longo e mais tenso, enquanto /ɪ/ é mais curto e mais relaxado."
+        },
+        "description": {
+            "describe": "<p><strong>O som /iː/</strong> é uma vogal longa, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> na frente, alta e tensa.</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta.</li> <li><strong>Forma dos lábios:</strong> não arredondada e um pouco estendida.</li> <li><strong>Tensão da língua:</strong> tensa.</li> <li><strong>Duração:</strong> longa e sustentada.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Mantenha a língua alta e à frente na boca.</li> <li>Estenda ligeiramente os lábios, como num sorriso.</li> <li>Prolongue a pronúncia em relação a /ɪ/.</li> <li>Pratique com pares de palavras, como <em>sheep</em> – <em>ship</em>.</li> </ol>"
+        }
+    },
+    "9": {
+        "letters": {
+            "type": "vogais longas"
+        },
+        "comparison": {
+            "difference": "/uː/ é mais longo e mais tenso, enquanto /ʊ/ é mais curto e mais relaxado."
+        },
+        "description": {
+            "describe": "<p><strong>O som /uː/</strong> é uma vogal longa, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> na parte de trás, alta e tensa.</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta.</li> <li><strong>Forma dos lábios:</strong> arredondada.</li> <li><strong>Tensão da língua:</strong> tensa.</li> <li><strong>Duração:</strong> longa e sustentada.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Mantenha a língua alta na parte de trás da boca.</li> <li>Arredonde ligeiramente os lábios.</li> <li>Prolongue a pronúncia mais do que /ʊ/.</li> <li>Pratique com pares de palavras, como <em>pool</em> – <em>pull</em>.</li> </ol>"
+        }
+    },
+    "10": {
+        "letters": {
+            "type": "vogais longas"
+        },
+        "comparison": {
+            "difference": "/ɜː/ é uma vogal longa e acentuada, enquanto /ə/ (schwa) é mais curta e sempre átona."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ɜː/</strong> é uma vogal longa e acentuada, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> central, em posição média e tensa.</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta.</li> <li><strong>Forma dos lábios:</strong> neutra, sem arredondamento.</li> <li><strong>Tensão da língua:</strong> tensa.</li> <li><strong>Duração:</strong> longa e sustentada.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Coloque a língua no centro da boca.</li> <li>Não arredonde os lábios.</li> <li>Prolongue a pronúncia mais do que /ə/.</li> <li>Pratique com pares de palavras, como <em>her</em> – <em>sofa</em>.</li> </ol>"
+        }
+    },
+    "11": {
+        "letters": {
+            "type": "vogais longas"
+        },
+        "comparison": {
+            "difference": "/ɔː/ é mais longo e mais arredondado, enquanto /ɒ/ é mais curto e mais aberto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ɔː/</strong> é uma vogal longa, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> na parte de trás, em posição média-baixa e tensa.</li> <li><strong>Abertura da mandíbula:</strong> moderadamente aberta.</li> <li><strong>Forma dos lábios:</strong> arredondada.</li> <li><strong>Tensão da língua:</strong> tensa.</li> <li><strong>Duração:</strong> longa e sustentada.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a língua na parte de trás da boca, um pouco mais baixa.</li> <li>Mantenha os lábios moderadamente arredondados.</li> <li>Prolongue a pronúncia mais do que /ɒ/.</li> <li>Pratique com pares de palavras, como <em>law</em> – <em>lot</em>.</li> </ol>"
+        }
+    },
+    "12": {
+        "letters": {
+            "type": "vogais longas"
+        },
+        "comparison": {
+            "difference": "/ɑː/ é mais longo e pronunciado com a boca mais aberta, enquanto /æ/ é mais curto e mais avançado."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ɑː/</strong> é uma vogal longa, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> na parte de trás, baixa e tensa.</li> <li><strong>Abertura da mandíbula:</strong> amplamente aberta.</li> <li><strong>Forma dos lábios:</strong> neutra, sem arredondamento.</li> <li><strong>Tensão da língua:</strong> tensa.</li> <li><strong>Duração:</strong> longa e sustentada.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Abra bem a boca e relaxe os lábios.</li> <li>Coloque a língua em posição baixa e um pouco para trás.</li> <li>Prolongue a pronúncia mais do que /æ/.</li> <li>Pratique com pares de palavras, como <em>car</em> – <em>cat</em>.</li> </ol>"
+        }
+    },
+    "13": {
+        "letters": {
+            "type": "ditongos"
+        },
+        "comparison": {
+            "difference": "/eɪ/ é um ditongo que desliza de /e/ para /ɪ/, enquanto /ɛ/ é um som monofônico curto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /eɪ/</strong> é um ditongo, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> começa em uma posição central-frontal (/e/) e desliza para /ɪ/.</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta, depois um pouco fechada.</li> <li><strong>Forma dos lábios:</strong> relaxada e um pouco espaçada.</li> <li><strong>Tensão da língua:</strong> passa de relaxada para um pouco tensa.</li> <li><strong>Duração:</strong> longa, pois o som desliza entre posições.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Comece com a língua na posição central-frontal (/e/).</li> <li>Deslize a língua lentamente em direção a /ɪ/.</li> <li>Deixe que os dois sons se fundam de maneira fluida, sem separá-los.</li> <li>Pratique com pares de palavras, como <em>late</em> – <em>let</em>.</li> </ol>"
+        }
+    },
+    "14": {
+        "letters": {
+            "type": "ditongos"
+        },
+        "comparison": {
+            "difference": "/aɪ/ é um ditongo que desliza de /a/ para /ɪ/, enquanto /æ/ é um som monofônico curto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /aɪ/</strong> é um ditongo, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> começa em uma posição baixa e depois se move para uma posição alta e frontal.</li> <li><strong>Abertura da mandíbula:</strong> inicia com a boca bem aberta e depois se fecha um pouco.</li> <li><strong>Forma dos lábios:</strong> inicialmente neutra, depois ligeiramente espaçada.</li> <li><strong>Tensão da língua:</strong> passa de relaxada para um pouco tensa.</li> <li><strong>Duração:</strong> longa, pois o som desliza entre as posições.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Comece com a língua em posição baixa.</li> <li>Deslize a língua em direção a uma posição alta e frontal.</li> <li>Deixe os dois sons se fundirem de forma fluida, sem separá-los.</li> <li>Pratique com pares de palavras, como <em>ride</em> – <em>rad</em>.</li> </ol>"
+        }
+    },
+    "15": {
+        "letters": {
+            "type": "ditongos"
+        },
+        "comparison": {
+            "difference": "/ɔɪ/ é um ditongo que desliza de /ɔ/ para /ɪ/, enquanto /ɔː/ é um som monofônico longo."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ɔɪ/</strong> é um ditongo, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> começa em uma posição intermediária posterior, arredondada (/ɔ/), e desliza para uma posição alta e frontal (/ɪ/).</li> <li><strong>Abertura da mandíbula:</strong> inicia ligeiramente aberta, depois se fecha um pouco.</li> <li><strong>Forma dos lábios:</strong> inicia com lábios arredondados, depois se abre um pouco.</li> <li><strong>Tensão da língua:</strong> passa de um estado relaxado para um ligeiramente tenso.</li> <li><strong>Duração:</strong> longa, pois o som desliza entre as posições.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Comece com a língua na posição intermediária posterior arredondada (/ɔ/).</li> <li>Deslize a língua para uma posição alta e frontal (/ɪ/).</li> <li>Deixe os dois sons se fundirem de maneira fluida, sem separá-los.</li> <li>Pratique com pares de palavras, como <em>boy</em> – <em>bore</em>.</li> </ol>"
+        }
+    },
+    "16": {
+        "letters": {
+            "type": "ditongos"
+        },
+        "comparison": {
+            "difference": "/aʊ/ é um ditongo que desliza de /a/ para /ʊ/, enquanto /æ/ é um som monofônico curto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /aʊ/</strong> é um ditongo, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> começa em uma posição baixa e frontal (/a/) e desliza para uma posição alta e posterior, com arredondamento (/ʊ/).</li> <li><strong>Abertura da mandíbula:</strong> inicia com a boca bem aberta, depois se fecha um pouco.</li> <li><strong>Forma dos lábios:</strong> inicialmente neutra, depois torna-se arredondada.</li> <li><strong>Tensão da língua:</strong> passa de um estado relaxado para um pouco tenso.</li> <li><strong>Duração:</strong> longa, pois o som desliza entre as posições.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Comece com a língua na posição baixa e frontal (/a/).</li> <li>Deslize a língua para uma posição alta e posterior, com arredondamento (/ʊ/).</li> <li>Deixe os dois sons se fundirem de forma fluida, sem separá-los.</li> <li>Pratique com pares de palavras, como <em>now</em> – <em>nap</em>.</li> </ol>"
+        }
+    },
+    "17": {
+        "letters": {
+            "type": "ditongos"
+        },
+        "comparison": {
+            "difference": "/əʊ/ é comumente usado no inglês britânico, enquanto /oʊ/ é o equivalente no inglês americano."
+        },
+        "description": {
+            "describe": "<p><strong>O som /əʊ/</strong> é um ditongo, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> inicia em uma posição central (/ə/) e desliza para uma posição alta e posterior, com arredondamento (/ʊ/).</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta no início, depois um pouco fechada.</li> <li><strong>Forma dos lábios:</strong> começa neutra e depois se torna arredondada.</li> <li><strong>Tensão da língua:</strong> passa de um estado relaxado para um ligeiramente tenso.</li> <li><strong>Duração:</strong> longa, pois o som desliza entre as posições.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Comece com a língua na posição central (/ə/).</li> <li>Deslize a língua para uma posição alta e posterior, com arredondamento (/ʊ/).</li> <li>Deixe que os dois sons se unam de forma fluida, sem separá-los.</li> <li>Pratique com pares de palavras, como <em>go</em> (britânico) – <em>go</em> (americano).</li> </ol>"
+        }
+    },
+    "18": {
+        "letters": {
+            "type": "ditongos"
+        },
+        "comparison": {
+            "difference": "/ɪə/ é um ditongo que desliza de /ɪ/ para /ə/, enquanto /ɪ/ é um som monofônico curto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ɪə/</strong> é um ditongo, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> inicia em uma posição alta e frontal (/ɪ/) e desliza para uma posição central (/ə/).</li> <li><strong>Abertura da mandíbula:</strong> começa ligeiramente aberta, depois a boca relaxa.</li> <li><strong>Forma dos lábios:</strong> neutra.</li> <li><strong>Tensão da língua:</strong> passa de tensa para mais relaxada.</li> <li><strong>Duração:</strong> longa, pois o som desliza entre posições.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Comece com a língua em uma posição alta e frontal (/ɪ/).</li> <li>Deslize a língua em direção à posição central (/ə/).</li> <li>Deixe os sons se fundirem de forma fluida, sem separá-los.</li> <li>Pratique com pares de palavras, como <em>here</em> – <em>hit</em>.</li> </ol>"
+        }
+    },
+    "19": {
+        "letters": {
+            "type": "ditongos"
+        },
+        "comparison": {
+            "difference": "/eə/ é um ditongo que desliza de /e/ para /ə/, enquanto /e/ é um som monofônico curto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /eə/</strong> é um ditongo, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> inicia em uma posição central-frontal (/e/) e desliza para uma posição central (/ə/).</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta no início, depois relaxa.</li> <li><strong>Forma dos lábios:</strong> neutra.</li> <li><strong>Tensão da língua:</strong> passa de um leve estado tenso para relaxado.</li> <li><strong>Duração:</strong> longa, pois o som desliza entre posições.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Comece com a língua na posição central-frontal (/e/).</li> <li>Deslize lentamente a língua para uma posição central (/ə/).</li> <li>Deixe os sons se unirem de forma fluida, sem separá-los.</li> <li>Pratique com pares de palavras, como <em>air</em> – <em>egg</em>.</li> </ol>"
+        }
+    },
+    "20": {
+        "letters": {
+            "type": "ditongos"
+        },
+        "comparison": {
+            "difference": "/ʊə/ é um ditongo que desliza de /ʊ/ para /ə/, enquanto /ʊ/ é um som monofônico curto."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ʊə/</strong> é um ditongo, pronunciado com:</p> <ul> <li><strong>Posição da língua:</strong> inicia em uma posição alta e posterior (/ʊ/) e desliza para uma posição central (/ə/).</li> <li><strong>Abertura da mandíbula:</strong> ligeiramente aberta no início, depois relaxa.</li> <li><strong>Forma dos lábios:</strong> inicia com lábios arredondados, depois assumem uma forma neutra.</li> <li><strong>Tensão da língua:</strong> passa de um leve estado tenso para mais relaxado.</li> <li><strong>Duração:</strong> longa, pois o som desliza entre posições.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Comece com a língua em uma posição alta e posterior (/ʊ/).</li> <li>Deslize lentamente a língua para uma posição central (/ə/).</li> <li>Deixe os sons se fundirem de maneira fluida, sem separá-los.</li> <li>Pratique com pares de palavras, como <em>tour</em> – <em>took</em>.</li> </ol>"
+        }
+    },
+    "21": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/f/ é surda (sem vibração das cordas vocais), enquanto /v/ é sonora (com vibração das cordas vocais)."
+        },
+        "description": {
+            "describe": "<p><strong>O som /f/</strong> é uma consoante fricativa labiodental surda, pronunciada com:</p> <ul> <li><strong>Lábios e dentes:</strong> O lábio inferior toca os dentes superiores.</li> <li><strong>Fluxo de ar:</strong> Um fluxo contínuo de ar passa pela pequena abertura entre lábios e dentes.</li> <li><strong>Cordas vocais:</strong> Não vibram.</li> <li><strong>Duração:</strong> Pode ser prolongado.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione o lábio inferior contra os dentes superiores.</li> <li>Expulse o ar através da pequena abertura.</li> <li>Não use a voz (compare com /v/ sentindo a vibração na garganta).</li> <li>Pratique com pares mínimos, como <em>fan</em> – <em>van</em>.</li> </ol>"
+        }
+    },
+    "22": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/v/ é sonora (as cordas vocais vibram), enquanto /f/ é surda (sem vibração das cordas vocais)."
+        },
+        "description": {
+            "describe": "<p><strong>O som /v/</strong> é uma consoante fricativa labiodental sonora, pronunciada com:</p> <ul> <li><strong>Lábios e dentes:</strong> O lábio inferior toca os dentes superiores.</li> <li><strong>Fluxo de ar:</strong> Um fluxo contínuo de ar passa pela pequena abertura.</li> <li><strong>Cordas vocais:</strong> Vibram.</li> <li><strong>Duração:</strong> Pode ser prolongado.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione o lábio inferior contra os dentes superiores.</li> <li>Expulse o ar através da pequena abertura enquanto usa a voz.</li> <li>Compare com /f/ sentindo a vibração (se sentir vibração, é /v/; caso contrário, é /f/).</li> <li>Pratique com pares mínimos, como <em>fan</em> – <em>van</em>.</li> </ol>"
+        }
+    },
+    "23": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/θ/ é surda, enquanto /ð/ é sonora."
+        },
+        "description": {
+            "describe": "<p><strong>O som /θ/</strong> é uma consoante fricativa surda, pronunciada com:</p> <ul> <li><strong>Fluxo de ar:</strong> Um fluxo contínuo de ar passa por uma estreita constrição formada pela língua e pelos dentes superiores.</li> <li><strong>Posição da língua:</strong> A ponta da língua toca levemente os dentes superiores, sem bloquear totalmente o fluxo de ar.</li> <li><strong>Cordas vocais:</strong> Não vibram durante a pronúncia.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Toque levemente a ponta da língua contra os dentes superiores.</li> <li>Deixe o ar fluir continuamente entre a língua e os dentes.</li> <li>Certifique-se de que as cordas vocais permaneçam relaxadas e não vibrem.</li> </ol>"
+        }
+    },
+    "24": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/ð/ é sonora (as cordas vocais vibram), enquanto /θ/ é surda (sem vibração das cordas vocais)."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ð/</strong> é uma consoante fricativa dental sonora, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> A ponta da língua toca levemente os dentes superiores.</li> <li><strong>Fluxo de ar:</strong> Um fluxo contínuo de ar passa pela estreita abertura entre a língua e os dentes.</li> <li><strong>Cordas vocais:</strong> Vibram durante a pronúncia.</li> <li><strong>Duração:</strong> Pode ser prolongado.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a ponta da língua contra os dentes superiores.</li> <li>Expulse o ar através da pequena abertura enquanto as cordas vocais vibram.</li> <li>Compare /θ/ e /ð/ percebendo a diferença na vibração.</li> <li>Pratique com pares mínimos, como <em>this</em> – <em>think</em>.</li> </ol>"
+        }
+    },
+    "25": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/s/ é surda (sem vibração das cordas vocais), enquanto /z/ é sonora (as cordas vocais vibram)."
+        },
+        "description": {
+            "describe": "<p><strong>O som /s/</strong> é uma consoante fricativa alveolar surda, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> A ponta da língua fica próxima à crista alveolar.</li> <li><strong>Fluxo de ar:</strong> Um estreito e contínuo fluxo de ar gera fricção.</li> <li><strong>Cordas vocais:</strong> Não vibram.</li> <li><strong>Duração:</strong> Pode ser prolongado.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a ponta da língua próxima à crista alveolar, sem tocá-la.</li> <li>Expulse o ar através da estreita abertura, mantendo as cordas vocais inativas.</li> <li>Compare com /z/ sentindo a vibração.</li> <li>Pratique com pares mínimos, como <em>sip</em> – <em>zip</em>.</li> </ol>"
+        }
+    },
+    "26": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/z/ é sonora, o que significa que as cordas vocais vibram, enquanto /s/ é surda."
+        },
+        "description": {
+            "describe": "<p><strong>O som /z/</strong> é uma consoante sonora, pronunciada com:</p> <ul> <li><strong>Vibração das cordas vocais:</strong> Ao contrário de /s/, as cordas vocais vibram ao pronunciar /z/.</li> <li><strong>Posição da língua:</strong> A ponta da língua fica próxima à crista alveolar.</li> <li><strong>Fluxo de ar:</strong> Um fluxo contínuo de ar passa pela estreita abertura.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a língua próxima à crista alveolar.</li> <li>Pronuncie o som enquanto expulsa o ar e as cordas vocais vibram.</li> <li>Pratique com pares mínimos, como <em>sip</em> – <em>zip</em>.</li> </ol>"
+        }
+    },
+    "27": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/ʃ/ é uma fricativa postalveolar surda, enquanto /s/ é alveolar e /ʒ/ é a correspondente sonora."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ʃ/</strong> é uma consoante fricativa surda, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> A língua é posicionada próxima ao palato, logo atrás da crista alveolar.</li> <li><strong>Fluxo de ar:</strong> Um fluxo contínuo de ar gera fricção.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a língua próxima ao palato.</li> <li>Deixe o ar fluir continuamente, sem ativar as cordas vocais.</li> <li>Pratique com pares mínimos, como <em>she</em> – <em>genre</em>.</li> </ol>"
+        }
+    },
+    "28": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/ʒ/ é uma fricativa postalveolar sonora, enquanto /ʃ/ é surda e /z/ é alveolar."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ʒ/</strong> é uma consoante fricativa sonora, pronunciada com:</p> <ul> <li><strong>Posição da língua:</strong> A língua é posicionada próxima ao palato, logo atrás da crista alveolar.</li> <li><strong>Fluxo de ar:</strong> Um fluxo contínuo de ar, juntamente com a vibração das cordas vocais, gera fricção.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a língua próxima ao palato.</li> <li>Expulse o ar permitindo que as cordas vocais vibrem.</li> <li>Pratique com pares mínimos, como <em>vision</em> – <em>mission</em>.</li> </ol>"
+        }
+    },
+    "29": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/h/ é uma fricativa glotal surda, enquanto /ʔ/ é uma parada glotal e /x/ é uma fricativa velar."
+        },
+        "description": {
+            "describe": "<p><strong>O som /h/</strong> é uma consoante fricativa surda, pronunciada com:</p> <ul> <li><strong>Fluxo de ar:</strong> Um fluxo suave de ar passa através da glote aberta.</li> <li><strong>Posição da língua:</strong> A língua permanece em posição neutra, de acordo com a vogal que se segue.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Mantenha as cordas vocais abertas para que o ar flua livremente.</li> <li>Mantenha a língua em uma posição neutra.</li> <li>Compare com sons sonoros para perceber a ausência de vibração.</li> </ol>"
+        }
+    },
+    "30": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/p/ é um oclusivo bilabial surdo, enquanto /b/ é sonoro e /f/ é uma fricativa."
+        },
+        "description": {
+            "describe": "<p><strong>O som /p/</strong> é um oclusivo surdo, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Uma breve interrupção do fluxo de ar ao fechar os lábios, seguida por uma explosão de ar.</li> <li><strong>Posição dos lábios:</strong> Os lábios ficam completamente fechados antes da liberação do som.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Feche os lábios completamente.</li> <li>Acumule pressão de ar atrás dos lábios.</li> <li>Solte o ar rapidamente para produzir o som /p/.</li> </ol>"
+        }
+    },
+    "31": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/b/ é um oclusivo bilabial sonoro, enquanto /p/ é surdo e /m/ é um som nasal."
+        },
+        "description": {
+            "describe": "<p><strong>O som /b/</strong> é um oclusivo sonoro, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Uma breve interrupção do fluxo de ar ao fechar os lábios, seguida por uma explosão de ar.</li> <li><strong>Posição dos lábios:</strong> Os lábios ficam completamente fechados antes da liberação do som.</li> <li><strong>Cordas vocais:</strong> Vibram durante a produção do som.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Feche os lábios completamente.</li> <li>Acumule pressão de ar atrás dos lábios.</li> <li>Solte o ar enquanto as cordas vocais vibram para produzir o som /b/.</li> </ol>"
+        }
+    },
+    "32": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/t/ é um oclusivo alveolar surdo, enquanto /d/ é sonoro, e /θ/ é uma fricativa dental surda."
+        },
+        "description": {
+            "describe": "<p><strong>O som /t/</strong> é um oclusivo surdo, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Uma breve interrupção do fluxo de ar ao pressionar a ponta da língua contra a crista alveolar (a área logo atrás dos dentes superiores), seguida de uma liberação rápida do ar.</li> <li><strong>Posição da língua:</strong> A ponta da língua toca a crista alveolar e, em seguida, é rapidamente liberada.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Coloque a ponta da língua contra a crista alveolar, logo atrás dos dentes superiores.</li> <li>Acumule pressão de ar atrás da língua.</li> <li>Libere o ar rapidamente para produzir o som /t/.</li> </ol>"
+        }
+    },
+    "33": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/d/ é um oclusivo alveolar sonoro, enquanto /t/ é surdo, e /ð/ é uma fricativa dental sonora."
+        },
+        "description": {
+            "describe": "<p><strong>O som /d/</strong> é um oclusivo sonoro, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Uma breve interrupção do fluxo de ar ao pressionar a ponta da língua contra a crista alveolar, seguida de uma liberação rápida do ar.</li> <li><strong>Posição da língua:</strong> A ponta da língua toca a crista alveolar e é rapidamente liberada.</li> <li><strong>Cordas vocais:</strong> Vibram durante a produção do som.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Coloque a ponta da língua contra a crista alveolar, logo atrás dos dentes superiores.</li> <li>Acumule pressão de ar atrás da língua.</li> <li>Libere o ar enquanto as cordas vocais vibram para produzir o som /d/.</li> </ol>"
+        }
+    },
+    "34": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/k/ é um oclusivo velar surdo, enquanto /g/ é sonoro e /t/ é um oclusivo alveolar."
+        },
+        "description": {
+            "describe": "<p><strong>O som /k/</strong> é um oclusivo surdo, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Uma breve interrupção do fluxo de ar ao elevar a parte posterior da língua em direção ao véu palatino (a parte macia do céu da boca), seguida de uma liberação rápida do ar.</li> <li><strong>Posição da língua:</strong> A parte de trás da língua toca o véu palatino e é rapidamente liberada.</li> <li><strong>Cordas vocais:</strong> Não vibram durante a pronúncia.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Eleve a parte de trás da língua para que toque o véu palatino.</li> <li>Acumule pressão de ar atrás da língua.</li> <li>Libere o ar rapidamente sem que as cordas vocais vibrem.</li> </ol>"
+        }
+    },
+    "35": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/g/ é um oclusivo velar sonoro, enquanto /k/ é surdo."
+        },
+        "description": {
+            "describe": "<p><strong>O som /g/</strong> é um oclusivo sonoro, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Uma breve interrupção do fluxo de ar ao posicionar a parte de trás da língua contra o véu palatino, seguida de uma liberação rápida do ar.</li> <li><strong>Posição da língua:</strong> A parte de trás da língua toca o véu palatino e é rapidamente liberada.</li> <li><strong>Cordas vocais:</strong> Vibram durante a pronúncia.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a parte de trás da língua contra o véu palatino.</li> <li>Acumule pressão de ar atrás da língua.</li> <li>Libere o ar enquanto as cordas vocais vibram para produzir o som /g/.</li> </ol>"
+        }
+    },
+    "36": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/m/ é uma consoante nasal sonora, enquanto /n/ é uma nasal alveolar sonora e /ŋ/ é uma nasal velar sonora."
+        },
+        "description": {
+            "describe": "<p><strong>O som /m/</strong> é uma consoante nasal sonora, pronunciada com:</p> <ul> <li><strong>Fluxo de ar:</strong> O ar é bloqueado na boca pelos lábios fechados e escapa pelo nariz.</li> <li><strong>Posição dos lábios:</strong> Os lábios são firmemente pressionados juntos.</li> <li><strong>Cordas vocais:</strong> Vibram durante a produção do som.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Feche os lábios firmemente.</li> <li>Permita que o ar escape pelo nariz enquanto a boca permanece fechada.</li> <li>Ative as cordas vocais para produzir o som /m/.</li> </ol>"
+        }
+    },
+    "37": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/n/ é uma consoante nasal alveolar sonora, enquanto /m/ é uma nasal bilabial sonora e /ŋ/ é uma nasal velar sonora."
+        },
+        "description": {
+            "describe": "<p><strong>O som /n/</strong> é uma consoante nasal alveolar sonora, produzida com:</p> <ul> <li><strong>Fluxo de ar:</strong> O ar é direcionado pelo nariz, enquanto o fluxo na boca é bloqueado.</li> <li><strong>Posição da língua:</strong> A ponta da língua toca a crista alveolar, logo atrás dos dentes superiores.</li> <li><strong>Cordas vocais:</strong> Vibram durante a produção do som.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a ponta da língua contra a crista alveolar, logo atrás dos dentes superiores.</li> <li>Baixe o palato mole para permitir que o ar passe pelo nariz.</li> <li>Ative as cordas vocais para produzir o som /n/.</li> </ol>"
+        }
+    },
+    "38": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/ŋ/ é uma consoante nasal velar sonora, enquanto /n/ é uma nasal alveolar sonora e /m/ é uma nasal bilabial sonora."
+        },
+        "description": {
+            "describe": "<p><strong>O som /ŋ/</strong> é uma consoante nasal velar sonora, pronunciada com:</p> <ul> <li><strong>Fluxo de ar:</strong> O ar escapa pelo nariz quando a parte de trás da língua toca o véu palatino, bloqueando o fluxo na boca.</li> <li><strong>Posição da língua:</strong> A parte de trás da língua pressiona contra o véu palatino, bloqueando o ar na boca.</li> <li><strong>Cordas vocais:</strong> Vibram durante a produção do som.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Eleve a parte de trás da língua de modo que ela toque o véu palatino.</li> <li>Permita que o ar passe pelo nariz enquanto as cordas vocais vibram.</li> <li>Solte a língua para concluir o som /ŋ/.</li> </ol>"
+        }
+    },
+    "39": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/w/ é um aproximante labio-velar sonoro, enquanto /v/ é uma fricativa labiodental sonora e /r/ é um aproximante alveolar sonoro."
+        },
+        "description": {
+            "describe": "<p><strong>O som /w/</strong> é um aproximante sonoro, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Fluxo contínuo de ar sem atrito.</li> <li><strong>Forma dos lábios:</strong> Lábios arredondados.</li> <li><strong>Posição da língua:</strong> A parte de trás da língua aproxima-se do véu palatino sem tocá-lo.</li> <li><strong>Cordas vocais:</strong> Vibram durante a articulação.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Arredonde os lábios.</li> <li>Traga a parte de trás da língua para perto do véu palatino, sem tocá-lo.</li> <li>Produza o som mantendo o fluxo contínuo de ar e a vibração das cordas vocais.</li> </ol>"
+        }
+    },
+    "40": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/j/ é um aproximante palatal sonoro, enquanto /i/ é uma vogal anterior fechada não arredondada, e /ʒ/ é uma fricativa postalveolar sonora."
+        },
+        "description": {
+            "describe": "<p><strong>O som /j/</strong> é um aproximante sonoro, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Fluxo de ar sem obstruções enquanto a língua se aproxima do palato duro sem causar atrito.</li> <li><strong>Posição da língua:</strong> A parte central da língua é elevada em direção ao palato duro.</li> <li><strong>Forma dos lábios:</strong> Geralmente neutra ou ligeiramente espaçada.</li> <li><strong>Cordas vocais:</strong> Vibram durante a articulação.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Eleve a parte central da língua em direção ao palato duro, sem tocá-lo.</li> <li>Permita que o ar flua livremente sobre a língua sem causar atrito.</li> <li>Certifique-se de que as cordas vocais vibrem durante a pronúncia.</li> </ol>"
+        }
+    },
+    "41": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/r/ é um aproximante alveolar sonoro, enquanto /l/ é um aproximante lateral alveolar sonoro e /w/ é um aproximante labio-velar sonoro."
+        },
+        "description": {
+            "describe": "<p><strong>O som /r/</strong> é um aproximante sonoro, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Fluxo contínuo de ar sem atrito.</li> <li><strong>Posição da língua:</strong> A ponta da língua é elevada em direção à crista alveolar, logo atrás dos dentes superiores, sem tocá-los, formando um canal estreito para o ar.</li> <li><strong>Forma dos lábios:</strong> Frequentemente levemente arredondados.</li> <li><strong>Cordas vocais:</strong> Vibram durante a produção do som.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Eleve a ponta da língua em direção à crista alveolar, logo atrás dos dentes superiores, sem tocá-los.</li> <li>Mantenha os lábios levemente arredondados.</li> <li>Produza o som mantendo o fluxo contínuo de ar e a vibração das cordas vocais.</li> </ol>"
+        }
+    },
+    "42": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/l/ é um aproximante lateral alveolar sonoro, enquanto /r/ é um aproximante alveolar sonoro."
+        },
+        "description": {
+            "describe": "<p><strong>O som /l/</strong> é um aproximante lateral alveolar sonoro, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> O ar flui pelos lados da língua.</li> <li><strong>Posição da língua:</strong> A ponta da língua toca a crista alveolar, logo atrás dos dentes superiores.</li> <li><strong>Cordas vocais:</strong> Vibram durante a articulação.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a ponta da língua contra a crista alveolar.</li> <li>Deixe o ar fluir pelos lados da língua.</li> <li>Ative as cordas vocais para produzir o som /l/.</li> </ol>"
+        }
+    },
+    "43": {
+        "letters": {
+            "type": "consoantes surdas"
+        },
+        "comparison": {
+            "difference": "/tʃ/ é um africado surdo que combina oclusivo /t/ com fricativo /ʃ/, enquanto /t/ é um oclusivo alveolar surdo e /ʃ/ é um fricativo postalveolar surdo."
+        },
+        "description": {
+            "describe": "<p><strong>O som /tʃ/</strong> é um africado surdo, pronunciado com:</p> <ul> <li><strong>Fluxo de ar:</strong> Uma breve interrupção do fluxo de ar ao pressionar a ponta da língua contra a crista alveolar, seguida de uma liberação que gera um som fricativo.</li> <li><strong>Posição da língua:</strong> A ponta da língua toca a crista alveolar e então se move ligeiramente para trás para permitir a parte fricativa do som.</li> <li><strong>Cordas vocais:</strong> Não vibram durante a pronúncia.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a ponta da língua logo atrás dos dentes superiores, na crista alveolar.</li> <li>Acumule pressão de ar atrás da língua.</li> <li>Libere o ar rapidamente enquanto a língua se move um pouco para trás, produzindo o som /tʃ/ sem vibrar as cordas vocais.</li> </ol>"
+        }
+    },
+    "44": {
+        "letters": {
+            "type": "consoantes sonoras"
+        },
+        "comparison": {
+            "difference": "/dʒ/ é sonoro, enquanto /tʃ/ é surdo. /dʒ/ inicia com oclusivo /d/ seguido do fricativo /ʒ/."
+        },
+        "description": {
+            "describe": "<p><strong>O som /dʒ/</strong> é um africado postalveolar sonoro, produzido com:</p> <ul> <li><strong>Fluxo de ar:</strong> Primeiro, interrompa o fluxo de ar pressionando a ponta da língua contra a crista alveolar; em seguida, libere o ar rapidamente para criar fricção na região postalveolar.</li> <li><strong>Posição da língua:</strong> A ponta da língua toca a crista alveolar e se move ligeiramente para trás em direção à região postalveolar durante a liberação do ar.</li> <li><strong>Cordas vocais:</strong> Vibram durante a pronúncia.</li> </ul> <p><strong>Guia de pronúncia:</strong></p> <ol> <li>Posicione a ponta da língua logo atrás dos dentes superiores, na crista alveolar.</li> <li>Acumule pressão de ar atrás da língua.</li> <li>Libere o ar rapidamente enquanto a língua se move ligeiramente para trás, produzindo o som /dʒ/ com vibração das cordas vocais.</li> </ol>"
+        }
+    }
+}

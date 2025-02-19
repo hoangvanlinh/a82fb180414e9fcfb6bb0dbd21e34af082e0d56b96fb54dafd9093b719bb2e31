@@ -1,0 +1,486 @@
+{
+    "1": {
+        "letters": {
+            "type": "短母音"
+        },
+        "comparison": {
+            "difference": "/ɪ/ は /iː/ より短く、よりリラックスしているのに対し、/iː/ はより長く、より緊張している。"
+        },
+        "description": {
+            "describe": "<p><strong>/ɪ/ の音</strong> は短母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 前方にあり、やや持ち上がるが /iː/ ほど高くはない。</li> <li><strong>顎の開き:</strong> やや開いており、あまり広くはない。</li> <li><strong>唇の形:</strong> リラックスしており、やや開いているが丸くはない。</li> <li><strong>舌の緊張度:</strong> リラックスしている。</li> <li><strong>持続時間:</strong> 短く、伸ばさない。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>口をやや開け、唇に力を入れないでください。</li> <li>舌を前方に、やや持ち上げた位置に置いてください。</li> <li>速く短く発音し、/iː/ のように伸ばさないようにしてください。</li> <li><em>bit</em> と <em>beat</em> のような単語ペアで比較してみてください。</li> </ol>"
+        }
+    },
+    "2": {
+        "letters": {
+            "type": "短母音"
+        },
+        "comparison": {
+            "difference": "/ʊ/ は /uː/ より短く、よりリラックスしているのに対し、/uː/ はより長く、より緊張している。"
+        },
+        "description": {
+            "describe": "<p><strong>/ʊ/ の音</strong> は短母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 高いが、/uː/ ほど高くはない。</li> <li><strong>顎の開き:</strong> やや開いている。</li> <li><strong>唇の形:</strong> 丸みがあるが /uː/ ほど顕著ではない。</li> <li><strong>舌の緊張度:</strong> リラックスしている。</li> <li><strong>持続時間:</strong> 短く、伸ばさない。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>唇を軽く丸めてください。</li> <li>舌を高い位置に保ちますが、/uː/ ほどは高くありません。</li> <li>速く短く発音し、/uː/ のように伸ばさないようにしてください。</li> <li><em>pull</em> と <em>pool</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "3": {
+        "letters": {
+            "type": "短母音"
+        },
+        "comparison": {
+            "difference": "/ɛ/ は短くリラックスした母音で、/eɪ/ は /ɛ/ から /ɪ/ へ滑る二重母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ɛ/ の音</strong> は短母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 前方、中低位。</li> <li><strong>顎の開き:</strong> 中程度に開いている。</li> <li><strong>唇の形:</strong> リラックスしており、丸くはない。</li> <li><strong>舌の緊張度:</strong> リラックスしている。</li> <li><strong>持続時間:</strong> 短く、伸ばさない。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>口を少し開け、唇をリラックスさせてください。</li> <li>舌を口の中央に置き、前方をわずかに持ち上げてください。</li> <li>速く短く発音し、/eɪ/ に変わらないようにしてください。</li> <li><em>bed</em> と <em>bait</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "4": {
+        "letters": {
+            "type": "短母音"
+        },
+        "comparison": {
+            "difference": "/æ/ は短く、より前方に位置するのに対し、/ɑː/ はより長く、より開いている。"
+        },
+        "description": {
+            "describe": "<p><strong>/æ/ の音</strong> は短母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 前方、低位で、顎を大きく開く。</li> <li><strong>顎の開き:</strong> 大きく開いている。</li> <li><strong>唇の形:</strong> 中立的で、やや広がっている。</li> <li><strong>舌の緊張度:</strong> /ɪ/ よりやや緊張している。</li> <li><strong>持続時間:</strong> 短いが、/ɪ/ よりやや長い。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>口を大きく開け、舌を下げてください。</li> <li>舌を前方に配置してください。</li> <li><em>bat</em> と <em>bit</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "5": {
+        "letters": {
+            "type": "短母音"
+        },
+        "comparison": {
+            "difference": "/ʌ/ は短く中央に位置するのに対し、/ɑː/ はより長く、より開いている。"
+        },
+        "description": {
+            "describe": "<p><strong>/ʌ/ の音</strong> は短母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 中央にあり、やや持ち上がるが /ɪ/ よりは低い。</li> <li><strong>顎の開き:</strong> 中程度に開いている。</li> <li><strong>唇の形:</strong> 中立的で、ややリラックスしている。</li> <li><strong>舌の緊張度:</strong> /ɪ/ よりもリラックスしている。</li> <li><strong>持続時間:</strong> 短いが /ɪ/ よりやや長い。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>口を少し開け、舌をリラックスさせてください。</li> <li>舌を口の中央に置いてください。</li> <li><em>cup</em> と <em>kip</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "6": {
+        "letters": {
+            "type": "短母音"
+        },
+        "comparison": {
+            "difference": "/ɒ/ は短く、より開いているのに対し、/ɔː/ はより長く、より丸みを帯びている。"
+        },
+        "description": {
+            "describe": "<p><strong>/ɒ/ の音</strong> は短母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 後方にあり、やや低い。</li> <li><strong>顎の開き:</strong> やや開いている。</li> <li><strong>唇の形:</strong> 丸められている。</li> <li><strong>舌の緊張度:</strong> リラックスしている。</li> <li><strong>持続時間:</strong> 短い。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>口をやや開け、唇を丸めてください。</li> <li>舌を後方に配置してください。</li> <li><em>cot</em> と <em>cart</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "7": {
+        "letters": {
+            "type": "中央母音"
+        },
+        "comparison": {
+            "difference": "/ə/ は常に弱く発音され、/ʌ/ は強く発音される場合もあります。/ə/ は英語で最も一般的な母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ə/ の音（シュワー）</strong> は英語で最も一般的な母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 中央でリラックスしている。</li> <li><strong>顎の開き:</strong> やや開いている。</li> <li><strong>唇の形:</strong> 中立的である。</li> <li><strong>舌の緊張度:</strong> リラックスしている。</li> <li><strong>持続時間:</strong> 非常に短い。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>口と舌をリラックスさせてください。</li> <li>/ə/ を含む音節は強調しないでください。</li> <li><em>sofa</em> と <em>cup</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "8": {
+        "letters": {
+            "type": "長母音"
+        },
+        "comparison": {
+            "difference": "/iː/ は /ɪ/ より長く、より緊張しているのに対し、/ɪ/ はより短く、よりリラックスしている。"
+        },
+        "description": {
+            "describe": "<p><strong>/iː/ の音</strong> は長母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 前方で高く、緊張している。</li> <li><strong>顎の開き:</strong> やや開いている。</li> <li><strong>唇の形:</strong> 丸めず、やや広がっている。</li> <li><strong>舌の緊張度:</strong> 緊張している。</li> <li><strong>持続時間:</strong> 長く、しっかりと発音される。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌を高く前方に保ってください。</li> <li>唇を軽く伸ばし、微笑むようにしてください。</li> <li>/ɪ/ よりも長く発音してください。</li> <li><em>sheep</em> と <em>ship</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "9": {
+        "letters": {
+            "type": "長母音"
+        },
+        "comparison": {
+            "difference": "/uː/ は /ʊ/ より長く、より緊張しているのに対し、/ʊ/ はより短く、よりリラックスしている。"
+        },
+        "description": {
+            "describe": "<p><strong>/uː/ の音</strong> は長母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 後方で高く、緊張している。</li> <li><strong>顎の開き:</strong> やや開いている。</li> <li><strong>唇の形:</strong> 丸められている。</li> <li><strong>舌の緊張度:</strong> 緊張している。</li> <li><strong>持続時間:</strong> 長く、しっかりと発音される。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌を後方で高く保ってください。</li> <li>唇をやや丸めてください。</li> <li>/ʊ/ よりも長く発音してください。</li> <li><em>pool</em> と <em>pull</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "10": {
+        "letters": {
+            "type": "長母音"
+        },
+        "comparison": {
+            "difference": "/ɜː/ は強勢がある長母音で、/ə/（シュワー）はより短く、常に弱く発音される。"
+        },
+        "description": {
+            "describe": "<p><strong>/ɜː/ の音</strong> は長母音で強勢が置かれ、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 中央で、やや緊張している。</li> <li><strong>顎の開き:</strong> やや開いている。</li> <li><strong>唇の形:</strong> 中立的で丸めず。</li> <li><strong>舌の緊張度:</strong> 緊張している。</li> <li><strong>持続時間:</strong> 長く、しっかり発音される。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌を口の中央に置いてください。</li> <li>唇を丸めないようにしてください。</li> <li>/ə/ よりも長く発音してください。</li> <li><em>her</em> と <em>sofa</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "11": {
+        "letters": {
+            "type": "長母音"
+        },
+        "comparison": {
+            "difference": "/ɔː/ は /ɒ/ よりも長く、より丸く発音され、/ɒ/ はより短く、より開いている。"
+        },
+        "description": {
+            "describe": "<p><strong>/ɔː/ の音</strong> は長母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 後方で中低位、かつ緊張している。</li> <li><strong>顎の開き:</strong> 中程度に開いている。</li> <li><strong>唇の形:</strong> 丸められている。</li> <li><strong>舌の緊張度:</strong> 緊張している。</li> <li><strong>持続時間:</strong> 長く、しっかり発音される。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌を後方に配置し、やや低めに保ってください。</li> <li>唇を中程度に丸めてください。</li> <li>/ɒ/ よりも長く発音してください。</li> <li><em>law</em> と <em>lot</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "12": {
+        "letters": {
+            "type": "長母音"
+        },
+        "comparison": {
+            "difference": "/ɑː/ は口を大きく開いて長く発音されるのに対し、/æ/ はより短く、より前方で発音される。"
+        },
+        "description": {
+            "describe": "<p><strong>/ɑː/ の音</strong> は長母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 後方にあり、低く、緊張している。</li> <li><strong>顎の開き:</strong> 大きく開いている。</li> <li><strong>唇の形:</strong> 中立的で、丸めていない。</li> <li><strong>舌の緊張度:</strong> 緊張している。</li> <li><strong>持続時間:</strong> 長く、しっかり発音される。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>口を大きく開け、唇をリラックスさせてください。</li> <li>舌を低く、少し後方に置いてください。</li> <li>/æ/ よりも長く発音してください。</li> <li><em>car</em> と <em>cat</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "13": {
+        "letters": {
+            "type": "二重母音"
+        },
+        "comparison": {
+            "difference": "/eɪ/ は /e/ から /ɪ/ へ滑る二重母音で、/ɛ/ は短い単一母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/eɪ/ の音</strong> は二重母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 初めは中前位 (/e/) にあり、その後 /ɪ/ へ移行する。</li> <li><strong>顎の開き:</strong> やや開いてから、やや閉じる。</li> <li><strong>唇の形:</strong> リラックスしており、やや広がっている。</li> <li><strong>舌の緊張度:</strong> ゆっくりと緊張していく。</li> <li><strong>持続時間:</strong> 長く、二つの位置間を移行する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>まず、舌を中前位 (/e/) に置いてください。</li> <li>次に、舌をゆっくり /ɪ/ に移動させます。</li> <li>二つの音を分けず、滑らかに連続させてください。</li> <li><em>late</em> と <em>let</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "14": {
+        "letters": {
+            "type": "二重母音"
+        },
+        "comparison": {
+            "difference": "/aɪ/ は /a/ から /ɪ/ へ滑る二重母音で、/æ/ は短い単一母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/aɪ/ の音</strong> は二重母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 初めは低位にあり、その後前方の高位に移行する。</li> <li><strong>顎の開き:</strong> 口を大きく開いた後、やや閉じる。</li> <li><strong>唇の形:</strong> 中立的で、その後やや広がる。</li> <li><strong>舌の緊張度:</strong> 徐々に緊張していく。</li> <li><strong>持続時間:</strong> 長く、二つの位置間を滑る。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>まず、舌を低位に置いてください。</li> <li>次に、舌を前方の高位に移動させます。</li> <li>二つの音を分けず、滑らかに連続させてください。</li> <li><em>ride</em> と <em>rad</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "15": {
+        "letters": {
+            "type": "二重母音"
+        },
+        "comparison": {
+            "difference": "/ɔɪ/ は /ɔ/ から /ɪ/ へ滑る二重母音で、/ɔː/ は長い単一母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ɔɪ/ の音</strong> は二重母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 初めは中後部の丸められた位置 (/ɔ/) にあり、その後高い前位 (/ɪ/) に移行する。</li> <li><strong>顎の開き:</strong> やや開いた状態からやや閉じる。</li> <li><strong>唇の形:</strong> 初めは丸く、その後やや広がる。</li> <li><strong>舌の緊張度:</strong> 徐々に緊張していく。</li> <li><strong>持続時間:</strong> 長く、二つの位置間を滑る。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>まず、舌を中後部の丸められた位置 (/ɔ/) に置いてください。</li> <li>次に、舌を高い前位 (/ɪ/) に移動させます。</li> <li>二つの音が滑らかに連続するように発音してください。</li> <li><em>boy</em> と <em>bore</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "16": {
+        "letters": {
+            "type": "二重母音"
+        },
+        "comparison": {
+            "difference": "/aʊ/ は /a/ から /ʊ/ へ滑る二重母音で、/æ/ は短い単一母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/aʊ/ の音</strong> は二重母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 初めは低い前位 (/a/) にあり、その後高い後位丸められた位置 (/ʊ/) に移行する。</li> <li><strong>顎の開き:</strong> 口を大きく開いた後、やや閉じる。</li> <li><strong>唇の形:</strong> 初めは中立的で、その後丸める。</li> <li><strong>舌の緊張度:</strong> 徐々に緊張していく。</li> <li><strong>持続時間:</strong> 長く、二つの位置間を滑る。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>まず、舌を低い前位 (/a/) に置いてください。</li> <li>次に、舌を高い後位丸められた位置 (/ʊ/) に移動させます。</li> <li>二つの音が滑らかに連続するように発音してください。</li> <li><em>now</em> と <em>nap</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "17": {
+        "letters": {
+            "type": "二重母音"
+        },
+        "comparison": {
+            "difference": "/əʊ/ は英国英語で一般的に使われ、/oʊ/ は米国英語の対応音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/əʊ/ の音</strong> は二重母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 初めは中央 (/ə/) にあり、その後高い後位丸められた位置 (/ʊ/) に移行する。</li> <li><strong>顎の開き:</strong> やや開いた状態から、やや閉じる。</li> <li><strong>唇の形:</strong> 初めは中立的で、その後丸める。</li> <li><strong>舌の緊張度:</strong> ややリラックスからやや緊張に変化する。</li> <li><strong>持続時間:</strong> 長く、二つの位置間を滑る。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>まず、舌を中央 (/ə/) に置いてください。</li> <li>次に、舌を高い後位丸められた位置 (/ʊ/) に移動させます。</li> <li>二つの音が滑らかに連続するように発音してください。</li> <li><em>go</em>（英国）と <em>go</em>（米国）のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "18": {
+        "letters": {
+            "type": "二重母音"
+        },
+        "comparison": {
+            "difference": "/ɪə/ は /ɪ/ から /ə/ へ滑る二重母音で、/ɪ/ は短い単一母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ɪə/ の音</strong> は二重母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 初めは高い前位 (/ɪ/) にあり、その後中央 (/ə/) に移行する。</li> <li><strong>顎の開き:</strong> やや開いた状態から、口がリラックスする。</li> <li><strong>唇の形:</strong> 中立的である。</li> <li><strong>舌の緊張度:</strong> 緊張からよりリラックスへ変化する。</li> <li><strong>持続時間:</strong> 長く、二つの位置間を滑る。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>最初に舌を高い前位 (/ɪ/) に置いてください。</li> <li>次に、舌を中央 (/ə/) に移動させます。</li> <li>二つの音を分けず、滑らかに連続させてください。</li> <li><em>here</em> と <em>hit</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "19": {
+        "letters": {
+            "type": "二重母音"
+        },
+        "comparison": {
+            "difference": "/eə/ は /e/ から /ə/ へ滑る二重母音で、/e/ は短い単一母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/eə/ の音</strong> は二重母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 初めは中前位 (/e/) にあり、その後中央 (/ə/) に移行する。</li> <li><strong>顎の開き:</strong> やや開いた状態から、口がリラックスする。</li> <li><strong>唇の形:</strong> 中立的である。</li> <li><strong>舌の緊張度:</strong> 軽く緊張した後、リラックスする。</li> <li><strong>持続時間:</strong> 長く、二つの位置間を滑る。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>最初に舌を中前位 (/e/) に置いてください。</li> <li>次に、舌を中央 (/ə/) に移動させます。</li> <li>二つの音を滑らかに連続させ、分けないようにしてください。</li> <li><em>air</em> と <em>egg</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "20": {
+        "letters": {
+            "type": "二重母音"
+        },
+        "comparison": {
+            "difference": "/ʊə/ は /ʊ/ から /ə/ へ滑る二重母音で、/ʊ/ は短い単一母音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ʊə/ の音</strong> は二重母音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 初めは高い後方 (/ʊ/) にあり、その後中央 (/ə/) に移行する。</li> <li><strong>顎の開き:</strong> やや開いた状態から、口がリラックスする。</li> <li><strong>唇の形:</strong> 初めは丸みを帯び、その後中立的になる。</li> <li><strong>舌の緊張度:</strong> 軽く緊張した後、よりリラックスする。</li> <li><strong>持続時間:</strong> 長く、二つの位置間を滑る。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>まず、舌を高い後方 (/ʊ/) に置いてください。</li> <li>次に、舌を中央 (/ə/) に移動させます。</li> <li>二つの音を分けず、滑らかに連続させてください。</li> <li><em>tour</em> と <em>took</em> のような単語ペアで比較してください。</li> </ol>"
+        }
+    },
+    "21": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/f/ は声帯が振動しない無声音で、/v/ は声帯が振動する有声音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/f/ の音</strong> は無声音の唇歯摩擦音で、次のように発音されます:</p> <ul> <li><strong>唇と歯:</strong> 下唇が上の歯に触れる。</li> <li><strong>気流:</strong> 唇と歯の間の狭い隙間を通って連続した気流が流れる。</li> <li><strong>声帯:</strong> 振動しない。</li> <li><strong>持続時間:</strong> 延長可能。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>下唇を上の歯に当ててください。</li> <li>狭い隙間から気流を吹き出してください。</li> <li>声を出さずに発音し、/v/ と比較して喉の振動を感じてください。</li> <li><em>fan</em> と <em>van</em> のような最小対で練習してください。</li> </ol>"
+        }
+    },
+    "22": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/v/ は声帯が振動する有声音で、/f/ は振動しない無声音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/v/ の音</strong> は有声音の唇歯摩擦音で、次のように発音されます:</p> <ul> <li><strong>唇と歯:</strong> 下唇が上の歯に触れる。</li> <li><strong>気流:</strong> 唇と歯の間の狭い隙間を通る連続した気流。</li> <li><strong>声帯:</strong> 振動する。</li> <li><strong>持続時間:</strong> 延長可能。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>下唇を上の歯に当ててください。</li> <li>気流を出しながら声を出してください。</li> <li>喉の振動を感じ、/f/ と比較してください（振動があれば /v/、なければ /f/）。</li> <li><em>fan</em> と <em>van</em> のような最小対で練習してください。</li> </ol>"
+        }
+    },
+    "23": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/θ/ は無声音で、/ð/ は有声音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/θ/ の音</strong> は無声音の摩擦音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌と上の前歯で形成される狭い通路を通る連続した気流。</li> <li><strong>舌の位置:</strong> 舌先が上の前歯に軽く触れるが、完全には気流を遮らない。</li> <li><strong>声帯:</strong> 発音時に振動しない。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を上の前歯に軽く当ててください。</li> <li>舌と歯の間から気流を連続して流してください。</li> <li>声帯をリラックスさせ、振動しないようにしてください。</li> </ol>"
+        }
+    },
+    "24": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/ð/ は声帯が振動する有声音で、/θ/ は無声音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ð/ の音</strong> は有声音の歯摩擦音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 舌先が上の前歯に軽く触れる。</li> <li><strong>気流:</strong> 舌と歯の間の狭い隙間を通る連続した気流。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> <li><strong>持続時間:</strong> 延長可能。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を上の前歯に当ててください。</li> <li>気流を出しながら、声帯を振動させてください。</li> <li>/θ/ と比較して喉の振動の違いを確認してください。</li> <li><em>this</em> と <em>think</em> のような最小対で練習してください。</li> </ol>"
+        }
+    },
+    "25": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/s/ は声帯が振動しない無声音で、/z/ は声帯が振動する有声音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/s/ の音</strong> は無声音の歯茎摩擦音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 舌先が歯茎の近くに位置する。</li> <li><strong>気流:</strong> 狭い隙間を通る連続した気流により摩擦音が生じる。</li> <li><strong>声帯:</strong> 振動しない。</li> <li><strong>持続時間:</strong> 延長可能。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を歯茎の近くに置きますが、触れないようにしてください。</li> <li>狭い隙間から気流を出し、声帯が振動しない状態を保ってください。</li> <li>/z/ と比較して振動を感じてください。</li> <li><em>sip</em> と <em>zip</em> のような最小対で練習してください。</li> </ol>"
+        }
+    },
+    "26": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/z/ は声帯が振動する有声音で、/s/ は無声音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/z/ の音</strong> は有声音の子音で、次のように発音されます:</p> <ul> <li><strong>声帯の振動:</strong> /s/ とは異なり、/z/ を発音すると声帯が振動します。</li> <li><strong>舌の位置:</strong> 舌先が歯茎の近くに位置する。</li> <li><strong>気流:</strong> 狭い隙間を通る連続した気流。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌を歯茎の近くに置いてください。</li> <li>空気を送り出しながら声帯を振動させて発音してください。</li> <li><em>sip</em> と <em>zip</em> のような最小対で練習してください。</li> </ol>"
+        }
+    },
+    "27": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/ʃ/ は無声音の後部歯茎摩擦音で、/s/ は歯茎音、/ʒ/ はその有声音の対応音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ʃ/ の音</strong> は無声音の摩擦音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 舌は口蓋に近づき、歯茎の少し後ろに位置する。</li> <li><strong>気流:</strong> 連続した気流が摩擦音を生み出す。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌を口蓋に近づけて配置してください。</li> <li>声帯を使わずに連続した気流を出してください。</li> <li><em>she</em> と <em>genre</em> のような最小対で練習してください。</li> </ol>"
+        }
+    },
+    "28": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/ʒ/ は有声音の後部歯茎摩擦音で、/ʃ/ は無声音、/z/ は歯茎音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ʒ/ の音</strong> は有声音の摩擦音で、次のように発音されます:</p> <ul> <li><strong>舌の位置:</strong> 舌は口蓋に近づき、歯茎のすぐ後ろに位置する。</li> <li><strong>気流:</strong> 連続した気流とともに声帯が振動し、摩擦音を生み出す。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌を口蓋に近づけて配置してください。</li> <li>声帯が振動するように、気流を出してください。</li> <li><em>vision</em> と <em>mission</em> のような最小対で練習してください。</li> </ol>"
+        }
+    },
+    "29": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/h/ は無声音の声門摩擦音で、/ʔ/ は声門閉鎖音、/x/ は軟口蓋摩擦音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/h/ の音</strong> は無声音の摩擦音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 開いた声門を通って、滑らかな気流が流れる。</li> <li><strong>舌の位置:</strong> 舌は後続の母音に合わせて中立的な位置にある。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>声門を開いた状態に保ち、空気が自由に流れるようにしてください。</li> <li>舌を中立の位置に維持してください。</li> <li>有声音と比較して、振動がないことを確認してください。</li> </ol>"
+        }
+    },
+    "30": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/p/ は無声音の両唇破裂音で、/b/ は有声音、/f/ は摩擦音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/p/ の音</strong> は無声音の破裂音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 両唇を閉じて空気の流れを一時停止し、その後急速に放出する。</li> <li><strong>唇の位置:</strong> 声を出す前に完全に閉じる。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>両唇を完全に閉じてください。</li> <li>唇の後ろで気圧をためてください。</li> <li>迅速に空気を放出して /p/ の音を出してください。</li> </ol>"
+        }
+    },
+    "31": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/b/ は有声音の両唇破裂音で、/p/ は無声音、/m/ は鼻音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/b/ の音</strong> は有声音の破裂音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 両唇を閉じた後、空気を急速に放出する。</li> <li><strong>唇の位置:</strong> 声を出す前に完全に閉じる。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>両唇を完全に閉じてください。</li> <li>唇の後ろで気圧をためてください。</li> <li>声帯を振動させながら空気を放出し、/b/ の音を出してください。</li> </ol>"
+        }
+    },
+    "32": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/t/ は無声音の歯茎破裂音で、/d/ は有声音、/θ/ は無声音の歯摩擦音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/t/ の音</strong> は無声音の破裂音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌先を歯茎に押し当て、一時的に気流を止め、急速に放出する。</li> <li><strong>舌の位置:</strong> 舌先が歯茎に触れ、すぐに解放される。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を上の前歯のすぐ後ろにある歯茎に置いてください。</li> <li>舌の後ろで気圧をためてください。</li> <li>迅速に空気を放出して /t/ の音を出してください。</li> </ol>"
+        }
+    },
+    "33": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/d/ は有声音の歯茎破裂音で、/t/ は無声音、/ð/ は有声音の歯摩擦音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/d/ の音</strong> は有声音の破裂音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌先を歯茎に押し当て、一時的に気流を止め、急速に放出する。</li> <li><strong>舌の位置:</strong> 舌先が歯茎に触れ、すぐに解放される。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を上の前歯のすぐ後ろにある歯茎に置いてください。</li> <li>舌の後ろで気圧をためてください。</li> <li>声帯を振動させながら空気を放出し、/d/ の音を出してください。</li> </ol>"
+        }
+    },
+    "34": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/k/ は無声音の軟口蓋破裂音で、/g/ は有声音、/t/ は歯茎破裂音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/k/ の音</strong> は無声音の破裂音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌の後ろ部分を軟口蓋に持ち上げ、気流を一時停止させた後、急速に放出する。</li> <li><strong>舌の位置:</strong> 舌の後ろ部分が軟口蓋に触れ、すぐに解放される。</li> <li><strong>声帯:</strong> 発音時に振動しない。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌の後ろ部分を持ち上げ、軟口蓋に触れさせてください。</li> <li>舌の後ろで気圧をためてください。</li> <li>声帯が振動しないように、急速に空気を放出してください。</li> </ol>"
+        }
+    },
+    "35": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/g/ は有声音の軟口蓋破裂音で、/k/ は無声音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/g/ の音</strong> は有声音の破裂音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌の後ろ部分を軟口蓋に触れさせ、気流を一時停止した後、急速に放出する。</li> <li><strong>舌の位置:</strong> 舌の後ろ部分が軟口蓋に触れ、すぐに解放される。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌の後ろ部分を軟口蓋に当ててください。</li> <li>舌の後ろで気圧をためてください。</li> <li>声帯を振動させながら空気を放出し、/g/ の音を出してください。</li> </ol>"
+        }
+    },
+    "36": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/m/ は有声音の鼻音で、/n/ は有声音の歯茎鼻音、/ŋ/ は有声音の軟口蓋鼻音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/m/ の音</strong> は有声音の鼻音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 唇を閉じることで口内の空気を遮断し、鼻から放出する。</li> <li><strong>唇の位置:</strong> 両唇がしっかり閉じられている。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>唇をしっかりと閉じてください。</li> <li>口を閉じたまま、鼻から空気を出してください。</li> <li>声帯を振動させて /m/ の音を出してください。</li> </ol>"
+        }
+    },
+    "37": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/n/ は有声音の歯茎鼻音で、/m/ は有声音の両唇鼻音、/ŋ/ は有声音の軟口蓋鼻音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/n/ の音</strong> は有声音の歯茎鼻音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 空気は鼻から通り、口内の空気は遮断される。</li> <li><strong>舌の位置:</strong> 舌先が上の前歯のすぐ後ろの歯茎に触れる。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を上の前歯のすぐ後ろにある歯茎に当ててください。</li> <li>鼻から空気が出るように、口内を閉じてください。</li> <li>声帯を振動させて /n/ の音を出してください。</li> </ol>"
+        }
+    },
+    "38": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/ŋ/ は有声音の軟口蓋鼻音で、/n/ は有声音の歯茎鼻音、/m/ は有声音の両唇鼻音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/ŋ/ の音</strong> は有声音の軟口蓋鼻音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌の後ろ部分が軟口蓋に触れて口内の空気の流れを遮断すると、鼻から空気が通る。</li> <li><strong>舌の位置:</strong> 舌の後ろ部分が軟口蓋に押し当てられる。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌の後ろ部分を持ち上げ、軟口蓋に触れさせてください。</li> <li>声帯が振動する間、鼻から空気を通してください。</li> <li>舌を解放して /ŋ/ の音を完成させてください。</li> </ol>"
+        }
+    },
+    "39": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/w/ は有声音の唇軟口蓋接近音で、/v/ は有声音の唇歯摩擦音、/r/ は有声音の歯茎接近音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/w/ の音</strong> は有声音の接近音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 摩擦のない連続した気流。</li> <li><strong>唇の形:</strong> 丸められた唇。</li> <li><strong>舌の位置:</strong> 舌の後ろ部分が軟口蓋に近づくが、触れない。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>唇を丸めてください。</li> <li>舌の後ろ部分を軟口蓋に近づけ、触れないようにしてください。</li> <li>連続した気流と声帯の振動で /w/ の音を出してください。</li> </ol>"
+        }
+    },
+    "40": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/j/ は有声音の口蓋接近音で、/i/ は前舌の閉鎖母音（非丸め）、/ʒ/ は有声音の後部歯茎摩擦音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/j/ の音</strong> は有声音の口蓋接近音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌が硬口蓋に近づく際、摩擦なく空気が通る。</li> <li><strong>舌の位置:</strong> 舌の中央部が硬口蓋に向かって持ち上がる。</li> <li><strong>唇の形:</strong> 通常、中立的またはやや広がる。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌の中央部を硬口蓋に向けて持ち上げ、触れないようにしてください。</li> <li>舌上を空気が自由に流れるようにしてください。</li> <li>発音時に声帯が振動することを確認してください。</li> </ol>"
+        }
+    },
+    "41": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/r/ は有声音の歯茎接近音で、/l/ は有声音の歯茎側面接近音、/w/ は有声音の唇軟口蓋接近音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/r/ の音</strong> は有声音の歯茎接近音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 摩擦のない連続した気流。</li> <li><strong>舌の位置:</strong> 舌先を上の前歯の後ろの歯茎に向けて持ち上げ、狭い通路を作る。</li> <li><strong>唇の形:</strong> やや丸められる。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を上の前歯のすぐ後ろにある歯茎に向けて持ち上げ、触れないようにしてください。</li> <li>唇をやや丸めた状態に保ってください。</li> <li>連続した気流と声帯の振動で /r/ の音を出してください。</li> </ol>"
+        }
+    },
+    "42": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/l/ は有声音の歯茎側面接近音で、/r/ は有声音の歯茎接近音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/l/ の音</strong> は有声音の側面接近音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌の両側を通って空気が流れる。</li> <li><strong>舌の位置:</strong> 舌先が上の前歯のすぐ後ろの歯茎に触れる。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を歯茎に当ててください。</li> <li>舌の両側を通る空気の流れを確保してください。</li> <li>声帯を使って /l/ の音を出してください。</li> </ol>"
+        }
+    },
+    "43": {
+        "letters": {
+            "type": "無声音の子音"
+        },
+        "comparison": {
+            "difference": "/tʃ/ は無声音の破擦音で、破裂音 /t/ と摩擦音 /ʃ/ を組み合わせたものです。一方、/t/ は無声音の歯茎破裂音、/ʃ/ は無声音の後部歯茎摩擦音です。"
+        },
+        "description": {
+            "describe": "<p><strong>/tʃ/ の音</strong> は無声音の破擦音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> 舌先を歯茎に押し当て、一時的に気流を止め、その後急速に放出して摩擦音を作る。</li> <li><strong>舌の位置:</strong> 舌先が歯茎に触れ、少し後ろに動いて摩擦音を発生させる。</li> <li><strong>声帯:</strong> 発音時に振動しない。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を上の前歯のすぐ後ろにある歯茎に置いてください。</li> <li>舌の後ろで気圧をためてください。</li> <li>素早く空気を放出し、舌を少し後ろに動かして /tʃ/ の音を発音してください。（声帯は振動させずに）</li> </ol>"
+        }
+    },
+    "44": {
+        "letters": {
+            "type": "有声音の子音"
+        },
+        "comparison": {
+            "difference": "/dʒ/ は有声音で、/tʃ/ は無声音です。/dʒ/ は破裂音 /d/ に続いて摩擦音 /ʒ/ から成ります。"
+        },
+        "description": {
+            "describe": "<p><strong>/dʒ/ の音</strong> は有声音の破擦音で、次のように発音されます:</p> <ul> <li><strong>気流:</strong> まず舌先を歯茎に押し当てて気流を止め、次に急速に放出して後部歯茎で摩擦音を作る。</li> <li><strong>舌の位置:</strong> 舌先が歯茎に触れ、少し後ろに動いて後部歯茎領域に向かう。</li> <li><strong>声帯:</strong> 発音時に振動する。</li> </ul> <p><strong>発音ガイド:</strong></p> <ol> <li>舌先を上の前歯のすぐ後ろにある歯茎に置いてください。</li> <li>舌の後ろで気圧をためてください。</li> <li>空気を放出しながら、舌を少し後ろに動かして /dʒ/ の音を発音し、声帯を振動させてください。</li> </ol>"
+        }
+    }
+}

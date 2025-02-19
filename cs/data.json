@@ -1,0 +1,487 @@
+{
+    "1": {
+      "letters": {
+        "type": "krátké samohlásky"
+      },
+      "comparison": {
+        "difference": "/ɪ/ je kratší a uvolněnější, zatímco /iː/ je delší a napjatější."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ɪ/</strong> je krátká samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vpředu, mírně zvednutý, ale ne tak vysoko jako u /iː/.</li> <li><strong>Otevření čelisti:</strong> lehce otevřená, ne příliš široká.</li> <li><strong>Tvar rtů:</strong> uvolněné, mírně otevřené, bez zaoblení.</li> <li><strong>Napětí jazyka:</strong> uvolněné.</li> <li><strong>Délka:</strong> krátká, neprodloužená.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Udržujte ústa lehce otevřená, aniž by se rtům dalo příliš nátlaku.</li> <li>Umístěte jazyk dopředu a mírně jej zvedněte.</li> <li>Vyslovujte zvuk rychle a krátce, vyhýbejte se jeho prodlužování, jak je to u /iː/.</li> <li>Cvičte s dvojicemi slov, například <em>bit</em> – <em>beat</em>.</li> </ol>"
+      }
+    },
+    "2": {
+      "letters": {
+        "type": "krátké samohlásky"
+      },
+      "comparison": {
+        "difference": "/ʊ/ je kratší a uvolněnější, zatímco /uː/ je delší a napjatější."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ʊ/</strong> je krátká samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vysoko, ale o něco nižší než u /uː/.</li> <li><strong>Otevření čelisti:</strong> lehce otevřená.</li> <li><strong>Tvar rtů:</strong> mírně zaoblené, avšak méně výrazné než u /uː/.</li> <li><strong>Napětí jazyka:</strong> uvolněné.</li> <li><strong>Délka:</strong> krátká, neprodloužená.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Udržujte rty mírně zaoblené.</li> <li>Umístěte jazyk do vysoké pozice, ale ne tak vysoko jako u /uː/.</li> <li>Vyslovujte zvuk rychle a krátce, aniž byste jej prodlužovali jako u /uː/.</li> <li>Cvičte s dvojicemi slov, například <em>pull</em> – <em>pool</em>.</li> </ol>"
+      }
+    },
+    "3": {
+      "letters": {
+        "type": "krátké samohlásky"
+      },
+      "comparison": {
+        "difference": "/ɛ/ je krátká a uvolněná samohláska, zatímco /eɪ/ je diftong, který klouže z /ɛ/ do /ɪ/."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ɛ/</strong> je krátká samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vpředu, na středně nízké úrovni.</li> <li><strong>Otevření čelisti:</strong> středně otevřená.</li> <li><strong>Tvar rtů:</strong> uvolněné, bez zaoblení.</li> <li><strong>Napětí jazyka:</strong> uvolněné.</li> <li><strong>Délka:</strong> krátká, neprodloužená.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Udržujte ústa lehce otevřená a rtům dejte volnost.</li> <li>Umístěte jazyk do středu úst, mírně zvednutý dopředu.</li> <li>Vyslovujte zvuk rychle a krátce, aniž by se proměňoval na /eɪ/.</li> <li>Cvičte s dvojicemi slov, například <em>bed</em> – <em>bait</em>.</li> </ol>"
+      }
+    },
+    "4": {
+      "letters": {
+        "type": "krátké samohlásky"
+      },
+      "comparison": {
+        "difference": "/æ/ je kratší a více přední, zatímco /ɑː/ je delší a více otevřená."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /æ/</strong> je krátká samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vpředu, nízko, s výrazně otevřenou čelistí.</li> <li><strong>Otevření čelisti:</strong> široce otevřená.</li> <li><strong>Tvar rtů:</strong> neutrální, mírně rozšířený.</li> <li><strong>Napětí jazyka:</strong> mírně napjaté, více než u /ɪ/.</li> <li><strong>Délka:</strong> krátká, ale o něco delší než /ɪ/.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Otevřete ústa široce a spusťte jazyk.</li> <li>Umístěte jazyk směrem vpřed uvnitř úst.</li> <li>Cvičte s dvojicemi slov, například <em>bat</em> – <em>bit</em>.</li> </ol>"
+      }
+    },
+    "5": {
+      "letters": {
+        "type": "krátké samohlásky"
+      },
+      "comparison": {
+        "difference": "/ʌ/ je kratší a více centrální, zatímco /ɑː/ je delší a více otevřená."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ʌ/</strong> je krátká samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> centrální, mírně zvednutý, ale nižší než u /ɪ/.</li> <li><strong>Otevření čelisti:</strong> středně otevřená.</li> <li><strong>Tvar rtů:</strong> neutrální, mírně uvolněný.</li> <li><strong>Napětí jazyka:</strong> více uvolněné než u /ɪ/.</li> <li><strong>Délka:</strong> krátká, ale o něco delší než /ɪ/.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Udržujte ústa lehce otevřená a jazyk uvolněný.</li> <li>Umístěte jazyk do středu úst.</li> <li>Cvičte s dvojicemi slov, například <em>cup</em> – <em>kip</em>.</li> </ol>"
+      }
+    },
+    "6": {
+      "letters": {
+        "type": "krátké samohlásky"
+      },
+      "comparison": {
+        "difference": "/ɒ/ je kratší a více otevřená, zatímco /ɔː/ je delší a více zaoblená."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ɒ/</strong> je krátká samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vzadu, mírně nízko.</li> <li><strong>Otevření čelisti:</strong> lehce otevřená.</li> <li><strong>Tvar rtů:</strong> zaoblené.</li> <li><strong>Napětí jazyka:</strong> uvolněné.</li> <li><strong>Délka:</strong> krátká.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Udržujte ústa lehce otevřená a rty zaoblené.</li> <li>Umístěte jazyk do zadní části úst.</li> <li>Cvičte s dvojicemi slov, například <em>cot</em> – <em>cart</em>.</li> </ol>"
+      }
+    },
+    "7": {
+      "letters": {
+        "type": "centrální samohlásky"
+      },
+      "comparison": {
+        "difference": "/ə/ se vyslovuje vždy bez důrazu, zatímco /ʌ/ může být zdůrazněno. /ə/ je nejběžnější samohláska v angličtině."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ə/ (schwa)</strong> je nejběžnější samohláska v angličtině, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> centrální, uvolněná.</li> <li><strong>Otevření čelisti:</strong> lehce otevřená.</li> <li><strong>Tvar rtů:</strong> neutrální.</li> <li><strong>Napětí jazyka:</strong> uvolněné.</li> <li><strong>Délka:</strong> velmi krátká.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Uvolněte ústa i jazyk.</li> <li>Nezdůrazňujte slabiku obsahující /ə/.</li> <li>Porovnejte s důraznou samohláskou, cvičte s dvojicemi slov, například <em>sofa</em> – <em>cup</em>.</li> </ol>"
+      }
+    },
+    "8": {
+      "letters": {
+        "type": "dlouhé samohlásky"
+      },
+      "comparison": {
+        "difference": "/iː/ je delší a napjatější, zatímco /ɪ/ je kratší a uvolněnější."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /iː/</strong> je dlouhá samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vpředu, vysoko a napjatě.</li> <li><strong>Otevření čelisti:</strong> lehce otevřená.</li> <li><strong>Tvar rtů:</strong> není zaoblený, mírně rozšířený.</li> <li><strong>Napětí jazyka:</strong> napjaté.</li> <li><strong>Délka:</strong> dlouhá a udržitelná.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Udržujte jazyk vysoko a vpředu v ústech.</li> <li>Mírně roztáhněte rty, jako když se usmíváte.</li> <li>Vyslovujte zvuk déle než /ɪ/.</li> <li>Cvičte s dvojicemi slov, například <em>sheep</em> – <em>ship</em>.</li> </ol>"
+      }
+    },
+    "9": {
+      "letters": {
+        "type": "dlouhé samohlásky"
+      },
+      "comparison": {
+        "difference": "/uː/ je delší a napjatější, zatímco /ʊ/ je kratší a uvolněnější."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /uː/</strong> je dlouhá samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vzadu, vysoko a napjatě.</li> <li><strong>Otevření čelisti:</strong> lehce otevřená.</li> <li><strong>Tvar rtů:</strong> zaoblené.</li> <li><strong>Napětí jazyka:</strong> napjaté.</li> <li><strong>Délka:</strong> dlouhá a udržitelná.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Udržujte jazyk vysoko vzadu v ústech.</li> <li>Mírně zaoblete rty.</li> <li>Vyslovujte zvuk déle než /ʊ/.</li> <li>Cvičte s dvojicemi slov, například <em>pool</em> – <em>pull</em>.</li> </ol>"
+      }
+    },
+    "10": {
+      "letters": {
+        "type": "dlouhé samohlásky"
+      },
+      "comparison": {
+        "difference": "/ɜː/ je dlouhá, zdůrazněná samohláska, zatímco /ə/ (schwa) je kratší a vždy nezdůrazněná."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ɜː/</strong> je dlouhá, zdůrazněná samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> centrální, na střední úrovni a napjatá.</li> <li><strong>Otevření čelisti:</strong> lehce otevřená.</li> <li><strong>Tvar rtů:</strong> neutrální, bez zaoblení.</li> <li><strong>Napětí jazyka:</strong> napjaté.</li> <li><strong>Délka:</strong> dlouhá a udržitelná.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte jazyk do středu úst.</li> <li>Nezaoblujte rty.</li> <li>Vyslovujte zvuk déle než /ə/.</li> <li>Cvičte s dvojicemi slov, například <em>her</em> – <em>sofa</em>.</li> </ol>"
+      }
+    },
+    "11": {
+      "letters": {
+        "type": "dlouhé samohlásky"
+      },
+      "comparison": {
+        "difference": "/ɔː/ je delší a více zaoblená, zatímco /ɒ/ je kratší a více otevřená."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ɔː/</strong> je dlouhá samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vzadu, na střední úrovni níže a napjatá.</li> <li><strong>Otevření čelisti:</strong> středně otevřená.</li> <li><strong>Tvar rtů:</strong> zaoblené.</li> <li><strong>Napětí jazyka:</strong> napjaté.</li> <li><strong>Délka:</strong> dlouhá a udržitelná.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte jazyk vzadu v ústech, mírně níže.</li> <li>Udržujte rty mírně zaoblené.</li> <li>Vyslovujte zvuk déle než /ɒ/.</li> <li>Cvičte s dvojicemi slov, například <em>law</em> – <em>lot</em>.</li> </ol>"
+      }
+    },
+    "12": {
+      "letters": {
+        "type": "dlouhé samohlásky"
+      },
+      "comparison": {
+        "difference": "/ɑː/ je delší a vyslovuje se s více otevřenou ústní dutinou, zatímco /æ/ je kratší a více vpředu."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ɑː/</strong> je dlouhá samohláska, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> vzadu, nízko a napjatě.</li> <li><strong>Otevření čelisti:</strong> široce otevřená.</li> <li><strong>Tvar rtů:</strong> neutrální, bez zaoblení.</li> <li><strong>Napětí jazyka:</strong> napjaté.</li> <li><strong>Délka:</strong> dlouhá a udržitelná.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Otevřete ústa široce a uvolněte rty.</li> <li>Umístěte jazyk nízko a mírně vzadu.</li> <li>Vyslovujte zvuk déle než /æ/.</li> <li>Cvičte s dvojicemi slov, například <em>car</em> – <em>cat</em>.</li> </ol>"
+      }
+    },
+    "13": {
+      "letters": {
+        "type": "diftongy"
+      },
+      "comparison": {
+        "difference": "/eɪ/ je diftong, který klouže z /e/ do /ɪ/, zatímco /ɛ/ je krátký monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /eɪ/</strong> je diftong, vyslovovaný s:</p> <ul> <li><strong>Poloha jazyka:</strong> začíná ve středně přední pozici (/e/) a poté klouže do /ɪ/.</li> <li><strong>Otevření čelisti:</strong> lehce otevřená na začátku, poté se mírně zavírá.</li> <li><strong>Tvar rtů:</strong> uvolněné a mírně rozšířené.</li> <li><strong>Napětí jazyka:</strong> postupně se přechází z uvolněného stavu do mírně napjatého.</li> <li><strong>Délka:</strong> dlouhá, protože zvuk klouže mezi pozicemi.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Začněte s jazykem ve středně přední pozici (/e/).</li> <li>Pomalu posuňte jazyk směrem k /ɪ/.</li> <li>Nechte oba zvuky plynule splynout, aniž by se oddělovaly.</li> <li>Cvičte s dvojicemi slov, například <em>late</em> – <em>let</em>.</li> </ol>"
+      }
+    },
+    "14": {
+      "letters": {
+        "type": "diftongy"
+      },
+      "comparison": {
+        "difference": "/aɪ/ je diftong, který klouže z /a/ do /ɪ/, zatímco /æ/ je krátký monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /aɪ/</strong> je diftong, vyslovovaný s:</p> <ul> <li><strong>Poloha jazyka:</strong> začíná v nízké pozici a poté se pohybuje do vysoké přední pozice.</li> <li><strong>Otevření čelisti:</strong> začíná s velmi otevřenou ústní dutinou, poté se mírně zavírá.</li> <li><strong>Tvar rtů:</strong> zpočátku neutrální, poté mírně rozšířený.</li> <li><strong>Napětí jazyka:</strong> postupně se mění z uvolněného na mírně napjatý.</li> <li><strong>Délka:</strong> dlouhá, protože zvuk klouže mezi pozicemi.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Začněte s jazykem v nízké pozici.</li> <li>Posuňte jazyk do vysoké přední pozice.</li> <li>Nechte oba zvuky splynout plynule, aniž by se oddělovaly.</li> <li>Cvičte s dvojicemi slov, například <em>ride</em> – <em>rad</em>.</li> </ol>"
+      }
+    },
+    "15": {
+      "letters": {
+        "type": "diftongy"
+      },
+      "comparison": {
+        "difference": "/ɔɪ/ je diftong, který klouže z /ɔ/ do /ɪ/, zatímco /ɔː/ je dlouhý monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ɔɪ/</strong> je diftong, vyslovovaný s:</p> <ul> <li><strong>Poloha jazyka:</strong> začíná ve středně zadní, zaoblené pozici (/ɔ/) a klouže do vysoké přední pozice (/ɪ/).</li> <li><strong>Otevření čelisti:</strong> začíná lehce otevřená, poté se mírně zavírá.</li> <li><strong>Tvar rtů:</strong> začíná s zaoblenými rty, poté se mírně rozšiřuje.</li> <li><strong>Napětí jazyka:</strong> přechází z uvolněného stavu do mírně napjatého.</li> <li><strong>Délka:</strong> dlouhá, protože zvuk klouže mezi pozicemi.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Začněte s jazykem ve středně zadní, zaoblené pozici (/ɔ/).</li> <li>Posuňte jazyk do vysoké přední pozice (/ɪ/).</li> <li>Nechte oba zvuky plynule splynout, aniž by se oddělovaly.</li> <li>Cvičte s dvojicemi slov, například <em>boy</em> – <em>bore</em>.</li> </ol>"
+      }
+    },
+    "16": {
+      "letters": {
+        "type": "diftongy"
+      },
+      "comparison": {
+        "difference": "/aʊ/ je diftong, který klouže z /a/ do /ʊ/, zatímco /æ/ je krátký monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /aʊ/</strong> je diftong, vyslovovaný s:</p> <ul> <li><strong>Poloha jazyka:</strong> začíná v nízké, přední pozici (/a/) a klouže do vysoké, zadní pozice s zaoblením (/ʊ/).</li> <li><strong>Otevření čelisti:</strong> začíná s velmi otevřenou ústní dutinou, poté se mírně zavírá.</li> <li><strong>Tvar rtů:</strong> zpočátku neutrální, poté se stává zaobleným.</li> <li><strong>Napětí jazyka:</strong> postupně se přechází z uvolněného do mírně napjatého stavu.</li> <li><strong>Délka:</strong> dlouhá, protože zvuk klouže mezi pozicemi.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Začněte s jazykem v nízké, přední pozici (/a/).</li> <li>Nechte jazyk postupně klouzat do vysoké, zadní pozice s zaoblením (/ʊ/).</li> <li>Nechte oba zvuky plynule splynout, aniž by se oddělovaly.</li> <li>Cvičte s dvojicemi slov, například <em>now</em> – <em>nap</em>.</li> </ol>"
+      }
+    },
+    "17": {
+      "letters": {
+        "type": "diftongy"
+      },
+      "comparison": {
+        "difference": "/əʊ/ se běžně používá v britské angličtině, zatímco /oʊ/ je jeho americký ekvivalent."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /əʊ/</strong> je diftong, vyslovovaný s:</p> <ul> <li><strong>Poloha jazyka:</strong> začíná v centrální pozici (/ə/) a klouže do vysoké, zadní pozice s zaoblením (/ʊ/).</li> <li><strong>Otevření čelisti:</strong> lehce otevřená na začátku, poté se mírně zavírá.</li> <li><strong>Tvar rtů:</strong> začíná neutrální a postupně se mění v zaoblený.</li> <li><strong>Napětí jazyka:</strong> přechází od uvolněného k mírně napjatému.</li> <li><strong>Délka:</strong> dlouhá, protože zvuk klouže mezi pozicemi.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Začněte s jazykem v centrální pozici (/ə/).</li> <li>Postupně posuňte jazyk do vysoké, zadní pozice s zaoblením (/ʊ/).</li> <li>Nechte oba zvuky plynule splynout, aniž by se oddělovaly.</li> <li>Cvičte s dvojicemi slov, například <em>go</em> (britské) – <em>go</em> (americké).</li> </ol>"
+      }
+    },
+    "18": {
+      "letters": {
+        "type": "diftongy"
+      },
+      "comparison": {
+        "difference": "/ɪə/ je diftong, který klouže z /ɪ/ do /ə/, zatímco /ɪ/ je krátký monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ɪə/</strong> je diftong, vyslovovaný s:</p> <ul> <li><strong>Poloha jazyka:</strong> začíná ve vysoké přední pozici (/ɪ/) a klouže do centrální pozice (/ə/).</li> <li><strong>Otevření čelisti:</strong> na začátku lehce otevřená, poté se ústa uvolní.</li> <li><strong>Tvar rtů:</strong> neutrální.</li> <li><strong>Napětí jazyka:</strong> přechází z napjatého stavu do uvolněnějšího.</li> <li><strong>Délka:</strong> dlouhá, protože zvuk klouže mezi pozicemi.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Začněte s jazykem ve vysoké přední pozici (/ɪ/).</li> <li>Postupně posuňte jazyk do centrální pozice (/ə/).</li> <li>Nechte oba zvuky plynule splynout, aniž by se oddělovaly.</li> <li>Cvičte s dvojicemi slov, například <em>here</em> – <em>hit</em>.</li> </ol>"
+      }
+    },
+    "19": {
+      "letters": {
+        "type": "diftongy"
+      },
+      "comparison": {
+        "difference": "/eə/ je diftong, který klouže z /e/ do /ə/, zatímco /e/ je krátký monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /eə/</strong> je diftong, vyslovovaný s:</p> <ul> <li><strong>Poloha jazyka:</strong> začíná ve středně přední pozici (/e/) a klouže do centrální pozice (/ə/).</li> <li><strong>Otevření čelisti:</strong> lehce otevřená na začátku, poté se uvolní.</li> <li><strong>Tvar rtů:</strong> neutrální.</li> <li><strong>Napětí jazyka:</strong> přechází z mírného napětí do uvolnění.</li> <li><strong>Délka:</strong> dlouhá, protože zvuk klouže mezi pozicemi.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Začněte s jazykem ve středně přední pozici (/e/).</li> <li>Pomalu posuňte jazyk do centrální pozice (/ə/).</li> <li>Nechte oba zvuky plynule splynout, aniž by se oddělovaly.</li> <li>Cvičte s dvojicemi slov, například <em>air</em> – <em>egg</em>.</li> </ol>"
+      }
+    },
+    "20": {
+      "letters": {
+        "type": "diftongy"
+      },
+      "comparison": {
+        "difference": "/ʊə/ je diftong, který klouže z /ʊ/ do /ə/, zatímco /ʊ/ je krátký monoftong."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ʊə/</strong> je diftong, vyslovovaný s:</p> <ul> <li><strong>Poloha jazyka:</strong> začíná ve vysoké zadní pozici (/ʊ/) a klouže do centrální pozice (/ə/).</li> <li><strong>Otevření čelisti:</strong> lehce otevřená na začátku, poté se uvolní.</li> <li><strong>Tvar rtů:</strong> začíná se zaoblenými rty, poté se stává neutrálním.</li> <li><strong>Napětí jazyka:</strong> přechází z mírného napětí do většího uvolnění.</li> <li><strong>Délka:</strong> dlouhá, protože zvuk klouže mezi pozicemi.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Začněte s jazykem ve vysoké zadní pozici (/ʊ/).</li> <li>Pomalu posuňte jazyk do centrální pozice (/ə/).</li> <li>Nechte oba zvuky plynule splynout, aniž by se oddělovaly.</li> <li>Cvičte s dvojicemi slov, například <em>tour</em> – <em>took</em>.</li> </ol>"
+      }
+    },
+    "21": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/f/ je nehlasné (bez vibrací hlasivek), zatímco /v/ je hlasité (hlasivky vibracejí)."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /f/</strong> je nehlasná labiodentální frikativa, vyslovovaná s:</p> <ul> <li><strong>Rty a zuby:</strong> Dolní ret se dotýká horních zubů.</li> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu prochází úzkým otvorem mezi rty a zuby.</li> <li><strong>Hlasivky:</strong> Nevibracejí.</li> <li><strong>Délka:</strong> může být prodloužena.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte dolní ret k horním zubům.</li> <li>Nechte vzduch protékat úzkým otvorem.</li> <li>Nepoužívejte hlas (porovnejte s /v/ – pokud cítíte vibrace v krku, jde o /v/).</li> <li>Cvičte s minimálními dvojicemi, například <em>fan</em> – <em>van</em>.</li> </ol>"
+      }
+    },
+    "22": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/v/ je hlasité (hlasivky vibracejí), zatímco /f/ je nehlasné (bez vibrací hlasivek)."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /v/</strong> je hlasitá labiodentální frikativa, vyslovovaná s:</p> <ul> <li><strong>Rty a zuby:</strong> Dolní ret se dotýká horních zubů.</li> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu prochází úzkým otvorem.</li> <li><strong>Hlasivky:</strong> Vibrace při výslovnosti.</li> <li><strong>Délka:</strong> může být prodloužena.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte dolní ret k horním zubům.</li> <li>Nechte vzduch protékat úzkým otvorem při použití hlasu.</li> <li>Porovnejte s /f/ – pokud cítíte vibrace, je to /v/; pokud ne, pak /f/.</li> <li>Cvičte s minimálními dvojicemi, například <em>fan</em> – <em>van</em>.</li> </ol>"
+      }
+    },
+    "23": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/θ/ je nehlasné, zatímco /ð/ je hlasité."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /θ/</strong> je nehlasná frikativa, vyslovovaná s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu prochází úzkou průduchou vytvořenou jazykem a horními řezáky.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka se lehce dotýká horních řezáků, aniž by zcela blokovala průtok vzduchu.</li> <li><strong>Hlasivky:</strong> Nevibracejí během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Lehce se dotkněte špičkou jazyka horních řezáků.</li> <li>Nechte vzduch plynule protékat mezi jazykem a zuby.</li> <li>Ujistěte se, že hlasivky jsou uvolněné a nevibrují.</li> </ol>"
+      }
+    },
+    "24": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/ð/ je hlasité (hlasivky vibracejí), zatímco /θ/ je nehlasné (bez vibrací hlasivek)."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ð/</strong> je hlasitá dentální frikativa, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> Špička jazyka se lehce dotýká horních řezáků.</li> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu prochází úzkou průduchou mezi jazykem a zuby.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> <li><strong>Délka:</strong> může být prodloužena.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte špičku jazyka na horní řezáky.</li> <li>Nechte vzduch protékat úzkou průduchou při vibracích hlasivek.</li> <li>Porovnejte /θ/ a /ð/ podle vibrací.</li> <li>Cvičte s minimálními dvojicemi, například <em>this</em> – <em>think</em>.</li> </ol>"
+      }
+    },
+    "25": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/s/ je nehlasné (bez vibrací hlasivek), zatímco /z/ je hlasité (hlasivky vibracejí)."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /s/</strong> je nehlasná alveolární frikativa, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> Špička jazyka je umístěna blízko alveolárního hřebene.</li> <li><strong>Průtok vzduchu:</strong> Úzký a kontinuální proud vzduchu vytváří tření.</li> <li><strong>Hlasivky:</strong> Nevibracejí.</li> <li><strong>Délka:</strong> může být prodloužena.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte špičku jazyka blízko alveolárního hřebene, aniž by se jím dotýkala.</li> <li>Nechte vzduch protékat úzkým otvorem, zatímco hlasivky zůstanou neaktivní.</li> <li>Porovnejte s /z/ a vnímejte vibrace.</li> <li>Cvičte s minimálními dvojicemi, například <em>sip</em> – <em>zip</em>.</li> </ol>"
+      }
+    },
+    "26": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/z/ je hlasité, což znamená, že hlasivky vibracejí, zatímco /s/ je nehlasné."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /z/</strong> je hlasitá souhláska, vyslovovaná s:</p> <ul> <li><strong>Vibrací hlasivek:</strong> Na rozdíl od /s/ hlasivky při výslovnosti /z/ vibracejí.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka je umístěna blízko alveolárního hřebene.</li> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu prochází úzkým otvorem.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte jazyk blízko alveolárního hřebene.</li> <li>Vyslovujte zvuk při výdechu, zatímco hlasivky vibracejí.</li> <li>Cvičte s minimálními dvojicemi, například <em>sip</em> – <em>zip</em>.</li> </ol>"
+      }
+    },
+    "27": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/ʃ/ je nehlasná postalveolární frikativa, zatímco /s/ je alveolární a /ʒ/ je její hlasitý protějšek."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ʃ/</strong> je nehlasná frikativa, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> Jazyk se umisťuje blízko stropu úst, mírně za alveolárním hřebenem.</li> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu vytváří tření.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte jazyk blízko stropu úst.</li> <li>Nechte vzduch plynule proudit, aniž by se aktivovaly hlasivky.</li> <li>Cvičte s minimálními dvojicemi, například <em>she</em> – <em>genre</em>.</li> </ol>"
+      }
+    },
+    "28": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/ʒ/ je hlasitá postalveolární frikativa, zatímco /ʃ/ je nehlasná a /z/ je alveolární."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ʒ/</strong> je hlasitá frikativa, vyslovovaná s:</p> <ul> <li><strong>Poloha jazyka:</strong> Jazyk se umisťuje blízko stropu úst, mírně za alveolárním hřebenem.</li> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu spolu s vibracemi hlasivek vytváří tření.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte jazyk blízko stropu úst.</li> <li>Nechte vzduch proudit při vibracích hlasivek.</li> <li>Cvičte s minimálními dvojicemi, například <em>vision</em> – <em>mission</em>.</li> </ol>"
+      }
+    },
+    "29": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/h/ je nehlasná glotální frikativa, zatímco /ʔ/ je glotální zástava a /x/ je velární frikativa."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /h/</strong> je nehlasná frikativa, vyslovovaná s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Měkký, plynulý proud vzduchu prochází otevřenou hrtanovou oblastí.</li> <li><strong>Poloha jazyka:</strong> Jazyk zůstává v neutrální pozici, v závislosti na následující samohlásce.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Nechte hlasivky zůstat otevřené, aby vzduch mohl volně proudit.</li> <li>Udržujte jazyk v neutrální pozici.</li> <li>Porovnejte s hlasitými souhláskami a všimněte si, že nedochází k vibracím.</li> </ol>"
+      }
+    },
+    "30": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/p/ je nehlasný bilabiální ploziv, zatímco /b/ je hlasitý a /f/ je frikativa."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /p/</strong> je nehlasný ploziv, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Krátké zastavení vzduchu uzavřením rtů, následované explozivním výdechem.</li> <li><strong>Poloha rtů:</strong> Rty jsou před uvolněním zcela zavřené.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Zcela zavřete rty.</li> <li>Vytvořte tlak vzduchu za rty.</li> <li>Rychle uvolněte vzduch, aby vznikl zvuk /p/.</li> </ol>"
+      }
+    },
+    "31": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/b/ je hlasitý bilabiální ploziv, zatímco /p/ je nehlasný a /m/ je nosový zvuk."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /b/</strong> je hlasitý ploziv, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Krátké zastavení vzduchu uzavřením rtů, následované explozivním výdechem.</li> <li><strong>Poloha rtů:</strong> Rty jsou zcela zavřené před uvolněním zvuku.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Zcela zavřete rty.</li> <li>Vytvořte tlak vzduchu za rty.</li> <li>Uvolněte vzduch s vibracemi hlasivek, aby vznikl zvuk /b/.</li> </ol>"
+      }
+    },
+    "32": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/t/ je nehlasný alveolární ploziv, zatímco /d/ je hlasitý a /θ/ je nehlasná dentální frikativa."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /t/</strong> je nehlasný ploziv, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Krátké zastavení vzduchu při stlačení špičky jazyka k alveolárnímu hřebenu (oblast těsně za horními řezáky), následované rychlým výdechem.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka se dotýká alveolárního hřebene a poté rychle uvolní.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte špičku jazyka proti alveolárnímu hřebenu, těsně za horními řezáky.</li> <li>Vytvořte tlak vzduchu za jazykem.</li> <li>Rychle uvolněte vzduch, aby vznikl zvuk /t/.</li> </ol>"
+      }
+    },
+    "33": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/d/ je hlasitý alveolární ploziv, zatímco /t/ je nehlasný a /ð/ je hlasitá dentální frikativa."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /d/</strong> je hlasitý ploziv, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Krátké zastavení vzduchu při stlačení špičky jazyka k alveolárnímu hřebenu, následované rychlým výdechem.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka se dotýká alveolárního hřebene a poté rychle uvolní.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte špičku jazyka proti alveolárnímu hřebenu, těsně za horními řezáky.</li> <li>Vytvořte tlak vzduchu za jazykem.</li> <li>Uvolněte vzduch s vibracemi hlasivek, aby vznikl zvuk /d/.</li> </ol>"
+      }
+    },
+    "34": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/k/ je nehlasný velární ploziv, zatímco /g/ je hlasitý a /t/ je alveolární ploziv."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /k/</strong> je nehlasný ploziv, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Krátké zastavení vzduchu při zvednutí zadní části jazyka směrem k měkkému patru (měkká část stropu úst), následované rychlým výdechem.</li> <li><strong>Poloha jazyka:</strong> Zadní část jazyka se dotýká měkkého patra a poté se rychle uvolní.</li> <li><strong>Hlasivky:</strong> Nevibracejí během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Zvedněte zadní část jazyka tak, aby se dotkla měkkého patra.</li> <li>Vytvořte tlak vzduchu za jazykem.</li> <li>Rychle uvolněte vzduch, aniž by hlasivky vibracely.</li> </ol>"
+      }
+    },
+    "35": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/g/ je hlasitý velární ploziv, zatímco /k/ je nehlasný."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /g/</strong> je hlasitý ploziv, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Krátké zastavení vzduchu při umístění zadní části jazyka k měkkému patru, následované rychlým výdechem.</li> <li><strong>Poloha jazyka:</strong> Zadní část jazyka se dotýká měkkého patra a poté se rychle uvolní.</li> <li><strong>Hlasivky:</strong> Vibrace při výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte zadní část jazyka proti měkkému patru.</li> <li>Vytvořte tlak vzduchu za jazykem.</li> <li>Rychle uvolněte vzduch s vibracemi hlasivek, aby vznikl zvuk /g/.</li> </ol>"
+      }
+    },
+    "36": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/m/ je hlasitá nosová souhláska, zatímco /n/ je hlasitá alveolární nosová a /ŋ/ je hlasitá velární nosová."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /m/</strong> je hlasitá nosová souhláska, vyslovovaná s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Vzduch je zadržován v ústech, když jsou rty uzavřené, a uniká nosem.</li> <li><strong>Poloha rtů:</strong> Rty jsou pevně stisknuté.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Pevně stiskněte rty.</li> <li>Nechte vzduch vycházet nosem, zatímco ústa zůstanou zavřená.</li> <li>Aktivujte hlasivky, aby vibrace vytvořily zvuk /m/.</li> </ol>"
+      }
+    },
+    "37": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/n/ je hlasitá alveolární nosová souhláska, zatímco /m/ je hlasitá bilabiální nosová a /ŋ/ je hlasitá velární nosová."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /n/</strong> je hlasitá nosová souhláska, která se tvoří:</p> <ul> <li><strong>Průtok vzduchu:</strong> Vzduch je veden nosem, zatímco průchod v ústech je uzavřen.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka se dotýká alveolárního hřebene, těsně za horními řezáky.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte špičku jazyka proti alveolárnímu hřebenu, těsně za horními řezáky.</li> <li>Snižte měkké patro, aby vzduch mohl protékat nosem.</li> <li>Aktivujte hlasivky pro vyvolání zvuku /n/.</li> </ol>"
+      }
+    },
+    "38": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/ŋ/ je hlasitá velární nosová souhláska, zatímco /n/ je hlasitá alveolární nosová a /m/ je hlasitá bilabiální nosová."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /ŋ/</strong> je hlasitá velární nosová souhláska, vyslovovaná s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Vzduch vychází nosem, když zadní část jazyka se dotýká měkkého patra a brání průchodu vzduchu v ústech.</li> <li><strong>Poloha jazyka:</strong> Zadní část jazyka se přitlačuje na měkké patro, čímž zabraňuje průchodu vzduchu v ústech.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Vyzdvihněte zadní část jazyka tak, aby se dotkla měkkého patra.</li> <li>Nechte vzduch proudit nosem, zatímco hlasivky vibracejí.</li> <li>Uvolněte jazyk pro dokončení zvuku /ŋ/.</li> </ol>"
+      }
+    },
+    "39": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/w/ je hlasitý labio-velární aproximant, zatímco /v/ je hlasitá labiodentální frikativa a /r/ je hlasitý alveolární aproximant."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /w/</strong> je hlasitý aproximant, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu bez tření.</li> <li><strong>Tvar rtů:</strong> Rty jsou zaoblené.</li> <li><strong>Poloha jazyka:</strong> Zadní část jazyka se přibližuje k měkkému patru, aniž by se jím dotkla.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Zaoblete rty.</li> <li>Přibližte zadní část jazyka k měkkému patru, aniž by se dotkla.</li> <li>Vyslovujte zvuk při udržení kontinuálního průtoku vzduchu a vibrací hlasivek.</li> </ol>"
+      }
+    },
+    "40": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/j/ je hlasitý palatální aproximant, zatímco /i/ je uzavřená, přední nezaoblená samohláska a /ʒ/ je hlasitá postalveolární frikativa."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /j/</strong> je hlasitý aproximant, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Volný průtok vzduchu, když se jazyk přibližuje k tvrdému patru bez vytváření tření.</li> <li><strong>Poloha jazyka:</strong> Střední část jazyka se zvedá směrem k tvrdému patru.</li> <li><strong>Tvar rtů:</strong> Obvykle neutrální nebo mírně rozšířený.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte střední část jazyka směrem k tvrdému patru, aniž by se jí dotkla.</li> <li>Nechte vzduch volně proudit přes jazyk, aniž by docházelo k tření.</li> <li>Ujistěte se, že hlasivky vibracejí při výslovnosti.</li> </ol>"
+      }
+    },
+    "41": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/r/ je hlasitý alveolární aproximant, zatímco /l/ je hlasitý laterální alveolární aproximant a /w/ je hlasitý labio-velární aproximant."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /r/</strong> je hlasitý aproximant, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Kontinuální proud vzduchu bez tření.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka se zvedá směrem k alveolárnímu hřebenu, těsně za horními řezáky, aniž by se jí dotkla, čímž vzniká úzký vzduchový kanál.</li> <li><strong>Tvar rtů:</strong> Často mírně zaoblené.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Zvedněte špičku jazyka směrem k alveolárnímu hřebenu, těsně za horními řezáky, aniž by se jí dotkla.</li> <li>Udržujte rty mírně zaoblené.</li> <li>Vyslovujte zvuk při udržení kontinuálního proudu vzduchu a vibrací hlasivek.</li> </ol>"
+      }
+    },
+    "42": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/l/ je hlasitý laterální alveolární aproximant, zatímco /r/ je hlasitý alveolární aproximant."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /l/</strong> je hlasitý laterální aproximant, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Vzduch proudí kolem boků jazyka.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka se dotýká alveolárního hřebene, těsně za horními řezáky.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte špičku jazyka proti alveolárnímu hřebenu.</li> <li>Ujistěte se, že vzduch proudí kolem boků jazyka.</li> <li>Aktivujte hlasivky, aby se správně vyslovilo /l/.</li> </ol>"
+      }
+    },
+    "43": {
+      "letters": {
+        "type": "nehlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/tʃ/ je nehlasný afrikát, který kombinuje ploziv /t/ s frikativem /ʃ/, zatímco /t/ je nehlasný alveolární ploziv a /ʃ/ je nehlasný postalveolární frikativ."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /tʃ/</strong> je nehlasný afrikát, vyslovovaný s:</p> <ul> <li><strong>Průtok vzduchu:</strong> Krátké zastavení vzduchu při stlačení špičky jazyka k alveolárnímu hřebenu, následované rychlým výdechem, který vytváří frikativní část.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka se dotýká alveolárního hřebene a poté se mírně posouvá dozadu, aby umožnila vznik frikativní části.</li> <li><strong>Hlasivky:</strong> Nevibracejí během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte špičku jazyka těsně za horní řezáky, na alveolární hřebenu.</li> <li>Vytvořte tlak vzduchu za jazykem.</li> <li>Rychle uvolněte vzduch, zatímco se jazyk mírně posune dozadu, aby vznikl zvuk /tʃ/ bez vibrací hlasivek.</li> </ol>"
+      }
+    },
+    "44": {
+      "letters": {
+        "type": "hlasné souhlásky"
+      },
+      "comparison": {
+        "difference": "/dʒ/ je hlasité, zatímco /tʃ/ je nehlasné. /dʒ/ začíná plozivem /d/ a následuje frikativ /ʒ/."
+      },
+      "description": {
+        "describe": "<p><strong>Zvuk /dʒ/</strong> je hlasitý postalveolární afrikát, tvořený:</p> <ul> <li><strong>Průtok vzduchu:</strong> Nejprve se zastaví vzduch stlačením špičky jazyka k alveolárnímu hřebenu, poté se rychle uvolní, aby vznikla frikace v postalveolární oblasti.</li> <li><strong>Poloha jazyka:</strong> Špička jazyka se dotýká alveolárního hřebene a poté se mírně posouvá dozadu směrem k postalveolární oblasti při výdechu.</li> <li><strong>Hlasivky:</strong> Vibrace během výslovnosti.</li> </ul> <p><strong>Návod k výslovnosti:</strong></p> <ol> <li>Umístěte špičku jazyka těsně za horní řezáky, na alveolární hřebenu.</li> <li>Vytvořte tlak vzduchu za jazykem.</li> <li>Rychle uvolněte vzduch, zatímco se jazyk mírně posune dozadu, aby vznikl zvuk /dʒ/ s vibracemi hlasivek.</li> </ol>"
+      }
+    }
+  }
+  
