@@ -15,7 +15,6 @@
         {"code": "sv", "name": "Swedish", "flag": "🇸🇪", "country": "Sweden"},
         {"code": "ar", "name": "Arabic", "flag": "🇸🇦", "country": "Saudi Arabia"},
         {"code": "bn", "name": "Bengali", "flag": "🇧🇩", "country": "Bangladesh"},
-        {"code": "ca", "name": "Catalan", "flag": "🇪🇸", "country": "Spain"},
         {"code": "cs", "name": "Czech", "flag": "🇨🇿", "country": "Czech Republic"},
         {"code": "da", "name": "Danish", "flag": "🇩🇰", "country": "Denmark"},
         {"code": "ko", "name": "Korean", "flag": "🇰🇷", "country": "South Korea"},
@@ -37,7 +36,7 @@
         "limitAdsTime": 300000,
         "mute": true,
         "admob": {
-            "enable": true,
+            "enable": false,
             "app_id": "ca-app-pub-7223114719058225~1138249478",
             "banner": "ca-app-pub-7223114719058225/6647319349",
             "interstitial": "ca-app-pub-7223114719058225/3302970704",
