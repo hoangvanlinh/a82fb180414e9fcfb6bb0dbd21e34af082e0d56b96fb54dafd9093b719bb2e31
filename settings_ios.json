@@ -15,7 +15,6 @@
         {"code": "sv", "name": "Swedish", "flag": "🇸🇪", "country": "Sweden"},
         {"code": "ar", "name": "Arabic", "flag": "🇸🇦", "country": "Saudi Arabia"},
         {"code": "bn", "name": "Bengali", "flag": "🇧🇩", "country": "Bangladesh"},
-        {"code": "ca", "name": "Catalan", "flag": "🇪🇸", "country": "Spain"},
         {"code": "cs", "name": "Czech", "flag": "🇨🇿", "country": "Czech Republic"},
         {"code": "da", "name": "Danish", "flag": "🇩🇰", "country": "Denmark"},
         {"code": "ko", "name": "Korean", "flag": "🇰🇷", "country": "South Korea"},
