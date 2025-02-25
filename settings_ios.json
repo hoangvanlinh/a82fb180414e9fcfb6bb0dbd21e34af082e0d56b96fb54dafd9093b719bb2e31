@@ -58,6 +58,8 @@
         "unity_ads": {
             "enable": false,
             "game_id": "5802043",
+            "banner": "Banner_iOS",
+            "interstitial": "Interstitial_iOS",
             "ecmp": "9"
         }
     },
